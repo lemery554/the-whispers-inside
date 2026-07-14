@@ -1,8 +1,8 @@
 # Town and Setting
 
-## Working location
+## Locked setting type
 
-Ashcroft, Connecticut is a working placeholder, not canon. Task TWI-005 decides the final town name and state.
+The Bennett family lives in a fictional American suburban town. No real town will be used. The state or region and fictional town name remain open under TWI-005; `Ashcroft, Connecticut` is no longer the working designation.
 
 ## Desired character
 

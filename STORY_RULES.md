@@ -42,6 +42,14 @@ Characters use uncertain descriptive language. No catchy label, species name, or
 
 Anna never says she is Brooke's biological mother. Brooke guides the conversation there; Anna answers carefully with technically true statements and permits the assumption.
 
+## Rule 11: The changed cannot directly lie
+
+No changed person knowingly states a direct falsehood. They can omit, misdirect, quote, answer narrowly, and exploit assumptions. Every changed-person line must survive a literal-truth audit.
+
+## Rule 12: Touch is not transmission
+
+Touch does not spread the illness, although neither Brooke nor the public can prove that. The source and route of transmission remain unexplained.
+
 Anna cannot directly lie. Whether that limitation governs every changed person is unresolved and must not be assumed.
 
 ## Rule 11: Curiosity wins over explanation

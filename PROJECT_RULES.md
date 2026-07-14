@@ -28,7 +28,8 @@
 - Do not give recovered people a formal category name.
 - Society changes gradually while normal systems continue operating.
 - Animals detect the change before people do.
-- Anna cannot directly lie. Whether this applies to every changed person remains an explicit open decision.
+- No changed person can knowingly state a direct falsehood. They may omit, redirect, answer narrowly, and exploit assumptions.
+- Touch does not transmit the illness, but the actual route remains unexplained and unknown to characters.
 - Anna uses the keypad code visible in an old family video to enter the Bennett home.
 - Anna takes Brooke's old journal, and the journal is the final proof that she studied Brooke.
 - Mark is away for work, never returns, and remains of unknown fate.

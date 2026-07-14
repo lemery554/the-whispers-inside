@@ -4,6 +4,11 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-14
 
+- Locked that touch does not transmit the illness while its actual spread remains unexplained.
+- Extended the no-direct-lie rule to every changed person and added a literal-truth dialogue audit rule.
+- Locked Brooke's channel as an unbranded personal account under her own name.
+- Locked the setting as a fictional suburb while leaving its region and town name open.
+- Locked the journal's original biological-mother letter, full name, Sarah's reason for sharing it, and clarified that the beach memory belongs to Brooke and Claire.
 - Completed the sourced hospital and gastrointestinal outbreak response reference.
 - Designed the Bennett house, including both floors, garage, keypad, gun route, siege geometry, escape route, sound map, and lighting map.
 - Populated the complete 30-day working chronology and fixed Anna's first house entry on Day 19.

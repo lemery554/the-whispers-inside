@@ -24,7 +24,7 @@ The book must read as a normal commercial novel, not a screenplay, transcript, c
 
 A severe stomach illness spreads through a slightly futuristic American suburb. Early symptoms include violent vomiting, severe diarrhea, fever, dehydration, tremors, and confusion. Hospitals use a vivid red liquid treatment that patients often vomit onto walls, beds, floors, clothes, and halls.
 
-Patients seem to recover. Then they grow obsessed with closeness, affection, touch, reassurance, and togetherness. Neediness becomes possession, manipulation, and violence when access is denied. They remain recognizable, retain memories and secrets, and may retain fragments of genuine personality. Anna cannot directly lie; whether the same restriction applies to every changed person remains unresolved.
+Patients seem to recover. Then they grow obsessed with closeness, affection, touch, reassurance, and togetherness. Neediness becomes possession, manipulation, and violence when access is denied. They remain recognizable, retain memories and secrets, and may retain fragments of genuine personality. No changed person can directly lie, but they can omit, misdirect, and exploit technically true statements.
 
 Seventeen-year-old Brooke Bennett documents what happens to her younger sister Claire, adoptive mother Sarah, and the surrounding world. Her videos help strangers identify patterns, but also expose her adoption wound, loneliness, fears, and longing to be understood. One recovered woman learns that force fails and becomes exactly the person Brooke will willingly trust.
 
@@ -66,7 +66,7 @@ Mark is in his mid-forties, dependable, practical, hands-on, and always fixing s
 
 Anna allows Brooke to conclude through implication that she is Brooke's biological mother. She is not. She is recovered, is not seeking Brooke's real mother, and has no bloodline or resistance objective. She wants only to get close to Brooke.
 
-Anna finds Brooke through YouTube. An old family video clearly shows someone entering the Bennett keypad code, which Anna uses to enter the house while Brooke is at school. She studies family photographs, adoption documents, Brooke's journal, and a letter from Brooke's biological mother. She learns the mother's real name, takes the journal, and makes limited changes to hair, makeup, clothing, eyebrows, posture, or jewelry to suggest resemblance. She cannot physically transform. Brooke assumes Claire stole the journal. Anna never directly claims motherhood and uses technically true statements that Brooke misinterprets. She sincerely believes she is loving Brooke. She does not uniquely care about Brooke and would use the same strategy with anyone she studied closely enough.
+Anna finds Brooke through YouTube. An old family video clearly shows someone entering the Bennett keypad code, which Anna uses to enter the house while Brooke is at school. She studies family photographs, adoption documents, Brooke's journal, and an original letter from Brooke's biological mother bearing her full name. Sarah let Brooke keep the letter because she wanted Brooke to know who her first mother was. Anna learns the mother's name, takes the journal, and makes limited changes to hair, makeup, clothing, eyebrows, posture, or jewelry to suggest resemblance. She cannot physically transform. Brooke assumes Claire stole the journal. Anna never directly claims motherhood and uses technically true statements that Brooke misinterprets. She sincerely believes she is loving Brooke. She does not uniquely care about Brooke and would use the same strategy with anyone she studied closely enough. The beach memory Anna later reads belongs to Brooke and Claire, not Brooke's biological mother.
 
 ### Cooper
 
@@ -104,7 +104,7 @@ Their apparent strength comes from ignoring pain, injury, and self-preservation,
 
 ### Contact, eyes, children, animals, and learning
 
-Whether touch transmits the illness is undecided and may remain unanswered. Eyes may briefly flicker bright green, especially during strong control, lying, violence, coordination, or loss of the original self, but the cause is never explained. Children are not immune and may show possession through tantrums, demands to be held, following, repetition, and treating people as favorite objects. Animals detect the change first.
+Touch does not transmit the illness, but characters and readers never learn the actual route of transmission. Eyes may briefly flicker bright green, especially during strong control, deception, violence, coordination, or loss of the original self, but the cause is never explained. Children are not immune and may show possession through tantrums, demands to be held, following, repetition, and treating people as favorite objects. Animals detect the change first.
 
 The whispers evolve emotionally rather than physically. Early commands demand proximity. Middle-stage guidance uses love and guilt. Later guidance teaches waiting, hope, choice, and respect for boundaries. Failed attempts teach the phenomenon: Claire shows that force fails, Sarah that guilt can fail, strangers that pursuit fails, and Anna that patience works.
 
@@ -116,7 +116,7 @@ There is no formal monster name. Do not use zombies, The Whispered, The Clingers
 
 ## 7. Brooke's documentation
 
-The vlog is central. It establishes character, preserves normal family life, documents Claire, enables comparisons, creates a survivor network, reveals patterns, attracts Anna, and provides Anna's psychological blueprint. `Remember This` is a possible but unlocked channel name.
+The vlog is central. It establishes character, preserves normal family life, documents Claire, enables comparisons, creates a survivor network, reveals patterns, attracts Anna, and provides Anna's psychological blueprint. The channel has no branded name and appears under Brooke Bennett's own name.
 
 Possible uploads progress from *Something Is Going Around* and *My Sister Is Sick* through *She's Better... I Think*, *I Think Something Is Wrong*, *Please Tell Me This Is Happening Somewhere Else*, *I Don't Think They're Sick Anymore*, and *If You're Watching This*.
 
@@ -143,7 +143,7 @@ Manipulation works through omission, emphasis, comfort, and repetition rather th
 
 Society does not collapse immediately. School remains open and is where Brooke first sees the pattern beyond Claire. Students and staff display subtle excessive closeness, changed food preferences, bathroom waiting, and news-derived language. Police respond normally early, then shift toward keeping families together. Stores, restaurants, work, media, and utilities continue while their meaning becomes wrong.
 
-Ashcroft, Connecticut is the working location but is not final. The desired suburb is close-knit but not tiny, with a hospital, high school, woods, grocery store, local news, back roads, cul-de-sacs, and proximity to larger cities. Key locations include the Bennett home and its upstairs hall, bedrooms, editing setup, kitchen, living room, garage or basement, and gun safe; the emergency department; school; grocery; streets; woods; and final escape road.
+The setting is a fictional American suburban town. Its state or region and final fictional name remain open. It is close-knit but not tiny, with a hospital, high school, woods, grocery store, local news, back roads, cul-de-sacs, and proximity to larger cities. Key locations include the Bennett home and its upstairs hall, bedrooms, editing setup, kitchen, living room, garage, and gun safe; the emergency department; school; grocery; streets; woods; and final escape road.
 
 ## 10. Story structure
 
@@ -217,7 +217,7 @@ Inspect and preserve existing material; store this brief; create the project str
 
 ## 17. Next development steps
 
-1. Lock the town, outbreak timeline, journal contents, Anna's exact visit timing and appearance choices, contact transmission, the broader direct-lying rule, Sarah and Brooke's unresolved argument, delayed police outcome, final eye-effect choice, and vlog name.
+1. Lock the town name and region, remaining journal contents, Anna's visit count and appearance choices, Sarah and Brooke's unresolved argument, delayed police outcome, and final eye-effect choice.
 2. Build a day-by-day calendar covering roughly one month.
 3. Build a 30-to-40-chapter outline.
 4. Draft and polish the prologue.
@@ -227,12 +227,10 @@ Inspect and preserve existing material; store this brief; create the project str
 ## 18. Current open questions
 
 - Final town and state
-- Whether contact transmits the illness
-- Whether the no-direct-lying rule applies to all changed people or only Anna
 - Exactly when Anna enters the house and whether she visits once or multiple times
-- The exact adoption materials and biological-mother letters in the journal
+- The private journal entry that gives Anna her strongest leverage
 - Whether the ending includes a green flicker
-- Brooke's vlog name and exact adoption history
+- Brooke's exact adoption history beyond the locked original letter
 - Exact duration and decline of other civic systems while school remains open
 - Exact Sarah-Brooke argument
 - Whether delayed police arrive too late or already changed

@@ -48,7 +48,9 @@ Mark is practical, dependable, hands-on, and likely works in a trade such as con
 
 Anna finds Brooke through YouTube. An old Bennett family video clearly shows someone entering the home keypad code in the background. Anna uses that code to enter the house while Brooke is at school. Inside, she studies family photographs, adoption documents, Brooke's old journal, and a letter from Brooke's biological mother. She learns the biological mother's real name and takes the journal, which Brooke initially assumes Claire stole.
 
-The journal is mostly unused now because Brooke records videos instead. It contains old personal writing, private fears, thoughts about Sarah, childhood memories, adoption materials, and letters written by or connected to Brooke's real biological mother. The exact contents remain open under TWI-007.
+The journal is mostly unused now because Brooke records videos instead. It contains old personal writing, private fears, thoughts about Sarah, childhood memories, adoption materials, and an original letter from Brooke's biological mother bearing her full name. Sarah allows Brooke to keep it because she wants Brooke to know who her first mother was, even though Brooke's curiosity hurts her. The private entry that gives Anna her strongest emotional leverage remains open under TWI-007.
+
+The beach memory belongs to Brooke and Claire as sisters. It is not a memory involving Brooke's biological mother. Brooke may have recorded it in the journal, which is how Anna can later read it.
 
 Anna makes limited, believable changes to hair, makeup, clothing, eyebrows, posture, or jewelry after studying photographs so Brooke is encouraged to perceive a resemblance. She cannot physically transform. Anna never directly says she is Brooke's mother. She uses technically true statements and lets Brooke supply the false interpretation.
 

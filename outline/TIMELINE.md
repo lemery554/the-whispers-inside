@@ -6,7 +6,7 @@
 |---|---|---|---|
 | 1 | Mark is already away for work. Ordinary Bennett morning, sister friction, Claire in Brooke's clothes, Cooper at the stairs. | Phase 1 begins: first national clusters, normal police response, school open. | Brooke records ordinary footage. An older public family video already exposes the keypad code. |
 | 2 | Brooke and Sarah argue about independence and unequal treatment, with exact scene blocked by #12. Brooke and Claire later bicker normally. | Graphic local reporting; emergency departments report gastrointestinal surges. | Brooke saves clips because reports conflict. |
-| 3 | Claire and Brooke's argument culminates in Brooke's cruel remark about biological mothers. Mark's call is late but normal enough. | School rumors spread; teachers discourage panic. | Upload 1 documents that something is going around. Low views and mockery. |
+| 3 | Claire and Brooke's argument culminates in Brooke's cruel remark about biological mothers. Mark's call is late but normal enough. | School rumors spread; teachers discourage panic. | Brooke posts the first outbreak upload under her own name. Low views and mockery. |
 | 4 | Cooper reacts before Claire admits stomach pain. Claire's purge begins at home and rapidly worsens. | Ambulances and police still operate normally. | Brooke records symptoms and Cooper's behavior, partly to establish what happened when. |
 | 5 | Hospital visit. Claire receives vivid red medicine, vomits it, and is treated for dehydration. Sarah is exhausted but protective. | Phase 1 peak: crowding, red-stained halls, conflicting reports, cautious isolation advice. | Brooke records discreetly. Mark's call breaks up; he promises to return when work permits. |
 | 6 | Claire's fever resolves and she appears recovered. She asks for mushrooms or another food she previously refused. | Phase 2 begins: officials emphasize survival and recovery. | Upload 2 covers Claire's illness; early comments accuse Brooke of exaggeration. |
@@ -42,4 +42,4 @@
 - School remains open through institutional drift.
 - Anna's first confirmed house entry is Day 19. A second visit cannot be added without resolving #7.
 - Brooke does not become sick, but the story never defines her as immune.
-- Transmission remains unstated until #1 is decided.
+- Touch does not transmit the illness, but no character knows the real route and exposure scenes must preserve that uncertainty.

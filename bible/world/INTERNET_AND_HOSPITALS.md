@@ -14,7 +14,7 @@ Possible video titles are not locked:
 - I Don't Think They're Sick Anymore
 - If You're Watching This
 
-Brooke's channel may be called `Remember This`, but task TWI-006 must decide it. Her public honesty teaches Anna how to reach her.
+Brooke does not give the channel a thematic brand. It appears under her own name, `Brooke Bennett`, like a casual personal filmmaking account. Individual upload titles carry the memorable language. Her public honesty teaches Anna how to reach her.
 
 ## Hospitals
 

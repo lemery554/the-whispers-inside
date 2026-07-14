@@ -42,7 +42,7 @@ They remember relationships, routines, nicknames, arguments, passwords, door cod
 
 ## Direct lying
 
-Locked canon: Anna cannot directly lie and instead permits technically true statements to be misunderstood. Whether this limitation applies to every changed person is unresolved under TWI-004. Until resolved, no planning document should assert that all changed people can lie.
+All changed people are incapable of making a statement they understand to be directly false. They can omit, redirect, answer only part of a question, repeat someone else's words, and allow an unaffected person to reach a false conclusion. Their restraint is not moral honesty. Anna is simply the most sophisticated known user of the limitation.
 
 ## Strength
 
@@ -67,7 +67,7 @@ Changed people never attack one another and recognize one another without a conf
 
 ## Transmission
 
-Whether physical contact spreads the illness remains open under TWI-003. Do not silently answer it.
+Physical contact does not transmit the illness. The craving for touch is psychological and possessive, not a biological transmission mechanism. Characters never confirm this and the actual route of transmission remains unknown.
 
 ## Animals
 

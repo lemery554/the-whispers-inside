@@ -6,11 +6,11 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 
 - [x] **TWI-001 | P0 | Decide Mark Bennett's role and fate**: Mark is away for work when the outbreak begins, his communications degrade, he never returns, and his fate remains intentionally unknown. Exact trade is a minor implementation detail.
 - [x] **TWI-002 | P0 | Decide Cooper's final role with Anna**: Cooper rides in the final car, permits Anna near Brooke, remains uneasy, watches Anna, and reacts to the journal reading without exposing her to Brooke.
-- [ ] **TWI-003 | P0 | Decide contact transmission**: Decide whether touch spreads the illness or whether the novel deliberately leaves transmission unknowable.
-- [ ] **TWI-004 | P0 | Decide the direct-lying rule**: Determine whether only Anna cannot directly lie or whether the restriction applies to every changed person. Audit dialogue implications.
-- [ ] **TWI-005 | P0 | Decide final town and state**: Validate the name, regional character, hospital access, roads, weather, and proximity to larger media markets.
-- [ ] **TWI-006 | P1 | Decide Brooke's vlog channel name**: Evaluate `Remember This` and alternatives against Brooke's voice and memory theme.
-- [ ] **TWI-007 | P0 | Decide exact journal contents**: Specify the biological-mother letters, adoption records, private writing, dates, and how each item can be misread by Brooke and used by Anna.
+- [x] **TWI-003 | P0 | Decide contact transmission**: Touch does not transmit the illness. The actual route remains unknown to characters and readers.
+- [x] **TWI-004 | P0 | Decide the direct-lying rule**: All changed people are unable to state direct falsehoods; they use omission, narrow truths, and misinterpretation.
+- [ ] **TWI-005 | P0 | Decide final town and state**: The setting is a fictional American suburb. State or region and town name remain open.
+- [x] **TWI-006 | P1 | Decide Brooke's vlog channel name**: The channel has no branded title and appears under Brooke Bennett's own name.
+- [ ] **TWI-007 | P0 | Decide exact journal contents**: Locked: original biological-mother letter, full name, Sarah permits it so Brooke knows her first mother, beach memory concerns Claire. The strongest private leverage entry remains open.
 - [x] **TWI-008 | P0 | Place Anna's school-day entry**: Anna's first confirmed entry is Day 19 while Brooke is at school. A possible additional visit remains controlled by TWI-009.
 - [ ] **TWI-009 | P0 | Decide whether Anna enters once or multiple times**: Balance fair clues against implausible access and avoid making Anna omniscient.
 - [ ] **TWI-010 | P1 | Decide ending eye effect**: Determine whether any subtle reflective green-eye effect appears after the journal reveal. It cannot be the reveal itself.
@@ -29,7 +29,7 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [ ] **TWI-017 | P0 | Complete character dossiers**: Add biography, appearance, personality, voice, habits, fear, regret, secrets, relationships, arc, and whisper effects for Brooke, Claire, Sarah, Mark, Anna, and Cooper.
 - [ ] **TWI-018 | P0 | Complete infection behavior matrix**: Incorporate locked sleep, eating, drinking, daily function, inevitable post-purge change, whisper repetition, recognition, and silent coordination; finish remaining rules for hunger, driving, pain, imitation, and resistance.
 - [ ] **TWI-019 | P1 | Complete internet and hospital progression**: Map institutional changes to story days and Brooke's growing audience.
-- [ ] **TWI-020 | P0 | Build the day-by-day one-month timeline**: All 30 days are populated and Anna's first entry is placed. Final acceptance is blocked by decisions TWI-003 through TWI-007, TWI-009, TWI-013, TWI-024, and TWI-025 where referenced in the file.
+- [ ] **TWI-020 | P0 | Build the day-by-day one-month timeline**: All 30 days are populated and Anna's first entry is placed. Final acceptance remains blocked by TWI-005, TWI-007, TWI-009, TWI-013, TWI-024, and TWI-025 where referenced in the file.
 - [ ] **TWI-021 | P0 | Complete Anna clue ledger**: Days, sources, interpretations, and knowledge limits are mapped. Final chapter assignments are blocked by TWI-007, TWI-009, and TWI-103.
 - [x] **TWI-022 | P1 | Build the news progression timeline**: Six phases are fixed to Days 1 through 30 across news, hospitals, school, police, 911, internet, and public language.
 - [ ] **TWI-023 | P0 | Run Foundation continuity audit**: Check time, geography, character knowledge, injuries, objects, symptoms, direct statements, and rejected concepts before closing M1.

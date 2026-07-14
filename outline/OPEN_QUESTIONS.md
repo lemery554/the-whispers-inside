@@ -4,11 +4,8 @@ Only unresolved decisions belong here. Locked canon is recorded in the bible. Re
 
 | Task | Priority | Decision |
 |---|---|---|
-| TWI-003 | P0 | Does physical contact spread the illness, or does the novel deliberately leave it unknowable? |
-| TWI-004 | P0 | Does the no-direct-lying rule apply to all changed people or only Anna? |
-| TWI-005 | P0 | What are the final town name and state? |
-| TWI-006 | P1 | What is Brooke's final vlog channel name? |
-| TWI-007 | P0 | Which exact adoption materials and biological-mother letters are in Brooke's journal? |
+| TWI-005 | P0 | Which state or region contains the locked fictional suburb, and what is its town name? |
+| TWI-007 | P0 | Which private journal entry gives Anna her strongest emotional leverage? |
 | TWI-009 | P0 | Does Anna enter the Bennett house once or multiple times? |
 | TWI-010 | P1 | Does the ending contain any subtle reflective green-eye effect? |
 | TWI-011 | P1 | What is the exact final line? Deferred until Revision, after the ending exists in prose. |
