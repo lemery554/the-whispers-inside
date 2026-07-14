@@ -1,6 +1,6 @@
 # Clue Ledger
 
-**Status:** Days assigned. Chapter positions remain provisional until issue #21 is unblocked. `ANNA_KNOWLEDGE_MATRIX.md` audits each source and interpretation.
+**Status:** Foundation clue system complete. Days are assigned; chapter positions will be assigned as part of issue #21. `ANNA_KNOWLEDGE_MATRIX.md` audits each source and interpretation.
 
 | ID | Reveal supported | Earlier clue | First-read interpretation | True meaning | Timing | Status |
 |---|---|---|---|---|---|---|

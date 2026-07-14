@@ -29,8 +29,8 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [ ] **TWI-017 | P0 | Complete character dossiers**: Add biography, appearance, personality, voice, habits, fear, regret, secrets, relationships, arc, and whisper effects for Brooke, Claire, Sarah, Mark, Anna, and Cooper.
 - [ ] **TWI-018 | P0 | Complete infection behavior matrix**: Incorporate locked sleep, eating, drinking, daily function, inevitable post-purge change, whisper repetition, recognition, and silent coordination; finish remaining rules for hunger, driving, pain, imitation, and resistance.
 - [ ] **TWI-019 | P1 | Complete internet and hospital progression**: Map institutional changes to story days and Brooke's growing audience.
-- [ ] **TWI-020 | P0 | Build the day-by-day one-month timeline**: All 30 days are populated and Anna's first entry is placed. Final acceptance remains blocked by TWI-005, TWI-007, TWI-009, TWI-013, TWI-024, and TWI-025 where referenced in the file.
-- [ ] **TWI-021 | P0 | Complete Anna clue ledger**: Days, sources, interpretations, and knowledge limits are mapped. Final chapter assignments are blocked by TWI-007, TWI-009, and TWI-103.
+- [x] **TWI-020 | P0 | Build the day-by-day one-month timeline**: All 30 days, major events, institutional phases, and Anna's first entry are placed. Later approved decisions update this living continuity document through their own tasks.
+- [x] **TWI-021 | P0 | Complete Anna clue ledger**: Days, sources, first-read interpretations, true meanings, and knowledge limits are mapped. Chapter-number assignment moves into TWI-103.
 - [x] **TWI-022 | P1 | Build the news progression timeline**: Six phases are fixed to Days 1 through 30 across news, hospitals, school, police, 911, internet, and public language.
 - [ ] **TWI-023 | P0 | Run Foundation continuity audit**: Check time, geography, character knowledge, injuries, objects, symptoms, direct statements, and rejected concepts before closing M1.
 
@@ -38,7 +38,7 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 
 - [ ] **TWI-101 | P0 | Map character arcs**: Define starting belief, pressure, choices, reversals, lowest point, climax behavior, and ending state.
 - [ ] **TWI-102 | P0 | Create master scene inventory**: List every necessary scene with POV, date, location, purpose, conflict, turn, clue, and dependency.
-- [ ] **TWI-103 | P0 | Build the 30-to-40-chapter outline**: Give every chapter a purpose, conflict, reveal, hidden clue, character movement, found-media use, and projected word count.
+- [ ] **TWI-103 | P0 | Build the 30-to-40-chapter outline**: Give every chapter a purpose, conflict, reveal, hidden clue, character movement, found-media use, projected word count, and final clue-ledger chapter assignments.
 - [ ] **TWI-104 | P0 | Design Anna's trust ladder**: Track permissions, technically true statements, misinterpretations, boundaries, hope, and Brooke's voluntary hug.
 - [ ] **TWI-105 | P1 | Design Claire and Sarah escalation ladders**: Keep their methods distinct, gradual, emotionally real, and synchronized with whisper evolution.
 - [ ] **TWI-106 | P1 | Plan Brooke's upload sequence**: Lock titles, contents, view growth, comments, survival value, and information Anna learns.

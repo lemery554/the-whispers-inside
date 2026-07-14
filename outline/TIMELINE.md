@@ -1,6 +1,6 @@
 # One-Month Outbreak Timeline
 
-**Status:** Authoritative working chronology. Locked events have fixed days. Bracketed issue references identify details that cannot be finalized without an author decision.
+**Status:** Authoritative living chronology. Locked events have fixed days. Bracketed issue references identify details that will be updated when their decision issues close.
 
 | Day | Brooke and family | Public progression | Videos, clues, and Anna |
 |---|---|---|---|
