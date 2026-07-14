@@ -29,6 +29,8 @@ Start current work in `planning/BACKLOG.md`. Drafting remains blocked until the 
 
 Discuss and resolve active decisions in [GitHub Issues](https://github.com/lemery554/the-whispers-inside/issues). The task-to-issue map lives in `planning/GITHUB_ISSUES.md`.
 
+Codex acts on an issue only when the user has added the `codex-ready` label. Comments without that label remain discussion.
+
 ## Source-of-truth order
 
 1. Latest explicit canon recorded in the focused bible and outline files

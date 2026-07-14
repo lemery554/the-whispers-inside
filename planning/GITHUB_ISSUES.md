@@ -6,11 +6,13 @@ GitHub Issues are the collaborative control surface for decisions and active wor
 
 1. Discuss or edit the relevant GitHub Issue.
 2. State the final decision clearly in a comment.
-3. Codex may implement the decision across the bible, timeline, clue ledger, architecture, and backlog.
-4. The implementing commit should reference the issue.
-5. Close the issue only after the repository source of truth matches the decision.
+3. Add the `codex-ready` label only when you want Codex to implement the commented decision.
+4. Codex must not implement an issue from comments alone.
+5. Once labeled, Codex may update the bible, timeline, clue ledger, architecture, and backlog.
+6. The implementing commit should reference the issue.
+7. Close the issue only after the repository source of truth matches the decision.
 
-The `codex-ready` label means Codex may implement once the comments contain a clear decision. It does not mean Codex should invent the answer.
+The `codex-ready` label is controlled by the user. Its absence means the issue is still being organized or discussed, even if comments contain a likely answer. Its presence means Codex may implement the clearest decision in the thread. It never authorizes Codex to invent a missing answer.
 
 ## Foundation decisions
 
