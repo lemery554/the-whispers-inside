@@ -44,7 +44,7 @@ Unaffected people cannot hear the whispers. Changed people hear them silently at
 
 Once the change is complete, the original person is effectively gone. Fragments may surface through unexplained crying, hesitation before violence, a loosened grip, confusion, or fear at their own behavior. These moments never become a full recovery or coherent cure path.
 
-Resistance fragments surface only under specific triggers: an overwhelming, deeply anchored emotional memory (Claire's beach memory), a direct threat to someone the fragment still recognizes as needing protection (Claire never harming Cooper), or a sudden interruption that breaks an immediate compulsion (a loud sound, an unexpected question). These moments last seconds, not minutes, and must not repeat identically for the same character across the book — each should read as a genuine crack, not a recurring mechanic. *(Flagged for `outline/OPEN_QUESTIONS.md`: exact frequency limits per character belong in continuity tracking, not locked here.)*
+Resistance fragments surface only under specific triggers: an overwhelming, deeply anchored emotional memory (Claire's beach memory), a direct threat to someone the fragment still recognizes as needing protection (Claire never harming Cooper), or a sudden interruption that breaks an immediate compulsion (a loud sound, an unexpected question). These moments last seconds, not minutes, and must not repeat identically for the same character across the book — each should read as a genuine crack, not a recurring mechanic. *(Exact per-character frequency limits are an open question tracked in `outline/OPEN_QUESTIONS.md`, OQ-03 — continuity tracking, not locked here.)*
 
 ## Memory and intelligence
 

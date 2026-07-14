@@ -158,26 +158,11 @@
 - **Continuity:** Touch remains non-transmissive but feared.
 - **Question answered / created:** Can changed people function normally? / Is Claire's pattern happening elsewhere?
 
-## Chapter 10: There You Are
+## Chapter 10: Frame by Frame
 
 - **Day:** 9
-- **Purpose / setting:** Deliver Claire's first undeniable violence in the hall bathroom.
-- **Emotional goal:** Irritation to fear.
-- **Conflict:** Brooke refuses to open the bathroom door for a hug.
-- **Reveal:** Claire breaks the lock and enters without anger.
-- **Hidden clues / payoff:** Claire injures her hand without reacting; doorway violations contrast with Anna's later permission.
-- **Character movement:** Brooke stops accepting trauma as a complete explanation.
-- **Tension:** 7/10
-- **Found media:** None; the private scene forces Brooke to trust memory temporarily.
-- **Estimated words:** 2,800
-- **Continuity:** Lock failure follows the house plan.
-- **Question answered / created:** Will Claire respect a boundary? / What will she do after stronger refusal?
-
-## Chapter 11: Frame by Frame
-
-- **Day:** 10
 - **Purpose / setting:** Turn Brooke's craft into investigative power.
-- **Emotional goal:** Fear to focused suspicion.
+- **Emotional goal:** Self-doubt to focused suspicion.
 - **Conflict:** Sarah insists Brooke is interpreting everything cruelly.
 - **Reveal:** Brooke finds the reflective green-eye effect in recorded footage.
 - **Hidden clues / payoff:** Claire whispers `Wait` when she thinks she is alone; the eye effect is clearer on camera.
@@ -187,6 +172,21 @@
 - **Estimated words:** 2,500
 - **Continuity:** Effect is reflective, brief, and unexplained.
 - **Question answered / created:** Did Brooke imagine the wrongness? / What is Claire listening to?
+
+## Chapter 11: There You Are
+
+- **Day:** 10
+- **Purpose / setting:** Deliver Claire's first undeniable violence in the hall bathroom.
+- **Emotional goal:** Suspicion to fear.
+- **Conflict:** Brooke refuses to open the bathroom door for a hug.
+- **Reveal:** Claire breaks the lock and enters without anger.
+- **Hidden clues / payoff:** Claire injures her hand without reacting; doorway violations contrast with Anna's later permission.
+- **Character movement:** Brooke stops accepting trauma as a complete explanation.
+- **Tension:** 7/10
+- **Found media:** None; the private scene forces Brooke to trust memory temporarily.
+- **Estimated words:** 2,800
+- **Continuity:** Lock failure follows the house plan.
+- **Question answered / created:** Will Claire respect a boundary? / What will she do after stronger refusal?
 
 # Part III: Recognition
 

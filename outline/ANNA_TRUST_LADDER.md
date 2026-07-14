@@ -139,7 +139,6 @@ This ladder runs on the public/parasocial track — comments, messages, eventual
 - Every escalation in physical/emotional access is initiated or permitted by Brooke, not taken by Anna, consistent with STORY_RULES Rule 15.
 - Nothing here implies Anna's strategy is unique to Brooke — the ladder is built from patience and observation, replicable with anyone sufficiently studied, consistent with STORY_RULES Rule 18.
 
-## Flags for `outline/OPEN_QUESTIONS.md`
+## Open questions
 
-- Exact chapter placement for each rung isn't fixed here — cross-reference against the chapter outline (TWI-103) so the ladder's pacing matches the book's actual chapter count and doesn't feel compressed or padded.
-- Rung 5's meeting location/setting is left generic — a specific, concrete location should be locked once it's chosen for the actual scene.
+Unresolved items raised by this file (rung-to-chapter placement, Rung 5's meeting location) are tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-04, OQ-05).

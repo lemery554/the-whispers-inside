@@ -158,7 +158,6 @@ Cooper detects changed people before humans do. He growls at Claire after recove
 
 ---
 
-## Open flags for `outline/OPEN_QUESTIONS.md`
+## Open questions
 
-- Mark's regret/secret fields left intentionally blank — confirm this is the desired permanent treatment rather than a placeholder.
-- Claire's changed-state "fear" is described as inarticulate panic rather than a nameable fear — confirm this reads as intended rather than needing a sharper single image.
+Unresolved items raised by this file (Mark's blank dossier fields, Claire's changed-state fear) are tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-01, OQ-02).

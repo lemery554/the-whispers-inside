@@ -35,17 +35,17 @@ Every necessary scene in the book, one row per scene, with POV, story day, locat
 | S08 | 6 | Bennett house | Make denial believable through relief | Brooke distrusts Claire's fast recovery; Sarah needs to believe it | Claire requests mushrooms, a food she hated | Appetite change; Cooper won't accept Claire's invitation (C-ladder) | S05, S06 |
 | S09 | 7 | Bennett house | Begin behavioral escalation inside affection | Claire wants constant proximity; Brooke needs privacy | Cooper growls at Claire for the first time | **C-ladder C3** ("Sit with me"); Claire doesn't retaliate; Anna first meets uploads off-page | S08 |
 | S10 | 8 | Bennett house / kitchen | Wrongness coexists with daily function | Sarah defends Claire's habits, calls Brooke unkind | Recovered students already returning to school | Claire eats disliked foods; Brooke starts observation list; Mark's text late | S09 |
-| S11 | 9 | Bennett house, hall bathroom | Claire's first undeniable violence | Brooke refuses to open the door for a hug | Claire breaks the lock and enters without anger | **C-ladder C6** (breaking barriers); Claire injures hand without reacting (pain/no self-preservation) | S09 |
-| S12 | 10 | Brooke's room, editing | Turn craft into investigative power | Sarah insists Brooke interprets everything cruelly | Brooke finds the reflective green-eye effect on footage | Eye effect (clearer on camera); Claire whispers "Wait" alone | S11 |
+| S11 | 9 | Brooke's room, editing | Turn craft into investigative power | Sarah insists Brooke interprets everything cruelly | Brooke finds the reflective green-eye effect on footage | Eye effect (clearer on camera); Claire whispers "Wait" alone | S09, S10 |
+| S12 | 10 | Bennett house, hall bathroom | Claire's first undeniable violence | Brooke refuses to open the door for a hug | Claire breaks the lock and enters without anger | **C-ladder C6** (breaking barriers); Claire injures hand without reacting (pain/no self-preservation) | S09, S11 |
 
 ## Part III — Recognition
 
 | # | Day | Location | Purpose | Conflict | Turn / Reveal | Clue | Depends on |
 |---|---|---|---|---|---|---|---|
-| S13 | 11 | School | Prove Claire is not unique | Brooke observes behavior others normalize | Strangers sit pressed together; a student waits outside a bathroom | Changed recognize one another silently; counselor repeats TV wording | S09, S12 |
-| S14 | 12 | Bennett house / phone | Memory as a weapon, not a comfort | Claire uses a shared private memory to coax Brooke closer | Mark's live call has background voices, cuts off | **C-ladder C5**; Claire loosens grip one second; Mark's last live contact | S07, S11 |
+| S13 | 11 | School | Prove Claire is not unique | Brooke observes behavior others normalize | Strangers sit pressed together; a student waits outside a bathroom | Changed recognize one another silently; counselor repeats TV wording | S09, S11 |
+| S14 | 12 | Bennett house / phone | Memory as a weapon, not a comfort | Claire uses a shared private memory to coax Brooke closer | Mark's live call has background voices, cuts off | **C-ladder C5**; Claire loosens grip one second; Mark's last live contact | S07, S12 |
 | S15 | 13 | Bennett house | Show Claire's surviving fragment | Brooke tries to reach Claire mid-possessive-episode | Claire cries without knowing why, loosens her hold | **EM-01 payoff / C-ladder C7**; cruel line (S03) echoes; beach memory | S03, S14 |
-| S16 | 14 | Brooke's room / online | Expand uploads into a survivor network as Sarah falls ill | Thousands confirm Brooke's observations; Sarah hides symptoms | Sarah begins the purge | Comments establish dogs/sleepless watching/separation; Brooke reveals adoption pain (feeds AN-04) | S12, S13 |
+| S16 | 14 | Brooke's room / online | Expand uploads into a survivor network as Sarah falls ill | Thousands confirm Brooke's observations; Sarah hides symptoms | Sarah begins the purge | Comments establish dogs/sleepless watching/separation; Brooke reveals adoption pain (feeds AN-04) | S11, S13 |
 | S17 | 15 | Bennett house | Put Brooke in the caretaker role | Brooke manages sick Sarah while Claire demands attention | Claire watches Brooke sleep instead of resting | **C-ladder C4**; Mark's delayed message technically-true-but-wrong; hospital anti-separation messaging | S16 |
 | S18 | 16 | Bennett house | Introduce changed Sarah through warmth | Sarah treats Brooke's vigilance as another attempt to leave | Sarah's concern mirrors the workshop argument | **S-ladder S2**; Sarah checks Brooke's breathing; Mark misses promised call | S02, S17 |
 | S19 | 17 | Bennett house / news / school | Align household control with institutional drift | Sarah restricts Brooke's movement; news and school validate her | Different institutions use the same reunion language | **S-ladder S3**; **AN-01 to archive** (keypad footage public, Anna studies off-page); Upload 6 = Anna's blueprint | S16, S18 |
@@ -75,7 +75,7 @@ Every necessary scene in the book, one row per scene, with POV, story day, locat
 | S33 | 28 | Anna's car / shelter | Begin the trust ladder through practical care | Brooke needs water, shelter, rest; fears obligation | Anna accepts every limit without bargaining | **Trust-ladder Rung 7 (boundary respected)**; behavior answers the journal's safe-distance entry; reader-facing "Wait" may escape (**AN-10**) | S21, S32 |
 | S34 | 28 | Anna's car / shelter | Let Brooke build the biological-mother interpretation | Brooke tests Anna with adoption questions and private language | Anna knows the full name, never explains beyond what's asked | **Trust-ladder Rungs 4 & 6**; **AN-04** (Brooke's own phrasing), **AN-05**; "Every second," "I knew you were waiting" trace to videos/journal | S16, S21, S33 |
 | S35 | 29 | On the move / roadside | Make Anna safer than any alternative | Brooke wants proof but fears asking will destroy the hope | Anna offers to leave the decision and destination to Brooke | **Trust-ladder Rung 5 & 8**; photo-derived styling works cumulatively (**AN-09**); Cooper's tolerance mistaken for approval | S32, S34 |
-| S36 | 29 | Quiet interior | Complete the strategy: Brooke's voluntary hug | Does accepting comfort mean surrendering judgment? | **Brooke initiates the embrace; Anna does not reach first** | **Trust-ladder Rung 9 (payoff)**; inverts Claire's force, Sarah's guilt, strangers' pursuit | S11, S28, S26, S35 |
+| S36 | 29 | Quiet interior | Complete the strategy: Brooke's voluntary hug | Does accepting comfort mean surrendering judgment? | **Brooke initiates the embrace; Anna does not reach first** | **Trust-ladder Rung 9 (payoff)**; inverts Claire's force, Sarah's guilt, strangers' pursuit | S12, S28, S26, S35 |
 
 ## Part VI — The Last Lesson
 
@@ -98,16 +98,13 @@ Every planted clue must have its planting scene precede its payoff scene. Confir
 - **Missing journal / second entry:** S21 (AN-03) → leveraged S34 → resolved S49.
 - **Beach memory / cruel line:** planted S03 (EM-01) → Claire's crack S15 → reread S49.
 - **Red medicine:** S00 → S06.
-- **Green-eye effect:** S12 → (deferred final-image eye effect, TWI-010).
-- **Whisper repetition:** "Wait" S12 → "Not yet" S22 → "Wait" near Anna S33 (AN-10).
+- **Green-eye effect:** S11 → (deferred final-image eye effect, TWI-010).
+- **Whisper repetition:** "Wait" S11 → "Not yet" S22 → "Wait" near Anna S33 (AN-10).
 - **Escape geometry / gun-safe:** rehearsed S24 → siege payoff S30–S31.
 - **911 corruption:** S30 (IN-01), single-beat, self-contained.
 - **Anna's resemblance styling:** prepared off-page S22 → seen S32 → cumulative S35 → resolved S49 (AN-09).
 - **Mark comms degradation:** S07 → S14 (last live) → S17/S18 (missed calls) → never resolved (intentional, TWI-001).
 
-## Flags for `outline/OPEN_QUESTIONS.md`
+## Open questions
 
-- **Chapter↔scene mapping:** this inventory keeps ~1–2 scenes per chapter. Chapters 6, 26, and 27 are split (S06/S07, S28/S29, S30/S31); confirm those splits match intended chapter breaks or fold them if TWI-103 wants one continuous scene.
-- **AN-02 exact displaced object** is still blocked (CLUE_LEDGER #5) — S20's specific object is a placeholder until locked.
-- **Deferred beats** (ending eye effect TWI-010, final line TWI-011) are intentionally not scened here; S49's continuity note in TWI-103 already flags them.
-- **Scene-count for pacing:** 49 scenes over ~93,500 words averages ~1,900 words/scene; verify against the found-media ratio (10–15%) in the TWI-108 pacing pass.
+Unresolved items raised by this file (chapter↔scene splits, AN-02's placeholder object, the ~1,900-words/scene pacing check) are tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-08, OQ-09, OQ-10). Deferred beats (ending eye effect TWI-010, final line TWI-011) are intentionally not scened here.

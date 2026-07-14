@@ -54,7 +54,7 @@ Claire is the collective's first, worst-calibrated attempt. She wants closeness 
 
 ### C6 — Breaking the lock *(first undeniable violence)*
 - **Step:** 9 (Breaking barriers) — Claire jumps to step 9 early. This is the ladder's defining feature: **early-stage whispers reach for force the moment asking fails**, which is exactly why Claire fails.
-- **Day/Chapter:** Day 9 / Ch 10 ("There You Are"). *(Note continuity: the breakthrough-violence beat is placed before C5's memory-lure in story-day terms — see Flags; the ladder is emotional-logical, not strictly monotonic by day.)*
+- **Day/Chapter:** Day 10 / Ch 11 ("There You Are"). *(Note continuity: the breakthrough-violence beat still precedes C5's memory-lure at Day 12 in story-day terms — see central Open Questions; the ladder is an emotional-escalation model, not strictly monotonic by day.)*
 - **Behavior:** Brooke refuses to open the bathroom door; Claire breaks the lock and enters **without anger**. She only wants a hug.
 - **Fragment/tell:** Injures her hand on the lock and does not react in the moment (pain felt, self-preservation absent, `RULES.md` "Strength and pain"). A private wince or later tending may show the pain registered.
 - **Deniability:** Gone. This is the rung where Brooke stops accepting "trauma" as a complete explanation. **This is the failure the collective learns from** — force got contact and destroyed trust (`EVOLUTION.md` early stage).
@@ -158,8 +158,6 @@ The three ladders are one escalating argument the book makes about love-as-posse
 - Methods stay distinct: Claire never uses guilt; Sarah never breaks a barrier to *reach* Brooke — she uses the gun to breach a barrier Brooke put up, which is a different action.
 - Synchronization matches `EVOLUTION.md` stage order and hands off via Claire's "Not yet" (C8) and Sarah's collapse (S6).
 
-## Flags for `outline/OPEN_QUESTIONS.md`
+## Open questions
 
-- **Claire day-order vs. ladder-order:** C6 (bathroom lock, Day 9) precedes C5 (memory lure, Day 12) in story days, though the memory lure is emotionally a "lower" rung. Confirm the ladder is understood as an emotional-escalation model, not a strict day-monotonic sequence — or reorder the Day 9/Day 12 beats in TWI-103 if strict monotonicity is wanted.
-- **Fragment frequency:** per-character limits on how often fragments surface belong in continuity tracking (already flagged in `RULES.md`), not locked here.
-- **Sarah's terminal placement (S7):** fate after the siege is written to stay compatible with multiple endings; confirm against TWI-107 (ending fairness audit).
+Unresolved items raised by this file (Claire day-order vs. ladder-order, fragment frequency, Sarah's terminal placement) are tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-07, OQ-03, OQ-06).

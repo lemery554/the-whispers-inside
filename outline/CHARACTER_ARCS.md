@@ -104,7 +104,6 @@ Maps each character's starting belief, the pressure applied across the month, th
 
 ---
 
-## Flags for `outline/OPEN_QUESTIONS.md`
+## Open questions
 
-- Sarah's precise fate/placement after the climax needs confirmation once TWI-107 (ending fairness audit) runs — arc above is written to be compatible with multiple specific endings.
-- Mark's arc fields are intentionally left blank — confirm this stays permanent rather than becoming a task to revisit later.
+Unresolved items raised by this file (Sarah's post-climax fate, Mark's blank arc fields) are tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-06, OQ-01).
