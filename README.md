@@ -2,6 +2,12 @@
 
 Development repository for *The Whispers Inside*, a psychological family-horror novel about trust, memory, and love becoming possession.
 
+## Story hook
+
+When a violent stomach illness sweeps through her suburban town, seventeen-year-old Brooke Bennett turns to her camera to preserve the truth. The people who survive seem healthy, but recovery leaves them desperate for affection, reassurance, and physical closeness. They still remember every private joke, family argument, password, and regret. They still say they love you. They simply no longer understand why love should ever let someone leave.
+
+As Brooke documents the changes in her younger sister, her mother, and the world beyond their front door, her videos become a lifeline for frightened strangers. They also reveal exactly how to earn her trust. Somewhere among the people watching is someone patient enough to learn that the safest way to reach Brooke is not to chase her, but to become the person she will choose to follow.
+
 ## Project status
 
 Pre-draft development. The current goal is to complete the novel bible, one-month timeline, clue ledger, house plan, research, and chapter outline. Do not draft the prologue or full novel until the Foundation and Story Design gates are complete.
