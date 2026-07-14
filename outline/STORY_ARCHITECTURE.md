@@ -2,36 +2,38 @@
 
 ## Prologue
 
-Public awareness begins through overwhelmed hospitals, dispatches, clips, red medicine, violent vomiting, conflicting reports, and surprising recovery. Use real novel prose and no authoritative explanation.
+Public awareness begins through ordinary commercial prose: emergency calls, an overwhelmed hospital, vivid red medicine, near-simultaneous vomiting, conflicting reports, and patients who appear to recover. No authoritative explanation is provided.
 
 ## Part One: Before
 
-Establish Brooke, Claire, Sarah, Mark, Cooper, the Bennett home, Brooke's filmmaking, adoption wound, believable family affection and friction, school, and suburban normality. Let readers know and miss the real Claire before she becomes ill.
+Establish Brooke's isolation, camera habit, lack of romantic subplot, reliance on Claire, adoption wound, and ordinary Bennett family affection. Establish Cooper, the home, the keypad, and family-video archive without drawing attention to future clue value.
 
-## Part Two: Claire Gets Sick
+## Part Two: Claire's Purge and Recovery
 
-Cooper reacts first. Claire's violent illness leads to the crowded hospital and red medicine. She apparently recovers, then becomes clingy, intrusive, watchful, repetitive, and responsive to whispers. A green flicker hides in footage.
+Cooper reacts first. Claire becomes violently ill and goes to the hospital. Red medicine and institutional strain enter the story. Claire appears healthy afterward but develops changed food preferences and increasing proximity needs. Cooper growls at her. Her first undeniable violent act is breaking the bathroom lock because Brooke will not let her in. Claire enters calmly because she only wants a hug.
 
 ## Part Three: Recognition
 
-Brooke's uploads attract matching accounts. She compares comments, recordings, Cooper's behavior, and changing broadcasts, then begins a plain-language observation list. Claire escalates. Sarah becomes ill.
+Brooke's uploads attract matching reports and grow into an information network. She compares footage, comments, food changes, Cooper's behavior, reflective eye effects, and changing broadcasts. Claire cries without knowing why during a disturbing moment, showing a fragment of her original personality without offering a coherent warning. Sarah becomes sick.
 
 ## Part Four: Sarah and the House
 
-Sarah recovers into controlling maternal devotion. The home becomes a prison and the door motif escalates. During the signature chase, Brooke persuades Sarah to open the front door and escapes strangers only to hear, "You came home." In the bedroom siege, Sarah moves from pleading and guilt to retrieving Mark's firearm and shooting through the door. Brooke escapes through the window.
+Sarah recovers into possessive maternal care. Institutions and online platforms increasingly encourage reunion. Changed strangers chase Brooke, proving the need for closeness is not limited to existing relationships. Sarah initially refuses to open the front door, then maternal attachment responds to Brooke's apology and plea. Sarah saves Brooke, locks the door, turns, and may say, "You came home."
+
+During the bedroom siege, Sarah pleads, scratches, bangs, and uses guilt before going silent. Brooke hears Mark's gun safe. Sarah returns with the firearm and shoots through the bedroom door. Brooke escapes through the window.
 
 ## Part Five: Anna
 
-Anna lets Brooke infer a biological connection using public information and materials acquired inside the Bennett home. She respects boundaries and waits for Brooke to choose trust. Brooke's first voluntary post-outbreak hug is given to Anna.
+Anna found Brooke through YouTube, recovered the Bennett keypad code from an old family video, entered the house, studied family and adoption materials, and took Brooke's old journal. Brooke believed Claire stole it. Anna uses patience, permission, gentleness, and technically true statements. She never directly lies. Brooke voluntarily gives Anna the first embrace she has chosen since the outbreak escalated.
 
 ## Ending
 
-Brooke sleeps safely in Anna's passenger seat. Anna quietly produces the private object Brooke thought was lost, preferably her old journal, and continues reading. The proof reveals study rather than kinship without a speech, attack, or simple eye-flicker twist.
+Brooke sleeps in the passenger seat while Anna drives. Anna removes Brooke's missing journal and reads. The reader understands that Anna entered the house, stole the journal, studied Brooke, and is not Brooke's biological mother. Anna may smile gently because she believes she finally understands love. Any reflective eye effect is optional and cannot carry the reveal.
 
-## Scale
+## Scale and drafting gate
 
-- Story duration: approximately one month
-- Target length: 85,000 to 100,000 words
-- Target chapters: 30 to 40
-- Typical chapter: approximately 2,000 to 3,500 words
-- Found media: approximately 10 to 15 percent
+- Approximately one month
+- 85,000 to 100,000 words
+- 30 to 40 chapters
+- Roughly 10 to 15 percent found media
+- No prologue or chapter drafting until the bible, timeline, clue ledger, and P0 story-design tasks are accepted

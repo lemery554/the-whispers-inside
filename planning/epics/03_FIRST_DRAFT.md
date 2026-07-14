@@ -4,7 +4,7 @@
 
 **Priority:** P0 after M2
 
-**Depends on:** Drafting gate TWI-109
+**Depends on:** Drafting gate TWI-109 and approved prologue TWI-110
 
 ## Outcome
 
@@ -16,4 +16,4 @@ Target 2,000 to 3,000 words per week. Quality and reliable forward motion matter
 
 ## Included tasks
 
-TWI-201 through TWI-205.
+TWI-201 through TWI-204.

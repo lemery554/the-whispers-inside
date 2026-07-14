@@ -1,0 +1,34 @@
+# Emotional Evolution of the Whispers
+
+The whispers do not evolve physically. Across roughly one month, they learn emotional strategy from failed human interactions. The exact method of shared learning remains unexplained.
+
+## Early stage: proximity commands
+
+- Stay close.
+- Hold her.
+- Do not let her leave.
+
+The behavior is direct, repetitive, and poorly calibrated. Claire demonstrates that force can obtain contact but destroy trust and provoke escape.
+
+## Middle stage: emotional leverage
+
+- Tell her you love her.
+- She needs you.
+- She misses you.
+- Make her feel guilty.
+
+The behavior uses retained memories, concern, obligation, and relationship roles. Sarah demonstrates that even genuine maternal love and precise guilt can fail when control becomes visible.
+
+## Later stage: learned psychology
+
+- Do not force her.
+- Wait.
+- Let her choose.
+- Give her hope.
+- Respect her boundaries.
+
+Strangers demonstrate that chasing fails. Anna represents the first major success in patience, permission, and emotional understanding.
+
+## Emotional truth
+
+The changed genuinely feel love, but define it as possession, permanent proximity, and the end of separation. Anna is not consciously performing evil. She believes she has finally learned how love works.

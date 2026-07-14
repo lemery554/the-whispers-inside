@@ -12,6 +12,6 @@ Choose and execute a professional publication path: traditional, self-published,
 
 ## Included tasks
 
-TWI-401 through TWI-406.
+TWI-401 through TWI-403.
 
 Publication packaging begins only after the manuscript is genuinely ready. Cover concepts, formatting, and marketing should not distort story decisions during foundation or drafting.

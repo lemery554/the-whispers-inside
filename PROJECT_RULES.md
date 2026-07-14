@@ -12,6 +12,7 @@
 - Use close third-person centered mainly on Brooke Bennett.
 - Write normal commercial novel prose with full scenes, natural paragraphs, and age-appropriate dialogue.
 - Keep found media to roughly 10 to 15 percent of the novel.
+- Brooke has no romantic subplot.
 - Avoid screenplay formatting, transcript-heavy presentation, creepypasta rhythms, frequent fragments, and excessive one-line paragraphs.
 - Avoid em dashes and overused italics.
 - Let readers notice implications. Do not overexplain fear or rely on cheap jump scares.
@@ -26,7 +27,10 @@
 - Do not give recovered people a formal category name.
 - Society changes gradually while normal systems continue operating.
 - Animals detect the change before people do.
-- The ending relies chiefly on proof that Anna studied Brooke, preferably a missing journal or private object, not merely a green-eye reveal.
+- Anna cannot directly lie. Whether this applies to every changed person remains an explicit open decision.
+- Anna uses the keypad code visible in an old family video to enter the Bennett home.
+- Anna takes Brooke's old journal, and the journal is the final proof that she studied Brooke.
+- The ending does not rely only on a reflective green-eye effect.
 
 ## Continuity practice
 

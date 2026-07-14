@@ -42,6 +42,8 @@ Characters use uncertain descriptive language. No catchy label, species name, or
 
 Anna does not say she is Brooke's biological mother unless Brooke leads the conversation there. Anna guides inference, answers carefully, and prefers technically true statements.
 
+Anna cannot directly lie. Whether that limitation governs every changed person is unresolved and must not be assumed.
+
 ## Rule 11: Curiosity wins over explanation
 
 Every new idea must answer: **Does this make the reader more curious, or does it explain too much?** If it reduces productive uncertainty without creating a stronger emotional consequence, reject it.
@@ -57,3 +59,7 @@ Anna adapts to failed aggression by honoring boundaries. The tragedy requires Br
 ## Rule 14: Continuity is evidence
 
 Symptoms, timing, geography, injuries, knowledge, media changes, and character access must remain internally consistent. Mystery is not permission for contradiction.
+
+## Rule 15: Love remains emotionally real
+
+Changed people are not knowingly faking love. They sincerely redefine it as possession, permanent closeness, and protection from separation.

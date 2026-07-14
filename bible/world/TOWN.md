@@ -2,7 +2,7 @@
 
 ## Working location
 
-Ashcroft, Connecticut is the current working town and state, but both require validation before publication.
+Ashcroft, Connecticut is a working placeholder, not canon. Task TWI-005 decides the final town name and state.
 
 ## Desired character
 

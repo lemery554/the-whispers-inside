@@ -16,7 +16,7 @@ Create a reliable author-facing model of the people, month, places, clues, and b
 
 ## Included tasks
 
-TWI-001 through TWI-016 in `planning/BACKLOG.md`.
+TWI-001 through TWI-023 in `planning/BACKLOG.md`.
 
 ## Deliverables
 

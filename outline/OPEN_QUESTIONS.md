@@ -1,35 +1,21 @@
 # Open Questions
 
-No item below is canon until explicitly locked.
+Only unresolved decisions belong here. Locked canon is recorded in the bible. Rejected directions are recorded in `notes/REJECTED_IDEAS.md`.
 
-## World and timeline
+| Task | Priority | Decision |
+|---|---|---|
+| TWI-001 | P0 | What is Mark Bennett's occupation, outbreak role, location, and fate? |
+| TWI-002 | P0 | What is Cooper's final role when Anna arrives? |
+| TWI-003 | P0 | Does physical contact spread the illness, or does the novel deliberately leave it unknowable? |
+| TWI-004 | P0 | Does the no-direct-lying rule apply to all changed people or only Anna? |
+| TWI-005 | P0 | What are the final town name and state? |
+| TWI-006 | P1 | What is Brooke's final vlog channel name? |
+| TWI-007 | P0 | Which exact adoption materials and biological-mother letters are in Brooke's journal? |
+| TWI-008 | P0 | On which story day does Anna first enter the Bennett house? |
+| TWI-009 | P0 | Does Anna enter the Bennett house once or multiple times? |
+| TWI-010 | P1 | Does the ending contain any subtle reflective green-eye effect? |
+| TWI-011 | P1 | What is the exact final line? |
+| TWI-012 | P1 | How long do school and other civic systems remain normally operational? |
+| TWI-013 | P1 | Does the novel use any limited alternate chapters, or remain entirely with Brooke? |
 
-- Is Ashcroft the final town name, and is Connecticut final?
-- What is the exact day-by-day outbreak timeline?
-- How long do school and other civic systems remain open?
-
-## Family and supporting cast
-
-- What is Mark's trade, outbreak role, and fate?
-- What is Brooke's exact adoption history?
-- Does Brooke have a close friend or romantic subplot?
-- Does the novel remain almost entirely with Brooke or use limited alternate chapters?
-
-## Infection presentation
-
-- Does physical contact transmit the illness, or remain unresolved?
-- Does the ending contain any green-eye flicker?
-
-## Anna and clue mechanics
-
-- Does Anna ever directly claim to be Brooke's mother?
-- Exactly when and how does Anna enter the Bennett home?
-- Which private object does Anna take?
-- Is Brooke's journal definitively the final reveal object?
-- Which earlier details fairly establish the intrusion?
-
-## Cooper and documentation
-
-- Is Cooper present when Anna arrives, and how does he react?
-- Is Brooke's vlog channel definitively called `Remember This`?
-- What is the exact wording of the final line?
+Brooke having a romantic subplot is not open. It is rejected canon.

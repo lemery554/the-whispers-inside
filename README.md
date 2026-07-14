@@ -4,7 +4,7 @@ Development repository for *The Whispers Inside*, a psychological family-horror 
 
 ## Project status
 
-Pre-draft development. The current goal is to lock the novel bible, outbreak calendar, chapter outline, and clue ledger before drafting the manuscript. Do not draft the full novel without explicit approval.
+Pre-draft development. The current goal is to complete the novel bible, one-month timeline, clue ledger, house plan, research, and chapter outline. Do not draft the prologue or full novel until the Foundation and Story Design gates are complete.
 
 ## Creative north star
 
@@ -26,3 +26,13 @@ The people who recover from the illness remain recognizable, retain their memori
 When files conflict, use the complete project brief and the latest explicit canon decision. Record material changes in `CHANGELOG.md`.
 
 Start current work in `planning/BACKLOG.md`. Drafting remains blocked until the Foundation milestone and all P0 Story Design tasks are accepted.
+
+## Source-of-truth order
+
+1. Latest explicit canon recorded in the focused bible and outline files
+2. `STORY_RULES.md` and `PROJECT_RULES.md`
+3. `docs/COMPLETE_PROJECT_BRIEF.md`
+4. Planning documents and templates
+5. Notes and archived material, which are never canon by themselves
+
+Open questions must remain in `outline/OPEN_QUESTIONS.md`. Rejected ideas belong in `notes/REJECTED_IDEAS.md`. Superseded statements belong in `archive/`.

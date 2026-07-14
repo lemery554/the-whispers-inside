@@ -14,7 +14,7 @@ The world does not end because people become obvious monsters. It ends because p
 
 - Brooke records life to preserve truth, but her honesty trains Anna to imitate trust.
 - Sarah's real love survives as the logic of captivity.
-- Anna wins by honoring boundaries more perfectly than Brooke's family can.
+- Anna wins by honoring boundaries more perfectly than Brooke's family can and sincerely believes this is love.
 - Brooke believes she has been found; the reader learns she has been studied.
 
 ## Recurring motifs
@@ -25,3 +25,9 @@ The world does not end because people become obvious monsters. It ends because p
 - Cameras, edits, missing frames, and replayed memory
 - Green flickers noticed only through attention or footage
 - Familiar language repeated until its meaning changes
+- Familiar foods becoming unfamiliar evidence
+- Unrelated changed people displaying quiet, instant intimacy
+
+## Desired ending emotion
+
+Readers should leave suspicious of unusual affection, people who say exactly the right thing, comforting authority, perfect emotional understanding, and the boundary between genuine love and learned performance.

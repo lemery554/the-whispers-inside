@@ -1,12 +1,31 @@
 # News Progression
 
-The news changes because affected anchors, producers, doctors, officials, and advertisers sincerely believe their new message. It is not hacked and should function like a slowly changing character.
+The news begins as disturbing but recognizable journalism. It changes because affected anchors, producers, doctors, officials, and advertisers genuinely believe the new message. It is not hacked. The progression must align with `outline/TIMELINE.md` once story days are locked.
 
-1. **Normal confusion:** overcrowded hospitals, red medicine footage, exhausted professionals, conflicting reports, and instructions not to panic.
-2. **Strange positivity:** calmer anchors emphasize the technically true claim that most patients recover.
-3. **Language shift:** "victims" becomes "recovered individuals" and "isolation" becomes "temporary separation."
-4. **Closeness advice:** families are encouraged to provide emotional support, avoid unnecessary separation, and remain together.
-5. **Subtle takeover:** reporters vanish, replacements smile too long, stations repeat the same emotional language, critical coverage disappears, and advertising adopts closeness slogans.
-6. **Persuasion:** reporting gives way to calm direction: stay together, go home, do not be alone, and trust that loved ones remain themselves.
+## Phase 1: Normal confusion
 
-The broadcasts should manipulate mainly through omission, emphasis, repetition, and comfort, not obvious lies.
+Overflowing hospitals, emergency calls, red medicine, vomiting, exhausted staff, conflicting reports, and no clear answers. Reporting shows disturbing facts without explaining the illness.
+
+## Phase 2: Unusual positivity
+
+Recovery rates improve, most patients survive, and recovered individuals are said to need support. The claims can be technically true.
+
+## Phase 3: Language changes
+
+- Victims becomes recovered individuals.
+- Isolation becomes temporary separation.
+- Avoiding contact becomes emotional support.
+
+## Phase 4: Closeness advice
+
+Audiences are encouraged to remain with family, avoid unnecessary separation, welcome recovered loved ones, and believe that families heal together.
+
+## Phase 5: Subtle takeover
+
+Anchors disappear and replacements appear. Debate vanishes. Multiple stations pause at the same time. Smiles last too long. Presenters seem to listen. Commercials emphasize home, family, and connection.
+
+## Phase 6: Persuasion
+
+The news directs rather than reports: go home, stay together, do not be alone, they are still the people you love, everything will be all right.
+
+The news avoids obvious lies. Manipulation comes through omission, repetition, emphasis, and comforting language.

@@ -12,7 +12,7 @@ Create distance, diagnose the manuscript honestly, complete multiple focused rew
 
 ## Included tasks
 
-TWI-301 through TWI-308.
+TWI-301 through TWI-307.
 
 ## Beta-reader success questions
 

@@ -1,45 +1,74 @@
 # Illness Rules
 
-These are author-facing rules. Characters discover only fragments, and the text should never resolve the full mechanism.
+These rules are author-facing. Characters and readers receive fragments, never a complete explanation.
 
-## Initial illness
+## Unknown cause
 
-- Severe vomiting and diarrhea, fever, dehydration, tremors, confusion, sensory sensitivity, and exhaustion
-- Usually lasts approximately 12 to 36 hours
-- Feels as if the body is emptying itself, but no scientific purpose is confirmed
+The novel never confirms what the whispers are, where they came from, how the illness began, how it spreads, or what its ultimate goal is. Do not add a government, alien, parasite, ancient-force, bloodline, or complete scientific explanation. There is no cure in this novel.
+
+## The purge
+
+The initial sickness is a purge lasting roughly 12 to 36 hours. Symptoms include violent vomiting, severe diarrhea, fever, dehydration, tremors, confusion, exhaustion, and sensitivity to light and sound. Some people become much sicker than others.
+
+Author-facing canon treats the purge as emptying the body of impurities and food the new presence does not want. The characters do not receive authoritative proof of that purpose.
+
+## Eating changes
+
+Afterward, people may eat foods they previously refused, such as mushrooms, squash, olives, spinach, beets, or plain vegetables. Choices should be strange for the individual but believable as food. Do not make this immediately grotesque. The unease comes from violated preference and memory.
 
 ## Red medicine
 
-Hospitals distribute a vivid red liquid emergency treatment that patients frequently vomit onto pale clinical surfaces. It may be harmless, ineffective, useful only for dehydration, unrelated, or harmful. Do not confirm the answer. Treat red liquid as a recurring visual motif.
+Hospitals distribute vivid red liquid medicine that patients frequently vomit back up. Recurring imagery includes red liquid on white walls, footprints, overflowing containers, stained beds, slipping nurses, near-simultaneous vomiting, and emergency rooms that stop cleaning the walls. The story never confirms whether the medicine helps, harms, does nothing, or relates to the deeper change.
 
-## Recovery and progression
+## Apparent recovery
 
-Fever vanishes, appetite and normal speech return, memory remains, and the patient looks healthy. Behavioral changes then emerge slowly as a need for affection, reassurance, touch, and togetherness becomes possessive and violent when access is denied.
+After the purge, fever disappears, speech returns, appetite resumes, memory remains, and people appear physically healthy. Behavioral change begins slowly afterward through increasing needs for closeness, affection, touch, family, togetherness, and relief from isolation.
 
-## Whispers
+## Personality and resistance
 
-The whispers are comforting, persuasive, possibly familiar, and centered on staying close, holding loved ones, and bringing people home. Nobody resists permanently. Temporary resistance can produce pain, twitching, confusion, emotional instability, or brief returns of the original personality.
+Once the change is complete, the original person is effectively gone. Fragments may surface through unexplained crying, hesitation before violence, a loosened grip, confusion, or fear at their own behavior. These moments never become a full recovery or coherent cure path.
 
-## Retained abilities
+## Memory and intelligence
 
-Recovered people retain memories, relationships, secrets, routines, passwords, regrets, weapon locations, and knowledge of emotional leverage. They can lie, cry, laugh, apologize, comfort, imitate empathy, and use tools. Early feelings may remain partly genuine; later emotion becomes more strategic.
+They remember relationships, routines, nicknames, arguments, passwords, door codes, weapon locations, emotional vulnerabilities, sources of guilt, and sources of safety. They plan, drive when physically capable, use tools, and use weapons. They are not mindless.
 
-## Body and isolation
+## Direct lying
 
-Apparent strength comes from ignoring pain, injury, and normal self-preservation. Isolation escalates from requests and pleading through memory, guilt, threats, barrier-breaking, and weapons. Violence comes from unbearable separation, not hatred.
+Locked canon: Anna cannot directly lie and instead permits technically true statements to be misunderstood. Whether this limitation applies to every changed person is unresolved under TWI-004. Until resolved, no planning document should assert that all changed people can lie.
 
-## Unresolved transmission
+## Strength
 
-Whether physical contact spreads the illness is deliberately open and may remain unanswered.
+Apparent strength comes from ignoring pain, failing to protect muscles and joints, and lacking normal self-preservation. They may injure themselves while breaking barriers or restraining someone.
 
-## Green eyes
+## Isolation escalation
 
-A brief bright-green eye flicker is intermittent and easy to miss. It may coincide with lying, violence, coordination, intense control, or the original personality losing ground. Never confirm its cause.
+1. Asking
+2. Calling
+3. Pleading
+4. Crying
+5. Bargaining
+6. Repeating private memories
+7. Guilt
+8. Scratching
+9. Breaking barriers
+10. Using tools or weapons
 
-## Children, animals, and shared learning
+## Recognition and contact with one another
 
-Children are not immune and may express possession through tantrums, demands to be held, following, repetition, and treating people as favorite objects. Animals detect the change before humans do. Recovered people appear to learn from failed attempts, but avoid a tidy hive-mind explanation. Anna embodies the final adaptation: patience works.
+Changed people never attack one another and recognize one another without a confirmed mechanism. A human may attempt imitation, but they would know. Unrelated changed people may hug, hold hands, sit pressed together, or comfort one another like family. Show this quietly rather than explaining it.
 
-## Language rule
+## Transmission
 
-There is no formal name. Characters use uncertain phrases such as "the people who got sick," "the ones who recovered," or "whatever happened to them."
+Whether physical contact spreads the illness remains open under TWI-003. Do not silently answer it.
+
+## Animals
+
+Animals detect the change. This is canon.
+
+## Reflective green eyes
+
+Keep the brief eye effect. It is brighter in darkness, sometimes clearer on camera, reflective rather than fantasy-glowing, and associated with stronger control or emotional shifts. Its cause remains unexplained.
+
+## Naming
+
+There is no formal name. Characters use uncertain phrases such as "the people who got sick," "the ones who recovered," "something is wrong with her," or "whatever they are."
