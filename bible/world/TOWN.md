@@ -1,8 +1,8 @@
 # Town and Setting
 
-## Locked setting type
+## Locked location
 
-The Bennett family lives in a fictional American suburban town. No real town will be used. The state or region and fictional town name remain open under TWI-005; `Ashcroft, Connecticut` is no longer the working designation.
+The Bennett family lives in **Ashcroft, Connecticut**, a fictional suburban town. Ashcroft is close-knit without being rural or tiny, wooded without feeling isolated, and connected to a larger Connecticut media market without sitting inside a major city.
 
 ## Desired character
 
@@ -18,11 +18,23 @@ A close-knit but not tiny American suburb with a major local hospital, one high 
 - Woods
 - Final escape road
 
-## Location-independent topology
+## Town topology
 
 The Bennett neighborhood sits on a residential loop with two practical exits: a main collector road toward school, stores, police, and the hospital, and a back road along the woods. The high school and familiar grocery store share the more developed corridor. The hospital lies beyond them on the route toward a larger population center. The police station and civic buildings remain close enough for an early response to feel plausible.
 
-This relationship is safe to outline before the final town decision. Names, distances, travel times, weather, regional architecture, and the final escape road remain blocked by GitHub issue #3.
+## Practical travel
+
+- Bennett home to Ashcroft High: 8 to 12 minutes by car.
+- Bennett home to Saint Vincent's Hospital: 15 to 20 minutes in ordinary traffic.
+- High school to hospital: about 10 minutes along the commercial corridor.
+- Police and civic center: between the school corridor and older town center.
+- Grocery and pharmacy: a familiar plaza near the school route.
+- Church, park, and library: clustered around the town green.
+- Woods and back road: behind the Bennett development, leading toward a quieter state route.
+
+## Regional texture and escape geography
+
+Ashcroft has mature trees, damp autumn mornings, old stone walls, vinyl-sided subdivisions, narrow back roads, colonial-era civic buildings, and commuter traffic toward larger Connecticut cities. Brooke can move from the Bennett backyard through the wooded strip to a back residential road. Anna's final drive uses the quieter state route rather than passing the school, hospital, or town center.
 
 ## World rule
 

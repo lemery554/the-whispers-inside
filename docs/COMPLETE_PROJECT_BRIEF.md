@@ -143,7 +143,7 @@ Manipulation works through omission, emphasis, comfort, and repetition rather th
 
 Society does not collapse immediately. School remains open and is where Brooke first sees the pattern beyond Claire. Students and staff display subtle excessive closeness, changed food preferences, bathroom waiting, and news-derived language. Police respond normally early, then shift toward keeping families together. Stores, restaurants, work, media, and utilities continue while their meaning becomes wrong.
 
-The setting is a fictional American suburban town. Its state or region and final fictional name remain open. It is close-knit but not tiny, with a hospital, high school, woods, grocery store, local news, back roads, cul-de-sacs, and proximity to larger cities. Key locations include the Bennett home and its upstairs hall, bedrooms, editing setup, kitchen, living room, garage, and gun safe; the emergency department; school; grocery; streets; woods; and final escape road.
+The setting is Ashcroft, Connecticut, a fictional American suburban town. It is close-knit but not tiny, with a hospital, high school, woods, grocery store, local news, back roads, cul-de-sacs, and proximity to larger cities. Key locations include the Bennett home and its upstairs hall, bedrooms, editing setup, kitchen, living room, garage, and gun safe; the emergency department; school; grocery; streets; woods; and final escape road.
 
 ## 10. Story structure
 

@@ -4,6 +4,10 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-14
 
+- Locked Ashcroft, Connecticut and completed its practical town guide.
+- Locked Brooke's distance-through-recording journal entry as Anna's strongest leverage.
+- Locked Anna's restrained photograph-derived styling adjustments.
+- Reduced the active author-decision queue to four questions and deferred ending-only choices out of the active queue.
 - Closed the completed master-timeline and Anna clue-system issues; future decision changes now flow through their specific issues and chapter architecture.
 - Locked that touch does not transmit the illness while its actual spread remains unexplained.
 - Extended the no-direct-lie rule to every changed person and added a literal-truth dialogue audit rule.
