@@ -4,6 +4,9 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-14
 
+- Reorganized GitHub Issues into separate author-decision and Codex-work queues.
+- Rewrote author issues as short guided questions with concrete choices.
+- Closed the duplicate civic-timeline decision, deferred the final-line decision to Revision, and marked dependency-blocked work explicitly.
 - Changed `codex-ready` into a user-controlled execution gate: comments alone do not authorize implementation.
 - Created 22 GitHub Issues across Foundation and Story Design, with priority/type labels, milestones, decision prompts, and Codex handoff criteria.
 - Added a repository index mapping stable TWI task IDs to GitHub Issue discussions.

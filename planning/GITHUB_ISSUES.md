@@ -2,6 +2,14 @@
 
 GitHub Issues are the collaborative control surface for decisions and active work. Repository Markdown files remain the canonical record after an issue is resolved.
 
+## Queues
+
+- `owner: user`: a focused creative question for the author to answer.
+- `owner: codex`: research, design, or implementation work that does not require the author to fill out a questionnaire.
+- `status: blocked`: authorized work may not start until its listed dependencies are complete.
+- `status: deferred`: intentionally postponed to a later milestone.
+- `status: answered`: resolved elsewhere and normally closed.
+
 ## Workflow
 
 1. Discuss or edit the relevant GitHub Issue.
@@ -23,15 +31,15 @@ The `codex-ready` label is controlled by the user. Its absence means the issue i
 | TWI-005 | [#3 Choose the final town and state](https://github.com/lemery554/the-whispers-inside/issues/3) |
 | TWI-006 | [#4 Choose Brooke's vlog channel name](https://github.com/lemery554/the-whispers-inside/issues/4) |
 | TWI-007 | [#5 Define journal and adoption materials](https://github.com/lemery554/the-whispers-inside/issues/5) |
-| TWI-008 | [#6 Assign Anna's school-day entry](https://github.com/lemery554/the-whispers-inside/issues/6) |
+| TWI-008 | [#6 Place Anna's school-day entry on the timeline](https://github.com/lemery554/the-whispers-inside/issues/6) (Codex task) |
 | TWI-009 | [#7 Decide Anna's number of house visits](https://github.com/lemery554/the-whispers-inside/issues/7) |
 | TWI-010 | [#8 Decide the ending eye effect](https://github.com/lemery554/the-whispers-inside/issues/8) |
-| TWI-011 | [#9 Lock the final sentence](https://github.com/lemery554/the-whispers-inside/issues/9) |
-| TWI-012 | [#10 Set the civic decline timeline](https://github.com/lemery554/the-whispers-inside/issues/10) |
+| TWI-011 | [#9 Lock the final sentence](https://github.com/lemery554/the-whispers-inside/issues/9) (deferred to Revision) |
+| TWI-012 | [#10 Set the civic decline timeline](https://github.com/lemery554/the-whispers-inside/issues/10) (answered by #20; closed) |
 | TWI-013 | [#11 Confirm the POV policy](https://github.com/lemery554/the-whispers-inside/issues/11) |
 | TWI-024 | [#12 Design the Sarah and Brooke argument](https://github.com/lemery554/the-whispers-inside/issues/12) |
 | TWI-025 | [#13 Choose the delayed police outcome](https://github.com/lemery554/the-whispers-inside/issues/13) |
-| TWI-026 | [#14 Choose Anna's appearance adjustments](https://github.com/lemery554/the-whispers-inside/issues/14) |
+| TWI-026 | [#14 Design Anna's appearance adjustments](https://github.com/lemery554/the-whispers-inside/issues/14) (Codex task) |
 
 ## Foundation work
 

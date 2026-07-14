@@ -11,15 +11,15 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [ ] **TWI-005 | P0 | Decide final town and state**: Validate the name, regional character, hospital access, roads, weather, and proximity to larger media markets.
 - [ ] **TWI-006 | P1 | Decide Brooke's vlog channel name**: Evaluate `Remember This` and alternatives against Brooke's voice and memory theme.
 - [ ] **TWI-007 | P0 | Decide exact journal contents**: Specify the biological-mother letters, adoption records, private writing, dates, and how each item can be misread by Brooke and used by Anna.
-- [ ] **TWI-008 | P0 | Assign Anna's school-day entry**: The circumstance is locked; choose the exact story day and verify access, opportunity, travel, and Brooke's awareness.
+- [ ] **TWI-008 | P0 | Place Anna's school-day entry**: Codex assigns the exact story day while building the master timeline and verifies access, opportunity, travel, and Brooke's awareness. Blocked by TWI-020 and informed by TWI-009.
 - [ ] **TWI-009 | P0 | Decide whether Anna enters once or multiple times**: Balance fair clues against implausible access and avoid making Anna omniscient.
 - [ ] **TWI-010 | P1 | Decide ending eye effect**: Determine whether any subtle reflective green-eye effect appears after the journal reveal. It cannot be the reveal itself.
-- [ ] **TWI-011 | P1 | Decide exact final line**: Preserve quiet dread, Anna's sincere belief in love, and the reader's realization that Brooke was studied.
-- [ ] **TWI-012 | P1 | Decide civic operating window**: Lock how long school, stores, hospitals, police, news, and platforms function normally.
+- [ ] **TWI-011 | P1 | Decide exact final line during Revision**: Deferred until the ending exists in prose. Preserve quiet dread and the realization that Anna is still studying Brooke.
+- [x] **TWI-012 | P1 | Decide civic operating window**: Answered in GitHub issue #20 with a six-phase, 30-day institutional progression; implementation remains under TWI-022.
 - [ ] **TWI-013 | P1 | Decide final POV policy**: Confirm whether every narrative chapter remains with Brooke or any limited alternate material is justified.
 - [ ] **TWI-024 | P0 | Design the unresolved Sarah-Brooke argument**: Center it on Sarah restricting Brooke's independence and Brooke accusing Sarah of treating biological daughter Claire differently.
 - [ ] **TWI-025 | P1 | Decide the delayed police arrival**: Choose whether officers arrive too late or arrive already changed, then align the 911 scene with the timeline.
-- [ ] **TWI-026 | P1 | Decide Anna's limited appearance changes**: Choose believable hair, makeup, clothing, eyebrow, posture, or jewelry details tied to specific photographs.
+- [ ] **TWI-026 | P1 | Design Anna's limited appearance changes**: Codex selects restrained details after TWI-007 and TWI-021 establish the photographs and clue system.
 
 ## M1: Foundation documents and research
 
