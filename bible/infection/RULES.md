@@ -1,6 +1,6 @@
 # Illness Rules
 
-These rules are author-facing. Characters and readers receive fragments, never a complete explanation.
+These rules are author-facing. Characters and readers receive fragments, never a complete explanation. This file now closes TWI-018: hunger, driving, pain, imitation, and resistance are addressed below alongside the previously locked sections.
 
 ## Unknown cause
 
@@ -18,6 +18,10 @@ Author-facing canon treats the purge as emptying the body of impurities and food
 
 Afterward, people may eat foods they previously refused, such as mushrooms, squash, olives, spinach, beets, or plain vegetables. Choices should be strange for the individual but believable as food. Do not make this immediately grotesque. The unease comes from violated preference and memory.
 
+## Hunger
+
+Hunger signals become inconsistent and muted rather than absent. Changed people may eat well past fullness or go long stretches without complaint or visible distress, because eating is no longer driven by biological need the way it once was — it continues because it is expected and familiar, not because it is craved. This creates a small, unsettling gap between behavior (still cooking, still setting the table, still eating on schedule) and motivation (no longer hunger-driven). This is a felt wrongness for someone who knows them, not a stated fact the story confirms.
+
 ## Red medicine
 
 Hospitals distribute vivid red liquid medicine that patients frequently vomit back up. Recurring imagery includes red liquid on white walls, footprints, overflowing containers, stained beds, slipping nurses, near-simultaneous vomiting, and emergency rooms that stop cleaning the walls. The story never confirms whether the medicine helps, harms, does nothing, or relates to the deeper change.
@@ -28,6 +32,10 @@ After the purge, fever disappears, speech returns, appetite resumes, memory rema
 
 Changed people still sleep, eat, drink, drive when capable, and function in daily life.
 
+## Driving
+
+Changed people retain full driving competence, route memory, and traffic awareness. What changes is self-preserving caution: they tolerate long unbroken drives without fatigue-driven stops, drive at night without complaint, and show a dulled startle response to near-misses or bad weather. They do not drive recklessly or crash deliberately to reach someone — competence is intact — but they no longer slow down, rest, or reroute for their own comfort the way they once did. The wrongness is in what's missing (self-concern), not in the driving itself.
+
 ## Hearing and speech
 
 Unaffected people cannot hear the whispers. Changed people hear them silently at first. Later, when alone or believing no unaffected person is nearby, they may involuntarily repeat fragments aloud like a verbal tic: "Wait," "Let her choose," "She is afraid," or "Not yet." This can imply that Anna is still receiving guidance without letting Brooke clearly witness it.
@@ -35,6 +43,8 @@ Unaffected people cannot hear the whispers. Changed people hear them silently at
 ## Personality and resistance
 
 Once the change is complete, the original person is effectively gone. Fragments may surface through unexplained crying, hesitation before violence, a loosened grip, confusion, or fear at their own behavior. These moments never become a full recovery or coherent cure path.
+
+Resistance fragments surface only under specific triggers: an overwhelming, deeply anchored emotional memory (Claire's beach memory), a direct threat to someone the fragment still recognizes as needing protection (Claire never harming Cooper), or a sudden interruption that breaks an immediate compulsion (a loud sound, an unexpected question). These moments last seconds, not minutes, and must not repeat identically for the same character across the book — each should read as a genuine crack, not a recurring mechanic. *(Flagged for `outline/OPEN_QUESTIONS.md`: exact frequency limits per character belong in continuity tracking, not locked here.)*
 
 ## Memory and intelligence
 
@@ -44,9 +54,11 @@ They remember relationships, routines, nicknames, arguments, passwords, door cod
 
 All changed people are incapable of making a statement they understand to be directly false. They can omit, redirect, answer only part of a question, repeat someone else's words, and allow an unaffected person to reach a false conclusion. Their restraint is not moral honesty. Anna is simply the most sophisticated known user of the limitation.
 
-## Strength
+## Strength and pain
 
 Apparent strength comes from ignoring pain, failing to protect muscles and joints, and lacking normal self-preservation. They may injure themselves while breaking barriers or restraining someone.
+
+Changed people do feel pain — they are not anesthetic — but pain no longer reliably produces protective withdrawal in the moment. They may keep pushing against a locked door despite visible injury, keep gripping something that cuts them, or ignore a real wound because closeness matters more right now than self-care. A private moment of wincing or later tending to the injury can show the pain registered; it simply didn't override the behavior in real time. This is a lapse in self-preservation, not literal numbness, and should read that way on the page.
 
 ## Isolation escalation
 
@@ -61,9 +73,11 @@ Apparent strength comes from ignoring pain, failing to protect muscles and joint
 9. Breaking barriers
 10. Using tools or weapons
 
-## Recognition and contact with one another
+## Recognition, contact, and imitation
 
-Changed people never attack one another and recognize one another without a confirmed mechanism. A human may attempt imitation, but they would know. They do not need visible coordination and simply appear to understand what others want. Unrelated changed people may hug, hold hands, sit pressed together, or comfort one another like family. Show this quietly rather than explaining it.
+Changed people never attack one another and recognize one another without a confirmed mechanism. They do not need visible coordination and simply appear to understand what others want. Unrelated changed people may hug, hold hands, sit pressed together, or comfort one another like family. Show this quietly rather than explaining it.
+
+A human attempting to imitate a changed person's stillness, cadence, or appearance is detectable to another changed person on contact — recognition among the changed is immediate and wordless, per the rule above. What a human imitator cannot fake: the total absence of self-preservation (pain response, fatigue, startle), and the involuntary repeated fragments changed people produce when they believe no unaffected person is present. A careful human performance can fool unaffected people, including Brooke, for a while — it cannot fool a changed person, and it cannot be sustained indefinitely without slipping.
 
 ## Transmission
 
