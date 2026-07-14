@@ -4,6 +4,8 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-14
 
+- Created 22 GitHub Issues across Foundation and Story Design, with priority/type labels, milestones, decision prompts, and Codex handoff criteria.
+- Added a repository index mapping stable TWI task IDs to GitHub Issue discussions.
 - Locked Brooke and Claire's ordinary sister dynamic, beach memory, clothing conflict, cruel pre-illness remark, and Claire's refusal to harm Cooper.
 - Locked Sarah and Brooke's adoption-rooted conflict while leaving the exact argument scene open.
 - Locked Mark as away for work, never returning, with an intentionally unknown fate.

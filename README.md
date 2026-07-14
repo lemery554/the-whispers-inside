@@ -27,6 +27,8 @@ When files conflict, use the complete project brief and the latest explicit cano
 
 Start current work in `planning/BACKLOG.md`. Drafting remains blocked until the Foundation milestone and all P0 Story Design tasks are accepted.
 
+Discuss and resolve active decisions in [GitHub Issues](https://github.com/lemery554/the-whispers-inside/issues). The task-to-issue map lives in `planning/GITHUB_ISSUES.md`.
+
 ## Source-of-truth order
 
 1. Latest explicit canon recorded in the focused bible and outline files

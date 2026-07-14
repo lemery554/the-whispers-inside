@@ -26,4 +26,6 @@ This directory organizes the novel as a product backlog without turning the crea
 6. Reader and professional feedback
 7. Publication preparation
 
-The phase epics live in `planning/epics/`. `BACKLOG.md` is the operational task list, and `MILESTONES.md` defines completion gates.
+The phase epics live in `planning/epics/`. `BACKLOG.md` mirrors the operational task list, `MILESTONES.md` defines completion gates, and `GITHUB_ISSUES.md` maps active tasks to their discussion threads.
+
+Use GitHub Issues for comments, decisions, and status. After a decision is implemented, the repository bible and outline become the durable source of truth.
