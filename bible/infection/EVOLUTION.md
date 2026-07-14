@@ -32,3 +32,7 @@ Strangers demonstrate that chasing fails. Anna represents the first major succes
 ## Emotional truth
 
 The changed genuinely feel love, but define it as possession, permanent proximity, and the end of separation. Anna is not consciously performing evil. She believes she has finally learned how love works.
+
+## Involuntary repetition
+
+The whispers begin as silent experience. Later, changed people who believe no unaffected person is listening may repeat instruction fragments aloud as an involuntary verbal tic. Anna may do this outside Brooke's awareness, providing a reader-facing clue without confirming the source.

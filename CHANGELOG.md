@@ -4,6 +4,13 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-14
 
+- Locked Brooke and Claire's ordinary sister dynamic, beach memory, clothing conflict, cruel pre-illness remark, and Claire's refusal to harm Cooper.
+- Locked Sarah and Brooke's adoption-rooted conflict while leaving the exact argument scene open.
+- Locked Mark as away for work, never returning, with an intentionally unknown fate.
+- Locked Anna's school-day entry, study materials, limited appearance adjustment, non-unique interest in Brooke, and final car behavior with Cooper.
+- Locked inevitable change after the purge, continued daily function, silent whispers that may later be repeated aloud, and silent mutual understanding.
+- Added school, police, and 911 progression, including the dispatcher knowing Brooke's unprovided name.
+- Refined the final sequence so only the reader sees the journal and added the candidate final line to open decisions.
 - Audited every repository file against the latest creative direction.
 - Locked Anna's keypad entry method and Brooke's old journal as the ending proof.
 - Added the purge purpose, believable changed-food preferences, Claire's bathroom-lock scene, and Claire's unexplained crying breakthrough.

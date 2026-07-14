@@ -36,3 +36,5 @@ Start current work in `planning/BACKLOG.md`. Drafting remains blocked until the 
 5. Notes and archived material, which are never canon by themselves
 
 Open questions must remain in `outline/OPEN_QUESTIONS.md`. Rejected ideas belong in `notes/REJECTED_IDEAS.md`. Superseded statements belong in `archive/`.
+
+Current world guidance includes dedicated files for news, internet and hospitals, and school, police, and 911 progression.

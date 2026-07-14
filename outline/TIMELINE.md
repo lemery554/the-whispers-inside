@@ -6,7 +6,7 @@ Use one row per story day. Do not collapse days without checking sleep, travel, 
 
 | Day | National and local outbreak | Bennett family | Brooke's videos and internet | News and hospitals | Anna and clues | Status |
 |---|---|---|---|---|---|---|
-| 1 | First widely noticed cases | Normal family baseline | Early documentation opportunity | Phase 1 begins | Keypad code already exists in an older family video | Open |
+| 1 | First widely noticed cases; police respond normally | Normal sister friction, beach-memory setup, Mark already away for work | Early documentation opportunity | Phase 1 begins; school remains open | Keypad code already exists in an older family video | Open |
 | 2 |  |  |  |  |  | Open |
 | 3 |  |  |  |  |  | Open |
 | 4 |  |  |  |  |  | Open |
@@ -41,9 +41,10 @@ Use one row per story day. Do not collapse days without checking sleep, travel, 
 
 - Claire's purge, hospital visit, apparent recovery, food changes, bathroom-lock break, and unexplained crying
 - Sarah's purge, apparent recovery, front-door choice, and bedroom siege
-- Mark's full arc once decided
+- Mark's delayed, interrupted, suspicious, and finally absent communications
 - Brooke's upload sequence and audience growth
 - Each whisper-evolution stage
 - All six news phases and institutional changes
-- Anna's first viewing of Brooke, keypad discovery, house visit or visits, journal theft, arrival, trust ladder, final hug, and drive
+- Anna's first viewing of Brooke, keypad discovery, entry while Brooke is at school, journal theft, appearance adjustment, arrival, trust ladder, final hug, and drive
 - Cooper's location and reactions
+- School social changes, Brooke's 911 call, delayed police response, and police priority changes

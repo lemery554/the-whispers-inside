@@ -2,9 +2,9 @@
 
 These rules protect the novel's mystery, emotional logic, and reader trust. They override exciting ideas that would weaken the story. Any proposed exception must be explicitly approved and recorded in the changelog.
 
-## Rule 1: Readers never know more than Brooke
+## Rule 1: Narrative certainty never exceeds Brooke's
 
-The narrative may show material Brooke watches, reads, records, or later discovers, but it does not use dramatic irony to confirm the truth behind the illness or Anna.
+The narrative may give the reader a final visual clue Brooke does not witness, including Anna reading the journal. Before that final confirmation, neither Brooke nor the reader knows for certain that Anna is not her biological mother.
 
 ## Rule 2: The whispers are never explained
 
@@ -40,7 +40,7 @@ Characters use uncertain descriptive language. No catchy label, species name, or
 
 ## Rule 10: Anna never volunteers a direct biological claim
 
-Anna does not say she is Brooke's biological mother unless Brooke leads the conversation there. Anna guides inference, answers carefully, and prefers technically true statements.
+Anna never says she is Brooke's biological mother. Brooke guides the conversation there; Anna answers carefully with technically true statements and permits the assumption.
 
 Anna cannot directly lie. Whether that limitation governs every changed person is unresolved and must not be assumed.
 
@@ -63,3 +63,7 @@ Symptoms, timing, geography, injuries, knowledge, media changes, and character a
 ## Rule 15: Love remains emotionally real
 
 Changed people are not knowingly faking love. They sincerely redefine it as possession, permanent closeness, and protection from separation.
+
+## Rule 16: Brooke is understood, not chosen
+
+Anna does not uniquely care about Brooke. The same patient strategy could be used with anyone studied closely enough. Brooke's tragedy comes from exposure, not destiny.

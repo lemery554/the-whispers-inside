@@ -44,7 +44,7 @@ The broader concept is: **The world does not end because people become monsters.
 
 ### Brooke Bennett
 
-Brooke is seventeen, adopted by Sarah and Mark, and Claire's older sister. She is observant, creative, skeptical, guarded, sarcastic, and loyal. She pushes people away, has few friends, relies mostly on Claire, and has no romantic subplot. She lives through her camera and loves filmmaking, editing, and online storytelling.
+Brooke is seventeen, adopted by Sarah and Mark, and Claire's older sister. She is observant, creative, skeptical, guarded, sarcastic, and loyal. She pushes people away, has few friends, and has no romantic subplot. She lives through her camera and loves filmmaking, editing, and online storytelling. Brooke and Claire are ordinary sisters, neither unusually close nor emotionally distant. Their happiest shared memory is playing in the sand at the beach.
 
 She records ordinary life because people remember events incorrectly. Possible philosophies include: "Nobody remembers where they were when something started because nobody knows it is starting," and "Everyone thinks memories disappear all at once. They do not. They disappear a little every day."
 
@@ -52,35 +52,35 @@ Her strength is noticing inconsistencies and trusting recorded evidence. Her wea
 
 ### Claire Bennett
 
-Claire is thirteen, funny, curious, affectionate, impulsive, and admiring of Brooke. Because she is already affectionate, early changes are hard to identify. After recovery she seeks constant proximity, enters Brooke's room, watches her sleep, repeats comforting phrases, hears whispers, and becomes possessive. Her first undeniable violence is breaking the bathroom lock because Brooke refuses to let her enter while using the bathroom. Claire only wants a hug and does not appear monstrous. Her most important personality breakthrough is crying without knowing why.
+Claire is thirteen, funny, curious, affectionate, impulsive, and admiring of Brooke. She regularly wears Brooke's clothes without permission. Before Claire becomes sick, Brooke may end an ordinary argument with, "At least you never have to wonder why your real mother didn't want you." Because Claire is already affectionate, early changes are hard to identify. After recovery she seeks constant proximity, enters Brooke's room, watches Brooke sleep, repeats comforting phrases, hears whispers, and becomes possessive. Her first undeniable violence is breaking the bathroom lock because Brooke refuses to let her enter while using the bathroom. Claire only wants a hug and does not appear monstrous. Her most important personality breakthrough is crying without knowing why as the beach memory and Brooke's cruel remark echo. Claire never harms Cooper.
 
 ### Sarah Bennett
 
-Sarah is in her early forties: loving, practical, exhausted, protective, warm, imperfectly controlling, and sometimes dismissive of Brooke's fears. After changing, her genuine love becomes possession. She uses maternal authority, guilt, obligation, and private memory: "After everything I've done for you," "Families stay together," "I am your mother," and "Come home." She may believe captivity is protection.
+Sarah is in her early forties: loving, practical, exhausted, protective, warm, imperfectly controlling, and sometimes dismissive of Brooke's fears. She and Brooke love one another but argue frequently. Sarah's overprotection is intensified by Brooke's adoption. Brooke believes Sarah treats biological daughter Claire differently. Sarah knows Brooke wonders about her biological mother and fears that curiosity means Sarah was never enough. After changing, her genuine love becomes possession. The exact unresolved argument about independence and unequal treatment remains open.
 
 ### Mark Bennett
 
-Mark is in his mid-forties, dependable, practical, hands-on, and always fixing something. His exact trade and outbreak role remain open. He owns a secured firearm; Sarah later remembers its location and uses it during the bedroom siege.
+Mark is in his mid-forties, dependable, practical, hands-on, and always fixing something. He is away for work when the outbreak begins and never returns. His fate remains intentionally unknown. Calls and texts become delayed, interrupted, suspicious, and finally stop. His absence leaves Sarah carrying the family alone and gives Brooke another reason to review messages. He owns a secured firearm; Sarah later remembers its location and uses it during the bedroom siege.
 
 ### Anna
 
 Anna allows Brooke to conclude through implication that she is Brooke's biological mother. She is not. She is recovered, is not seeking Brooke's real mother, and has no bloodline or resistance objective. She wants only to get close to Brooke.
 
-Anna finds Brooke through YouTube. An old family video clearly shows someone entering the Bennett keypad code, which Anna uses to enter the house. She studies photos, adoption records, personal objects, and Brooke's old journal, then takes the journal. Brooke assumes Claire stole it. Anna cannot directly lie and uses technically true statements that Brooke interprets incorrectly. She learns aggression makes Brooke flee, so she respects boundaries, asks permission, accepts rejection, and waits. She sincerely believes she is loving Brooke and has finally learned how love works.
+Anna finds Brooke through YouTube. An old family video clearly shows someone entering the Bennett keypad code, which Anna uses to enter the house while Brooke is at school. She studies family photographs, adoption documents, Brooke's journal, and a letter from Brooke's biological mother. She learns the mother's real name, takes the journal, and makes limited changes to hair, makeup, clothing, eyebrows, posture, or jewelry to suggest resemblance. She cannot physically transform. Brooke assumes Claire stole the journal. Anna never directly claims motherhood and uses technically true statements that Brooke misinterprets. She sincerely believes she is loving Brooke. She does not uniquely care about Brooke and would use the same strategy with anyone she studied closely enough.
 
 ### Cooper
 
-Cooper is the Bennett dog. Animals canonically detect the change first. He may growl at recovered Claire, refuse rooms, react before eye flickers, avoid Sarah, bark at empty halls, or pull Brooke away. His final role around Anna remains open.
+Cooper is the Bennett dog. Animals canonically detect the change first. He growls at recovered Claire, avoids changed family members, and reacts before control shifts. Claire never harms him. Cooper rides in the final car, permits Anna near Brooke, remains uneasy, and watches Anna instead of sleeping.
 
 ## 5. Illness and recovered behavior
 
 ### The purge
 
-Symptoms are severe vomiting and diarrhea, fever, dehydration, tremors, confusion, sensory sensitivity, and exhaustion. It lasts approximately 12 to 36 hours. Author-facing canon defines the purge as emptying the body of impurities and food the new presence does not want, but characters and readers never receive authoritative confirmation.
+Symptoms are severe vomiting and diarrhea, fever, dehydration, tremors, confusion, sensory sensitivity, and exhaustion. It lasts approximately 12 to 36 hours. Author-facing canon defines the purge as emptying the body of impurities and food the new presence does not want, but characters and readers never receive authoritative confirmation. Everyone who experiences the purge eventually changes, though severity varies significantly.
 
 ### Eating changes
 
-After recovery, people may eat foods they previously refused, such as mushrooms, squash, olives, spinach, beets, or plain vegetables. The food remains believable. Horror comes from the sudden preference change.
+After recovery, people may eat foods they previously refused, such as mushrooms, squash, olives, spinach, beets, or plain vegetables. The food remains believable. Horror comes from the sudden preference change. Changed people still sleep, eat, drink, and function in daily life.
 
 ### Red medicine
 
@@ -92,7 +92,7 @@ Fever ends, appetite returns, speech is normal, memory remains, and physical hea
 
 ### Whispers
 
-The recovered hear comforting, persuasive, possibly familiar whispers focused on togetherness: stay near them, hold them, bring them home, they need you, everything will be okay. No one permanently resists. Temporary resistance can cause headaches, twitching, confusion, distress, instability, or brief returns of the original self.
+Unaffected people cannot hear the whispers. Changed people hear them silently at first. Later, when alone or believing no unaffected person is nearby, they may involuntarily repeat fragments such as "Wait," "Let her choose," "She is afraid," or "Not yet." No one permanently resists.
 
 ### Memory, lying, and emotion
 
@@ -108,7 +108,7 @@ Whether touch transmits the illness is undecided and may remain unanswered. Eyes
 
 The whispers evolve emotionally rather than physically. Early commands demand proximity. Middle-stage guidance uses love and guilt. Later guidance teaches waiting, hope, choice, and respect for boundaries. Failed attempts teach the phenomenon: Claire shows that force fails, Sarah that guilt can fail, strangers that pursuit fails, and Anna that patience works.
 
-Changed people recognize one another and never attack one another. Unrelated changed people may hug, hold hands, sit pressed together, or comfort one another like family. A human may try to imitate them, but they would know.
+Changed people recognize one another and never attack one another. They do not need visible coordination and simply appear to understand what others want. Unrelated changed people may hug, hold hands, sit pressed together, or comfort one another like family. A human may try to imitate them, but they would know.
 
 ## 6. Naming rule
 
@@ -141,7 +141,7 @@ Manipulation works through omission, emphasis, comfort, and repetition rather th
 
 ## 9. World and setting
 
-Society does not collapse immediately. Schools, stores, restaurants, work, neighborhood arguments, media, and utilities continue while their meaning becomes wrong. Avoid instant apocalypse, immediate military occupation, and generic wasteland imagery.
+Society does not collapse immediately. School remains open and is where Brooke first sees the pattern beyond Claire. Students and staff display subtle excessive closeness, changed food preferences, bathroom waiting, and news-derived language. Police respond normally early, then shift toward keeping families together. Stores, restaurants, work, media, and utilities continue while their meaning becomes wrong.
 
 Ashcroft, Connecticut is the working location but is not final. The desired suburb is close-knit but not tiny, with a hospital, high school, woods, grocery store, local news, back roads, cul-de-sacs, and proximity to larger cities. Key locations include the Bennett home and its upstairs hall, bedrooms, editing setup, kitchen, living room, garage or basement, and gun safe; the emergency department; school; grocery; streets; woods; and final escape road.
 
@@ -153,7 +153,7 @@ Bring the outbreak into public awareness through dispatch calls, clips, hospital
 
 ### Part One: Before
 
-Establish the family, Cooper, home, Brooke's videos and adoption background, ordinary affection and friction, school, and neighborhood life while the outbreak remains elsewhere. Give readers enough of lovable Claire to miss her.
+Establish ordinary sister conflict, Claire wearing Brooke's clothes, the shared beach memory, Brooke's cruel adoption-related remark, Mark's work absence, Cooper, the home, Brooke's videos, school, and neighborhood life while the outbreak remains elsewhere.
 
 ### Part Two: Claire Gets Sick
 
@@ -161,7 +161,7 @@ Cooper reacts before Claire reports stomach pain. Her violent illness leads to t
 
 ### Part Three: Recognition
 
-Brooke uploads videos, receives matching reports, and compares comments, footage, Claire, Cooper, and news broadcasts. She discovers the eye flicker frame by frame and documents patterns. Claire escalates. Sarah becomes ill.
+School shows Brooke that the problem extends beyond Claire. Brooke uploads videos, receives matching reports, and compares comments, footage, Claire, Cooper, and news broadcasts. Claire cries without knowing why as the beach memory returns. Mark's communications degrade and disappear. Sarah becomes ill.
 
 ### Part Four: Sarah and the house
 
@@ -169,15 +169,17 @@ Sarah recovers into controlling love and the house becomes a prison. Doors progr
 
 In the signature chase, recovered strangers pursue Brooke. Sarah, angry inside the house, initially refuses entry. Brooke apologizes, sympathizes, says she loves Sarah, and activates Sarah's maternal attachment. Sarah opens the door, saves Brooke, locks out the strangers, turns with a green flicker, and says, "You came home." Brooke has exchanged one danger for another.
 
-During the bedroom siege, Sarah scratches, pleads, bangs, uses guilt, and then becomes silent. Brooke hears Mark's gun safe. Sarah returns with the firearm and shoots through the door, proving memory, tool use, and adaptation. Brooke escapes through the window.
+Brooke calls 911. The dispatcher begins normally, then advises her not to antagonize Sarah, describes separation distress, and uses Brooke's name even though Brooke never supplied it. Help is dispatched but delayed. During the bedroom siege, Sarah scratches, pleads, bangs, uses guilt, and then becomes silent. Brooke hears Mark's gun safe. Sarah returns with the firearm and shoots through the door. Brooke escapes through the window.
 
 ### Part Five: Anna
 
-Anna does not immediately declare motherhood. She uses careful statements such as "I think I know who you are," "You don't know me," "You don't owe me anything," and "You shouldn't trust me yet." Public uploads, the keypad code visible in an old family video, and materials Anna studies inside the house lead Brooke and the reader to infer kinship. Every fact must have a fair source and Anna cannot directly lie. Anna never forces closeness. Brooke voluntarily hugs her.
+Anna never declares motherhood. She entered the house while Brooke was at school, learned the biological mother's name, and made limited presentation changes to suggest resemblance. Public uploads and house materials lead Brooke and the reader to infer kinship. Every statement is technically true. Brooke voluntarily hugs her.
 
 ## 11. Ending
 
-Brooke falls asleep in the passenger seat while Anna drives, feeling safe for the first time in weeks. Anna calmly removes Brooke's missing old journal and reads. The journal proves Anna entered the Bennett home, studied Brooke, and was never who Brooke believed.
+Anna gives only a vague, comforting destination. Brooke sleeps against the passenger window while Cooper lies in the back seat, awake and watching. Only the reader sees Anna remove Brooke's missing journal and reread the beach memory. Cooper whines. Anna waits until he lowers his head, then returns to the journal. The reader learns with certainty that Anna is not Brooke's biological mother and is still studying her.
+
+Candidate final sentence, not locked: "Anna turned the page and continued learning how to love her."
 
 An earlier moved frame, open drawer, missing journal, disturbed adoption papers, or gathered photos establishes a fair clue. The reveal has no evil speech, villain smile, grand transformation, bloodline twist, search plot, or master plan. A green flicker may appear elsewhere but should not carry the ending.
 
@@ -215,7 +217,7 @@ Inspect and preserve existing material; store this brief; create the project str
 
 ## 17. Next development steps
 
-1. Lock Mark's role, town, outbreak timeline, Cooper's final role, journal contents, Anna's visit timing, contact transmission, the broader direct-lying rule, final eye-effect choice, and vlog name.
+1. Lock the town, outbreak timeline, journal contents, Anna's exact visit timing and appearance choices, contact transmission, the broader direct-lying rule, Sarah and Brooke's unresolved argument, delayed police outcome, final eye-effect choice, and vlog name.
 2. Build a day-by-day calendar covering roughly one month.
 3. Build a 30-to-40-chapter outline.
 4. Draft and polish the prologue.
@@ -225,15 +227,16 @@ Inspect and preserve existing material; store this brief; create the project str
 ## 18. Current open questions
 
 - Final town and state
-- Mark's role and fate
 - Whether contact transmits the illness
 - Whether the no-direct-lying rule applies to all changed people or only Anna
 - Exactly when Anna enters the house and whether she visits once or multiple times
 - The exact adoption materials and biological-mother letters in the journal
-- Whether Cooper is present when Anna arrives
 - Whether the ending includes a green flicker
 - Brooke's vlog name and exact adoption history
-- How long school stays open
+- Exact duration and decline of other civic systems while school remains open
+- Exact Sarah-Brooke argument
+- Whether delayed police arrive too late or already changed
+- Exact presentation details Anna changes
 - Whether limited alternate chapters appear
 - Exact final line
 

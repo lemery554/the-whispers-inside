@@ -10,6 +10,8 @@ The novel never confirms what the whispers are, where they came from, how the il
 
 The initial sickness is a purge lasting roughly 12 to 36 hours. Symptoms include violent vomiting, severe diarrhea, fever, dehydration, tremors, confusion, exhaustion, and sensitivity to light and sound. Some people become much sicker than others.
 
+Everyone who experiences the purge eventually changes. Severity varies significantly, but the progression does not permanently stop.
+
 Author-facing canon treats the purge as emptying the body of impurities and food the new presence does not want. The characters do not receive authoritative proof of that purpose.
 
 ## Eating changes
@@ -23,6 +25,12 @@ Hospitals distribute vivid red liquid medicine that patients frequently vomit ba
 ## Apparent recovery
 
 After the purge, fever disappears, speech returns, appetite resumes, memory remains, and people appear physically healthy. Behavioral change begins slowly afterward through increasing needs for closeness, affection, touch, family, togetherness, and relief from isolation.
+
+Changed people still sleep, eat, drink, drive when capable, and function in daily life.
+
+## Hearing and speech
+
+Unaffected people cannot hear the whispers. Changed people hear them silently at first. Later, when alone or believing no unaffected person is nearby, they may involuntarily repeat fragments aloud like a verbal tic: "Wait," "Let her choose," "She is afraid," or "Not yet." This can imply that Anna is still receiving guidance without letting Brooke clearly witness it.
 
 ## Personality and resistance
 
@@ -55,7 +63,7 @@ Apparent strength comes from ignoring pain, failing to protect muscles and joint
 
 ## Recognition and contact with one another
 
-Changed people never attack one another and recognize one another without a confirmed mechanism. A human may attempt imitation, but they would know. Unrelated changed people may hug, hold hands, sit pressed together, or comfort one another like family. Show this quietly rather than explaining it.
+Changed people never attack one another and recognize one another without a confirmed mechanism. A human may attempt imitation, but they would know. They do not need visible coordination and simply appear to understand what others want. Unrelated changed people may hug, hold hands, sit pressed together, or comfort one another like family. Show this quietly rather than explaining it.
 
 ## Transmission
 

@@ -10,7 +10,7 @@ Before drafting chapters, map approximately one month and track:
 - Brooke's uploads, audience growth, and observation list
 - News language changes
 - Mark's location and fate
-- Cooper's warnings and final role
+- Cooper's warnings, protection from Claire, and final car behavior
 - Keypad-video clue, Anna's house visit or visits, and journal theft
 - Stranger chase, front-door bargain, bedroom siege, and escape
 - Anna's arrival, earned trust, voluntary hug, final drive, and journal reveal
