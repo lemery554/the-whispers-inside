@@ -92,7 +92,7 @@ After changing, Sarah uses concern, guilt, family obligation, private memory, an
 
 **Role:** Adoptive father; full arc unresolved.
 
-Mark is practical, dependable, hands-on, and likely works in a trade such as contracting, construction, or electrical work. He is away for work when the outbreak begins and never returns. His fate remains intentionally unknown. Calls and texts become delayed, interrupted, suspicious, and finally stop. His absence leaves Sarah carrying the family alone and gives Brooke another reason to review messages and recordings. Mark owns the secured firearm Sarah later uses. His exact trade may remain a minor implementation detail.
+Mark is practical, dependable, hands-on, and works as an electrician for a regional electrical contractor, often traveling to rewire older commercial buildings. He is away for work when the outbreak begins and never returns. His fate remains intentionally unknown. Calls and texts become delayed, interrupted, suspicious, and finally stop. His absence leaves Sarah carrying the family alone and gives Brooke another reason to review messages and recordings. Mark owns the secured firearm Sarah later uses.
 
 **Voice:** *(Minimal on-page voice — he's absent for nearly the whole book.)* What we get is filtered through texts and calls: short, practical, dad-humor undercutting worry ("tell your mother I said hi and that the truck's fine").
 

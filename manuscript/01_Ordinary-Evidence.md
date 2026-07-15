@@ -2,7 +2,7 @@
 
 Claire was wearing Brooke's blue hoodie when she came into the kitchen, which meant the day had begun with theft.
 
-It was not an ambiguous hoodie. Brooke had bought it with money from editing three hours of dance-recital footage for a woman who believed every child deserved equal screen time. There was a pale bleach mark inside the right cuff from a failed attempt to clean red nail polish off her desk. Her initials were written on the tag in black marker, although the B had bled until it looked like an eight.
+It was not an ambiguous hoodie. Brooke had bought it with money from editing three hours of dance-recital footage for a woman who believed every child deserved equal screen time. There was a pale bleach mark inside the right cuff from a failed attempt to clean red nail polish off her desk.
 
 Claire wore it unzipped over her school shirt, sleeves pulled over her hands.
 
@@ -132,9 +132,7 @@ Claire had already begun cutting into the stack and did not appear to know she h
 
 Brooke took the plate with her upstairs.
 
-Her room looked better through a lens. In person, the editing desk was too crowded, the cables beneath it visible no matter how many times she tied them together. A stack of memory-card cases leaned against the monitor. Two camera batteries charged beside a chipped mug full of pens, hair ties, and one screwdriver she kept forgetting to return to the garage.
-
-Through the rear window, morning light flattened the shallow porch roof below into a gray rectangle. She had used it twice for low-angle shots of the backyard and been caught twice. Sarah objected less to the climbing than to the fact that Brooke had rested a tripod where one bad movement would have sent it into the hydrangeas.
+Her room looked better through a lens. In person, cables showed beneath the editing desk no matter how many times she tied them together. Memory-card cases leaned against the monitor. Two camera batteries charged beside a chipped mug full of pens and one screwdriver she kept forgetting to return to the garage.
 
 Brooke set her plate beside the keyboard and checked the files she had saved overnight.
 
@@ -164,7 +162,7 @@ From the hall, Claire shouted, "Mom says we're leaving!"
 
 Brooke looked at her untouched pancakes, picked up the plate, and took one bite standing over the desk. They were already cold.
 
-Downstairs, Sarah waited by the front door with her purse over one shoulder and travel mug in hand. Claire had added Brooke's black knit hat to the hoodie.
+Downstairs, Sarah waited by the front door with her purse over one shoulder and travel mug in hand. Her first work call started after the school run. Claire had added Brooke's black knit hat to the hoodie.
 
 "Absolutely not," Brooke said.
 
@@ -190,17 +188,15 @@ Brooke checked the sidewalk in both directions. She did not know what she expect
 
 There was only a damp patch of concrete where somebody's sprinkler had reached too far.
 
-Claire bumped Brooke's shoulder on the way to the car.
-
-"You coming, detective?"
+Claire bumped Brooke's shoulder on the way to the car. "You coming?"
 
 "Give me my hat."
 
-"Solve the case first."
+By lunch, the overnight outbreak had acquired three new expert interviews and a rumor that Ashcroft High would close on Monday. Beneath the cafeteria's flickering blue menu board, Nora Patel said the red medicine was an experimental antiviral. A boy behind her said his cousin's roommate worked at Saint Vincent's and the emergency room was empty. Before Nora could answer, he added that the National Guard had taken over the hospital.
 
-By the end of the school day, the overnight outbreak had acquired three new expert interviews, a state health-department statement, and a rumor that Ashcroft High would close on Monday. The last one traveled through the cafeteria before lunch and was disproved by the principal before the final bell, which did nothing to kill it.
+The principal disproved the closure rumor over the intercom before final bell. Nobody sounded convinced.
 
-Brooke did not mention the clips. Everybody else had already decided what they meant. Nora Patel in chemistry said the red medicine was an experimental antiviral. A boy behind them said his cousin's roommate worked at Saint Vincent's and the emergency room was empty. Then he said the government had deployed the National Guard to Hartford. He appeared equally confident about both.
+Brooke did not mention the clips. Everybody else had already decided what they meant.
 
 Brooke kept her phone facedown and thought about the girl gripping her mother's wrist.
 
@@ -266,9 +262,7 @@ The shot included Claire and Cooper, the narrow living-room wall crowded with fa
 
 She barely remembered the missing tooth. She remembered the grit inside her swimsuit for the drive home, Claire asleep against her arm, and Mark carrying both their plastic buckets because neither girl would agree to leave one behind.
 
-The video held what memory had dropped. Mark behind the camera asking who had stolen his legs. Sarah's shadow stretching across the sand. Claire patting the mound around Brooke's knees with both hands and announcing that she lived there now.
-
-Brooke had watched it enough times to know her own laugh began half a second before Claire finished the sentence.
+The video held what memory had dropped: Mark behind the camera asking who had stolen his legs, Sarah's shadow across the sand, Claire patting the mound around Brooke's knees and announcing that she lived there now.
 
 "Are you coming in?" Claire asked.
 
@@ -279,8 +273,6 @@ Claire remained on the floor with both arms around Cooper. His chin rested on he
 "You got dog on it," Brooke said.
 
 "He lives here. You don't."
-
-"Compelling legal argument."
 
 Claire squeezed Cooper once more, then stood. "I'm making popcorn."
 
@@ -302,10 +294,10 @@ Brooke could go in. She could take back the hoodie, eat popcorn, and listen to C
 
 Instead she sat on the front step and replayed the clip.
 
-Claire's hand covered most of the keypad.
+Claire's palm had hidden her fingers. At the edge of the frame, thin blue halos marked where each one landed.
 
 Most of it.
 
-Claire's hand seemed to cover the code. Brooke did not watch closely enough to check the sequence of blue flashes at the edge of the frame.
+Brooke was already listening to Claire complain about the popcorn when the flashes passed.
 
 Claire called from the kitchen that the popcorn smelled weird. Cooper barked once at the microwave. Brooke went inside, and that evening the doorway clip joined six other ordinary pieces in the short video she uploaded under her own name.

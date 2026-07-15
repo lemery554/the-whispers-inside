@@ -4,7 +4,7 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 
 ## M1: Foundation decisions
 
-- [x] **TWI-001 | P0 | Decide Mark Bennett's role and fate**: Mark is away for work when the outbreak begins, his communications degrade, he never returns, and his fate remains intentionally unknown. Exact trade is a minor implementation detail.
+- [x] **TWI-001 | P0 | Decide Mark Bennett's role and fate**: Mark is an electrician for a regional electrical contractor. He is away rewiring an older commercial building when the outbreak begins, his communications degrade, he never returns, and his fate remains intentionally unknown.
 - [x] **TWI-002 | P0 | Decide Cooper's final role with Anna**: Cooper rides in the final car, permits Anna near Brooke, remains uneasy, watches Anna, and reacts to the journal reading without exposing her to Brooke.
 - [x] **TWI-003 | P0 | Decide contact transmission**: Touch does not transmit the illness. The actual route remains unknown to characters and readers.
 - [x] **TWI-004 | P0 | Decide the direct-lying rule**: All changed people are unable to state direct falsehoods; they use omission, narrow truths, and misinterpretation.
