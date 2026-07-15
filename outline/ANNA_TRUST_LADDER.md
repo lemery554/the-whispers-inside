@@ -1,144 +1,59 @@
-# Anna's Trust Ladder — TWI-104
+# Anna's Approach — TWI-104
 
-Tracks how Anna moves from stranger to the person Brooke voluntarily embraces, rung by rung. Each rung lists what Anna does, the technically true statement she relies on (per `bible/infection/RULES.md`'s direct-lying rule), the misinterpretation she permits without creating, the boundary she visibly respects, and the hope it plants. Built to satisfy STORY_RULES Rule 10 (no direct biological claim), Rule 15 (Anna wins through consent), and Rule 18 (Brooke is understood, not chosen).
+How Anna moves from stranger to the person Brooke runs *to* on the worst night of her life. After the one-night ending rework (see `CHANGELOG.md`), this is no longer a slow nine-rung courtship over several post-escape days; it is **surveillance + two brief in-person meetings + an engineered escape-night pickup**, then the reveal. The horror shifts from "patient courtship wins" to "she studied Brooke so completely that she knew exactly when Brooke would have nowhere else to run — and made herself the only safe door."
 
-This ladder runs on the public/parasocial track — comments, messages, eventual meetings — parallel to and independent of Anna's two secret physical entries into the house (`bible/characters/MAIN_CAST.md`), which supply her information but are never revealed to Brooke until the journal image.
+Built to satisfy STORY_RULES Rule 10 (no direct biological claim), Rule 11 (no direct lies), Rule 15 (Anna wins through consent, Brooke initiates the decisive closeness), and Rule 18 (Brooke is understood, not chosen).
 
----
+## The spine (non-negotiable guardrails)
 
-### Rung 1 — Passive presence
+1. **Anna never forces.** No chasing, grabbing, or commanding at any point — including the car. Brooke gets in herself.
+2. **Anna never states a direct falsehood** (Rule 11). She answers narrowly, volunteers true details, and lets Brooke build the false conclusion.
+3. **Brooke supplies the biological-mother claim** (Rule 10). Anna never says it.
+4. **Anna's arrival is engineered, not luck.** She is parked nearby on the escape night because she has been *watching* — keypad, two break-ins, the videos told her the house was a pressure cooker. The journal reveal confirms she was waiting. If it reads as coincidence, the book's thesis collapses.
+5. **Brooke initiates the one decisive closeness** (Rule 15). In the car, Brooke reaches for Anna; Anna does not reach first — even under duress, the choice is Brooke's.
 
-**Action:** Anna watches Brooke's videos for a period before ever engaging. First contact is a comment — brief, specific, low-stakes (notices a detail only a careful viewer would catch).
+## Phase 1 — Surveillance *(pre-contact, roughly Days 7–22)*
 
-**Technically true statement:** Something like "I've been watching for a while" — true, unremarkable on its face.
+- **Sources:** Brooke's public videos (Days 7–18), the keypad from an old family video (found Day 17), two school-day house entries (Day 18 investigation, Day 19 journal), and the journal's letter, private entries, and adoption materials.
+- **What Anna learns:** Brooke's adoption wound; that mediated distance feels safer to Brooke than closeness; the biological mother's full name; the beach memory; what the biological mother looked like (for the resemblance).
+- **Function:** everything Anna later "knows" has a documented source (`ANNA_KNOWLEDGE_MATRIX.md`). Nothing supernatural; nothing about Brooke's real mother is ever sought.
 
-**Misinterpretation permitted:** None yet. This rung earns nothing except Brooke noticing the name.
+## Phase 2 — Meeting 1: the dog park *(Day 11, casual)*
 
-**Boundary respected:** Doesn't ask for anything. Doesn't introduce herself beyond a first name.
+- **Action:** Walking Cooper after school, Brooke meets a calm stranger who recognizes her from the videos. Anna gives no name of consequence and makes **no claim**.
+- **Technically true statement:** "I've watched your videos" — true, unremarkable.
+- **Misinterpretation permitted:** none yet — Brooke just registers a kind, undemanding stranger.
+- **Boundary respected:** asks nothing, doesn't follow up aggressively.
+- **Cooper:** his one exposure to Anna; mild wariness that later reads as tolerance in the car.
+- **Hope planted:** that a stranger can be gentle and want nothing — the low-pressure connection Brooke's journal says she prefers. *(Note: at Day 11 Anna knows Brooke only from the videos; the house entries and journal come later.)*
 
-**Hope planted:** None yet — this rung exists only to become familiar before it becomes significant.
+## Phase 3 — Meeting 2: the diner *(Day 23, the reveal-to-Brooke)*
 
----
+- **Action:** Brooke slips out past Sarah's confinement to meet Anna again, at a diner. Anna — resemblance now built (Day 20), full name in hand (Day 19) — lets Brooke conclude she is her biological mother.
+- **Technically true statements:** narrow, real answers about timing, feeling, and details from the letter; "Every second," "I knew you were waiting" — all true of Anna, all traceable to the videos or journal.
+- **Misinterpretation permitted:** the central one — Brooke concludes Anna is her biological mother. Anna never affirms it outright (Rule 10); she lets silence and true-but-incomplete answers do the work.
+- **Boundary respected:** Anna doesn't push, doesn't demand a next meeting, doesn't touch.
+- **Hope crystallizes into belief:** Brooke now *wants* Anna to be her mother, days before the collapse.
 
-### Rung 2 — Undemanding contact
+## Phase 4 — The engineered pickup *(Day 26 night, the car)*
 
-**Action:** Anna sends a direct message, explicitly framed as requiring no reply. Offers something small and specific — not "I'm here for you," but a concrete, useful thing (a resource, a detail relevant to Brooke's situation).
+- **Action:** Brooke escapes the siege, runs down the street with Cooper — and Anna's car is there. Anna opens the door and waits. Brooke gets in **herself**.
+- **Why engineered, not luck:** Anna has been surveilling; she positioned herself. The reveal confirms she was waiting.
+- **Boundary respected:** Anna never grabs or commands; Cooper tolerates her (Day-11 exposure).
+- **Brooke's decisive closeness:** as they drive, Brooke — shaking — reaches for Anna; Anna does not reach first (Rule 15). Sarah's text lands ("It isn't safe out there. Come home."); Brooke doesn't answer.
+- **Hope fulfilled (and betrayed):** Brooke believes she has run *to* her mother. She chose it — under terror, but by her own hand.
 
-**Technically true statement:** "You don't have to answer this."
+## Phase 5 — The reveal *(Day 26 night, reader-only)*
 
-**Misinterpretation permitted:** Brooke may read the lack of demand as unusual kindness rather than calculated design — precisely the mediated, low-pressure connection her journal entry says she prefers.
-
-**Boundary respected:** No follow-up if Brooke doesn't respond. No repeated messaging.
-
-**Hope planted:** That this is a person who won't need anything back from her — safety through distance, exactly Brooke's own established coping mechanism.
-
----
-
-### Rung 3 — Brooke initiates
-
-**Action:** Brooke responds first. Anna answers narrowly — enough to be useful, not enough to over-explain herself.
-
-**Technically true statement:** Answers the literal question asked and nothing else.
-
-**Misinterpretation permitted:** Brooke may read the narrowness as respect for privacy rather than deliberate withholding.
-
-**Boundary respected:** Doesn't ask personal questions back. Lets Brooke set the pace entirely.
-
-**Hope planted:** That she's found someone who listens without extracting.
-
----
-
-### Rung 4 — The first resemblance-adjacent statement
-
-**Action:** In a longer exchange, Anna makes a statement that is true of herself and coincidentally consistent with details Brooke has shared publicly or privately (age range, region, something about timing) — never a claim, just a fact that invites a connection Brooke draws on her own.
-
-**Technically true statement:** A real, verifiable fact about Anna's own life that happens to line up.
-
-**Misinterpretation permitted:** This is the rung where Brooke's biological-mother hope first attaches to Anna specifically. Per STORY_RULES Rule 10, Anna never states the connection — she answers a question or volunteers a true detail and lets Brooke do the arithmetic.
-
-**Boundary respected:** If Brooke doesn't pursue the implication, Anna doesn't push it further herself.
-
-**Hope planted:** The specific hope Brooke has carried since before the novel begins — found by someone who chose to look.
-
----
-
-### Rung 5 — First meeting, controlled setting
-
-**Action:** A public, low-stakes in-person meeting at a **dog park** (venue locked) — open sightlines, daylight, other people, and a natural place for Cooper to be present. Brooke controls the distance; Anna stays across the space and never closes it.
-
-**Technically true statement:** Anna's demeanor and answers remain literally accurate; she may deflect a direct question with a narrower true answer rather than a lie.
-
-**Misinterpretation permitted:** Brooke may read Anna's calm as trustworthiness rather than rehearsal.
-
-**Boundary respected:** Anna lets Brooke control the length and location of the meeting. Doesn't touch, doesn't push for a second meeting immediately.
-
-**Hope planted:** That this can happen again on Brooke's terms.
-
----
-
-### Rung 6 — Direct question, careful answer
-
-**Action:** At some point Brooke asks a version of the direct question. Anna answers with a technically true statement that permits the false conclusion without stating it.
-
-**Technically true statement:** Per Rule 10 — Anna never says "I am your mother." She might answer a narrower true question (e.g., about timing, feeling, or a detail from the letter) in a way that Brooke reasonably, but wrongly, completes.
-
-**Misinterpretation permitted:** The central one — Brooke concludes Anna is her biological mother.
-
-**Boundary respected:** Anna doesn't correct Brooke, but she also doesn't affirm outright — she lets the silence and the true-but-incomplete answer do the work, preserving her own inability to state a direct falsehood.
-
-**Hope planted:** The hope crystallizes into belief.
-
----
-
-### Rung 7 — Anna respects a real boundary
-
-**Action:** At some point Brooke hesitates, withdraws, or sets a limit (declines contact for a period, asks Anna not to do something). Anna visibly, immediately complies without protest or guilt-language.
-
-**Technically true statement:** N/A — this rung is about restraint, not speech.
-
-**Misinterpretation permitted:** Brooke reads this as proof Anna is different from Sarah and Claire — proof this relationship won't become the suffocating, boundary-violating thing the changed represent elsewhere in the book.
-
-**Boundary respected:** This rung is the boundary being respected.
-
-**Hope planted:** That closeness with Anna doesn't cost Brooke her autonomy the way closeness with her changed family now does. This is the load-bearing rung — it directly inverts what the reader (and eventually Brooke) has learned to fear about the changed.
-
----
-
-### Rung 8 — Physical proximity, Anna-initiated distance
-
-**Action:** In a moment where physical comfort would be expected, Anna holds back — doesn't hug first, doesn't reach for Brooke's hand — even when it would be easy to.
-
-**Technically true statement:** N/A.
-
-**Misinterpretation permitted:** Brooke reads the restraint as respect rather than strategy.
-
-**Boundary respected:** Anna never initiates touch first, at any point on the ladder, up to and including the final scene.
-
-**Hope planted:** That when closeness finally happens, it will be entirely Brooke's choice.
-
----
-
-### Rung 9 — Brooke's voluntary hug
-
-**Action:** In the climax, under pressure, exhaustion, and isolation from Sarah and Claire, Brooke initiates physical closeness with Anna herself — the hug is not requested, taken, or engineered in the moment. Every prior rung has been designed to make this the safest-feeling choice available to her.
-
-**Technically true statement:** N/A — no statement is needed at this point; the groundwork is behavioral, not verbal.
-
-**Misinterpretation permitted:** The full one — Brooke, in this moment, believes she is finally being held by someone who has only ever respected her, asked nothing of her, and waited.
-
-**Boundary respected:** N/A — this rung is the payoff of every boundary respected before it.
-
-**Hope fulfilled (and betrayed):** Per STORY_RULES Rule 15 and Rule 18, this is Anna winning through consent, not force — and per Rule 18, the horror is that Brooke was understood well enough to be led here, not chosen for who she uniquely is.
-
----
+- Brooke sleeps; Anna opens the stolen journal, pauses on the beach passage; Cooper watches. The reader learns Anna is not Brooke's mother and was studying her all along — the sole controlled POV exception (Rule 1).
 
 ## Cross-check against locked canon
 
-- No rung has Anna stating a direct falsehood, consistent with `bible/infection/RULES.md`.
-- No rung has Anna claiming biological motherhood outright, consistent with STORY_RULES Rule 10.
-- Every escalation in physical/emotional access is initiated or permitted by Brooke, not taken by Anna, consistent with STORY_RULES Rule 15.
-- Nothing here implies Anna's strategy is unique to Brooke — the ladder is built from patience and observation, replicable with anyone sufficiently studied, consistent with STORY_RULES Rule 18.
+- No direct falsehood at any phase (Rule 11); Brooke introduces the mother claim (Rule 10).
+- Every escalation in access is Brooke's own step toward Anna, never Anna's grab (Rule 15) — including getting in the car and the in-car reach.
+- Anna's method is study + patience + engineered timing, replicable with anyone sufficiently observed — Brooke is exposed, not chosen (Rule 18).
+- The shift from patient courtship to engineered rescue is recorded in `CHANGELOG.md`; the "consent, not force" spine is preserved by guardrails 1 and 5.
 
 ## Open questions
 
-Rung 5's meeting location is locked (a dog park; OQ-05 resolved). Rung-to-chapter placement remains tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-04).
+Rung-to-chapter placement is resolved by the rework (dog park Day 11 / Ch 12; diner Day 23 / Ch 24; pickup Day 26 / Ch 28). No open questions remain in this file.
