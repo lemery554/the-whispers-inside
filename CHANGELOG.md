@@ -4,6 +4,7 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-15
 
+- Implemented Chapter 2 developmental feedback: tightened program and post-conflict material, grounded the unavailable travel and childcare alternatives, clarified the Thursday-to-Saturday chronology, removed a premature school-closeness image, kept the cancellation recording private, and simplified the final archive image.
 - Changed the chapter-issue completion rule: close each chapter issue once its current editor feedback has been implemented and pushed; reopen only for another revision round.
 - Implemented Batch 1 developmental feedback across Chapters 3–5: tightened upload, call, camera-test, symptom-cycle, debate, and departure material; varied Brooke's failed-repair beats; corrected the vomiting-duration wording; and preserved the central emotional and horror sequences.
 - Locked animal detection timing: animals sense the underlying alteration during the early purge, before apparent recovery or recognizable behavioral change.

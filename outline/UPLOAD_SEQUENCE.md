@@ -41,6 +41,10 @@ Every private thing Anna later "knows" traces to an upload or to the house entri
 - Titles stay plain per TWI-006; if a title is quoted in prose, keep it un-branded and un-clickbaity.
 - Found-media inserts drawn from these uploads (and their comments) should stay brief, per the 10–15% found-media target (see `outline/PACING_PASS.md`).
 
+## Private recordings
+
+Brooke's Day 2 recording of the workshop cancellation remains in her private archive. It is not uploaded and does not give Anna an additional knowledge source.
+
 ## Open items
 
 - Exact view numbers are illustrative, not locked — tune during drafting so the Day-14 jump lands. Not an author-decision blocker.

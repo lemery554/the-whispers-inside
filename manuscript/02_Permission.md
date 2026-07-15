@@ -1,6 +1,6 @@
 # Chapter 2: Permission
 
-The cancellation arrived at 6:42 the next morning and thanked Brooke for a decision she had not made. She read it twice before getting out of bed.
+The cancellation arrived at 6:42 Thursday morning and thanked Brooke for a decision she had not made. She read it twice before getting out of bed.
 
 **ASHCROFT YOUTH FILM COLLABORATIVE**  
 **Registration Withdrawal Confirmed**
@@ -13,7 +13,7 @@ The rest was a refund policy and a signature from someone named Celia who wished
 
 Brooke pressed the phone to her blanket as if covering the screen could restore her place.
 
-The workshop was not a summer camp or a school club pretending phones made everyone a director. It was six hours at the Harlan Media Center in New Haven with three working filmmakers, actual lighting equipment, and an editing suite Brooke had looked up so many times she knew which stations had color-calibrated monitors. Twenty-four students had been accepted. Applicants submitted a two-minute film and a statement about why they wanted to tell stories. Brooke had spent four nights cutting hers.
+The workshop was not a summer camp or a school club pretending phones made everyone a director. It was six hours at the Harlan Media Center in New Haven with working filmmakers and equipment Ashcroft High did not own. Twenty-four students had been accepted. Brooke had spent four nights cutting her two-minute application film.
 
 Sarah had watched the finished application at the kitchen island. She had cried at the wrong part, denied crying, then paid the registration fee before Brooke could talk herself out of going. Now Brooke opened the message details.
 
@@ -71,7 +71,7 @@ Sarah put the knife in the sink. She rinsed it though nothing remained on the bl
 
 "What does that have to do with Saturday?"
 
-"It means he's not here. It means I'd have to take you to New Haven and leave Claire with Mrs. Dunn all day, assuming Mrs. Dunn is still comfortable having people in her house."
+"It means he's not here. The program paused its carpool list because people are getting sick. I am not putting you on a train by yourself, they won't let Claire stay through the sessions, and Mrs. Dunn isn't comfortable having her all day now."
 
 "Why wouldn't she be?"
 
@@ -131,11 +131,7 @@ Sarah glanced toward the doorway. "Do what?"
 
 "Then tell me what you mean."
 
-Brooke knew. The answer had lived in the house for years without anyone agreeing to name it.
-
-Sarah checked Brooke's location when she went out. Sarah asked for the address, the parents' names, the time she would leave, the time she would return, and a text when she arrived. Claire could cross two backyards to a friend's house with one shouted sentence over her shoulder. There were reasonable explanations for all of it. Age. Friends. Distance. The fact that Brooke was the one who wanted to go farther.
-
-Reasonable explanations arranged themselves easily when Sarah was the one arranging them.
+Brooke knew. The answer had lived in the house for years without anyone agreeing to name it. Sarah checked Brooke's location when she went out. She asked for the address, the parents' names, the time Brooke would leave, the time she would return, and a text when she arrived. Claire could cross two backyards to a friend's house with one shouted sentence over her shoulder. Age and distance explained some of it. They did not change how it felt.
 
 "You trust her," Brooke said.
 
@@ -171,17 +167,13 @@ Instead she looked at the cancellation email and saw her empty seat offered to s
 
 The refrigerator motor turned on. In the living room, the cereal bowl met the coffee table with a small ceramic knock.
 
-Sarah's mouth opened. Nothing came out. She looked as though Brooke had slapped her, and for one terrible second Brooke felt the satisfaction of having finally found the exact place to hurt. Then the satisfaction became something else.
+Sarah's mouth opened. Nothing came out. For one terrible second, Brooke felt the satisfaction of having found the exact place to hurt.
 
 Sarah picked up the two lunch bags. She folded the tops once, then again, making the creases hard beneath her thumbs.
 
 "We need to leave in six minutes," she said.
 
-"Mom."
-
-"Your lunch is on the counter."
-
-"I didn't mean it like that."
+"Mom, I didn't mean it like that."
 
 Sarah put Claire's lunch beside Brooke's. "How did you mean it?"
 
@@ -194,14 +186,6 @@ Claire appeared in the doorway holding her empty bowl. Her gaze moved from Sarah
 "Are we still going to school?"
 
 "Yes," Sarah said.
-
-"Even if it's closing Monday?"
-
-"It isn't closing Monday."
-
-"That's what schools say before they close."
-
-Normally Brooke would have answered. Sarah would have told Claire that schools were not people and therefore could not plot against her. The rhythm was waiting for them. Nobody stepped into it.
 
 Sarah took her keys from the hook. "Shoes. Both of you."
 
@@ -221,9 +205,7 @@ At lunch, Nora Patel asked whether Brooke was still going Saturday. Brooke said 
 
 Brooke hated Sarah for making the lie necessary. She hated herself for choosing it.
 
-After final bell, she waited beside Claire's locker while three students blocked the hall in a loose embrace. One of them was crying. The other two held her without speaking until a teacher asked them to move along.
-
-Claire arrived with her backpack open and two pencils caught in her hair.
+After final bell, Brooke waited beside Claire's locker beneath a speaker that clicked with half-finished dismissal announcements. Claire arrived with her backpack open and two pencils caught in her hair.
 
 "Mom's outside," she said.
 
@@ -259,7 +241,7 @@ The cancellation email looked different on her monitor. Larger, not more meaning
 
 *Mom canceled the workshop without asking me. She says it's because you're gone and people are sick, but that's not all of it. She thinks if she watches me closely enough nothing can happen. I said something awful.* She stopped. The cursor waited after the period.
 
-If she sent it, Mark would call Sarah. Sarah would know Brooke had made him referee from a hotel two hours away. He would tell Brooke her mother worried because she loved her. He would be right, which would not make Sarah right.
+If she sent it, Mark would call Sarah and referee from a hotel two hours away. Brooke did not want his balanced answer again.
 
 Brooke selected the message and copied it into a blank note instead.
 
@@ -269,9 +251,7 @@ Downstairs, a cupboard closed. Water ran. Sarah called to Claire that dinner wou
 
 Brooke set her phone against the monitor and opened the camera.
 
-She recorded the workshop email first. Then the acceptance letter. Then the application film paused on its opening frame.
-
-She did not speak. She let the documents occupy the screen long enough to be read.
+She recorded the workshop email first, then the acceptance letter and the application film paused on its opening frame. She did not speak. She let the documents occupy the screen long enough to be read, then saved the recording to her private archive.
 
 When she finished, the room had darkened around the monitor. A local-news alert appeared across the corner of the display.
 
@@ -281,4 +261,4 @@ Brooke opened it. The article said the hospital remained fully operational. It s
 
 Below the article, a photograph showed workers unfolding white privacy screens beside the ambulance entrance. Brooke saved that too.
 
-She placed the cancellation recording beside the hospital footage in her archive, separate folders sharing the same date. One was evidence that something had been taken from her. The other was evidence that Sarah might have been afraid for a reason. Both could be true. Brooke closed neither file.
+She placed the cancellation recording beside the hospital footage in her archive, separate folders sharing the same date. The two files remained open on her monitor.

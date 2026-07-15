@@ -26,6 +26,7 @@ The Bennett neighborhood sits on a residential loop with two practical exits: a 
 
 - Bennett home to Ashcroft High: 8 to 12 minutes by car.
 - Bennett home to Saint Vincent's Hospital: 15 to 20 minutes in ordinary traffic.
+- Bennett home to the Harlan Media Center in New Haven: roughly 45 to 60 minutes by car. Public transit requires Brooke to travel and transfer without a parent; the workshop provides no transportation and does not allow nonparticipants to remain through the sessions.
 - High school to hospital: about 10 minutes along the commercial corridor.
 - Police and civic center: between the school corridor and older town center.
 - Grocery and pharmacy: a familiar plaza near the school route.
