@@ -16,6 +16,10 @@ All chapters default to dense commercial-novel paragraphing. Avoid isolated narr
 - `07_Better.md`: Chapter 7 first draft
 - `08_Sit-With-Me.md`: Chapter 8 first draft
 - `09_Preferences.md`: Chapter 9 first draft
+- `10_What-They-Remember.md`: Chapter 10 first draft
+- `11_Frame-by-Frame.md`: Chapter 11 first draft
+- `12_Everyone-Is-Fine.md`: Chapter 12 first draft
+- `13_There-You-Are.md`: Chapter 13 first draft
 
 ## Chapter issue workflow
 

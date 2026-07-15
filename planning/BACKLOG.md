@@ -49,7 +49,7 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 
 ## M3: First Draft
 
-- [ ] **TWI-201 | P0 | Draft chapters sequentially**: In progress. Prologue and Chapter 1 are drafted; continue in architecture order at a sustainable pace.
+- [ ] **TWI-201 | P0 | Draft chapters sequentially**: In progress. Prologue and Chapters 1-13 are drafted in architecture order. Continue with Batch 4 after Batch 3 completes its editor-feedback round.
 - [ ] **TWI-202 | P1 | Maintain weekly drafting log**: Track words, scenes, discoveries, continuity changes, and next intent.
 - [ ] **TWI-203 | P0 | Maintain living canon**: Update the timeline, character dossiers, and clue ledger when approved discoveries alter them.
 - [ ] **TWI-204 | P0 | Complete Draft One audit**: Verify beginning, middle, ending, word count, missing scenes, and unresolved placeholders.
