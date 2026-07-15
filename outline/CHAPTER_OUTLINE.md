@@ -2,7 +2,7 @@
 
 **Status:** Complete working architecture for review. Prose drafting remains gated.
 
-**Target:** Prologue plus 34 numbered chapters, approximately 93,500 words. Brooke is the sole narrative viewpoint. The final journal image is the only controlled exception.
+**Target:** Prologue plus 29 numbered chapters, approximately 80,000 words. Brooke is the sole narrative viewpoint. The final journal image is the only controlled exception. The climax and ending compress into a single night (Day 26): siege, escape, the engineered car pickup, and the journal reveal.
 
 ## Prologue: The Color
 
@@ -193,17 +193,17 @@
 ## Chapter 12: Everyone Is Fine
 
 - **Day:** 11
-- **Purpose / setting:** Use school to prove Claire is not unique.
-- **Emotional goal:** Vigilance to isolation.
-- **Conflict:** Brooke observes behavior others normalize.
-- **Reveal:** Strangers sit pressed together and a student waits outside a bathroom.
-- **Hidden clues / payoff:** Counselor repeats television wording; changed students recognize one another without signaling.
-- **Character movement:** Brooke accepts the pattern is public.
+- **Purpose / setting:** Use school to prove Claire is not unique, then plant Anna's first, unremarkable in-person appearance.
+- **Emotional goal:** Vigilance to isolation, cut by one moment of apparent kindness.
+- **Conflict:** Brooke observes behavior others normalize; afterward, walking Cooper to decompress, she meets a calm stranger.
+- **Reveal:** Strangers sit pressed together and a student waits outside a bathroom; at a dog park, a woman (Anna) recognizes Brooke from her videos, gives no name, and makes no claim.
+- **Hidden clues / payoff:** Counselor repeats television wording; changed students recognize one another without signaling; Anna's first in-person contact is calm and undemanding — Cooper's one exposure to her, and his wariness is mild (feeds his escape-night tolerance).
+- **Character movement:** Brooke accepts the pattern is public, and lets one gentle stranger feel like relief.
 - **Tension:** 4/10
 - **Found media:** School announcement and Upload 4.
-- **Estimated words:** 2,900
-- **Continuity:** School remains fully operational.
-- **Question answered / created:** Is Claire the only one? / How far through school has it spread?
+- **Estimated words:** 3,100
+- **Continuity:** School remains fully operational. Anna reveals no identity here and makes no claim; Cooper meets her once.
+- **Question answered / created:** Is Claire the only one? / Who is the woman at the dog park?
 
 ## Chapter 13: There You Are
 
@@ -375,17 +375,17 @@
 ## Chapter 24: Outside
 
 - **Day:** 23
-- **Purpose / setting:** Move Brooke beyond family danger into public emotional capture.
-- **Emotional goal:** Liberation to exposure.
-- **Conflict:** Brooke leaves under a plausible errand and realizes she is being observed.
-- **Reveal:** Unrelated recovered people orient toward her because she is alone.
-- **Hidden clues / payoff:** Public slogans make solitude suspicious; changed officers pass without intervening.
-- **Character movement:** Brooke learns home is not the only danger.
+- **Purpose / setting:** Brooke slips out to meet Anna at a diner; Anna lets her conclude she is her biological mother; leaving, Brooke falls under public emotional capture.
+- **Emotional goal:** Dangerous hope to exposure.
+- **Conflict:** Brooke defies Sarah's confinement to meet the woman from the dog park; on the way home, unrelated recovered people orient toward her because she is alone.
+- **Reveal:** Anna — resemblance now built and the full name in hand — lets Brooke conclude she is her biological mother without ever stating it.
+- **Hidden clues / payoff:** Diner meeting: resemblance styling seen up close (AN-09); technically true language (AN-05); Anna "knows" the full name (from the stolen journal); `Every second` and `I knew you were waiting` trace to videos and journal; public slogans make solitude suspicious; strangers begin to orient toward her.
+- **Character movement:** Brooke wants Anna to be her mother, and learns home is not the only danger.
 - **Tension:** 6/10
 - **Found media:** Public alert: `Stay together.`
-- **Estimated words:** 2,700
-- **Continuity:** Cooper is temporarily with Brooke or reaches her before the return route.
-- **Question answered / created:** Is escape into town safer? / Why do strangers want her?
+- **Estimated words:** 3,200
+- **Continuity:** Anna's second in-person contact and the biological-mother reveal-to-Brooke; Cooper is with Brooke or reaches her before the return route. Anna never states the claim outright (Rule 10).
+- **Question answered / created:** Who is Anna to Brooke? / Why do strangers want her?
 
 ## Chapter 25: Contact
 
@@ -420,120 +420,43 @@
 ## Chapter 27: Separation Distress
 
 - **Day:** 26
-- **Purpose / setting:** Bedroom siege, 911 corruption, gun retrieval, window escape.
-- **Emotional goal:** Entrapment to desperate agency.
-- **Conflict:** Sarah and Claire escalate outside the barricade while Brooke calls for help.
-- **Reveal:** Dispatcher knows Brooke's name; changed officers are sent to reunite her with Sarah.
-- **Hidden clues / payoff:** Long silence precedes the garage safe; Sarah remembers weapon access; house geometry pays off.
-- **Character movement:** Brooke stops waiting for sanctioned rescue.
+- **Purpose / setting:** Bedroom siege, shotgun blast, and window escape into the night.
+- **Emotional goal:** Entrapment to desperate flight.
+- **Conflict:** Sarah and Claire escalate outside the barricade while Brooke calls for help that will not come.
+- **Reveal:** Even 911 is compromised — the dispatcher knows Brooke's unprovided name — and no one is coming; Brooke must save herself.
+- **Hidden clues / payoff:** Long silence precedes the garage safe; Sarah remembers weapon access; the dispatcher knows her name (IN-01); house geometry pays off.
+- **Character movement:** Brooke stops waiting for any sanctioned rescue and runs.
 - **Tension:** 10/10
-- **Found media:** 911 dialogue and possible unsent final upload.
+- **Found media:** 911 dialogue and a possible unsent final upload.
 - **Estimated words:** 4,000
-- **Continuity:** Sarah fires through the door; Brooke exits over porch roof with Cooper; officers arrive after escape.
-- **Question answered / created:** Will authorities protect Brooke? / Who can she trust outside every institution?
+- **Continuity:** Sarah fires the shotgun through the door; Brooke exits over the porch roof with Cooper, drops to the yard, and runs down the street. No police arrive — that beat is cut; the night continues straight into the car.
+- **Question answered / created:** Will anyone protect Brooke? / Where can she possibly go in the dark?
 
-# Part V: Trust
+# Part V: The Last Lesson
 
-## Chapter 28: No Closer
+## Chapter 28: Headlights
 
-- **Day:** 27
-- **Purpose / setting:** Introduce Anna after Brooke's escape, at a public dog park, without relieving dread too quickly.
-- **Emotional goal:** Hypervigilance to cautious attention.
-- **Conflict:** Anna offers help but refuses to approach without permission.
-- **Reveal:** She knows Brooke's public work and says Brooke should not trust her yet.
-- **Hidden clues / payoff:** Restrained resemblance cues; technically true language; Cooper watches but does not attack; Sarah's single post-escape text ("It isn't safe out there. Come home.") lands and goes unanswered.
-- **Character movement:** Brooke allows conversation but not proximity.
-- **Tension:** 7/10
-- **Found media:** Brooke verifies Anna has watched the channel; Sarah's unanswered text.
-- **Estimated words:** 2,900
-- **Continuity:** Anna never claims motherhood or states a falsehood. Sarah's text is technically true (Rule 11) and is her final appearance.
-- **Question answered / created:** Who found Brooke? / Why does Anna feel familiar?
-
-## Chapter 29: Your Choice
-
-- **Day:** 28
-- **Purpose / setting:** Begin Anna's trust ladder through practical care.
-- **Emotional goal:** Suspicion to reluctant relief.
-- **Conflict:** Brooke needs water, shelter, and rest but fears obligation.
-- **Reveal:** Anna accepts every limit without bargaining.
-- **Hidden clues / payoff:** Her behavior directly answers the journal entry about safe distance; a reader-facing `Wait` may escape when Brooke cannot clearly hear.
-- **Character movement:** Brooke accepts resources without accepting Anna's story.
-- **Tension:** 5/10
-- **Found media:** Brooke checks old uploads and comments for Anna's trace.
-- **Estimated words:** 2,700
-- **Continuity:** Cooper remains awake and uneasy.
-- **Question answered / created:** Will Anna respect a refusal? / How does she know what Brooke needs?
-
-## Chapter 30: Every Second
-
-- **Day:** 28
-- **Purpose / setting:** Let Brooke construct the biological-mother interpretation.
-- **Emotional goal:** Guarded questioning to dangerous hope.
-- **Conflict:** Brooke tests Anna with adoption questions and private language.
-- **Reveal:** Anna knows the biological mother's full name but never explains more than asked.
-- **Hidden clues / payoff:** `Every second`, `I knew you were waiting`, and narrow answers all trace to videos or journal.
-- **Character movement:** Brooke begins wanting the answer to be true.
-- **Tension:** 5/10
-- **Found media:** Brooke replays one old adoption-related upload.
+- **Day:** 26 (that night)
+- **Purpose / setting:** The engineered rescue — Anna's car appears as Brooke runs, and they drive away.
+- **Emotional goal:** Terror to dangerous relief.
+- **Conflict:** Nowhere left to run; then headlights. Brooke must decide whether to get into the car of the woman she believes is her mother.
+- **Reveal:** Anna offers and waits — never grabs, never commands; Brooke gets in herself. Sarah's text arrives as they pull away.
+- **Hidden clues / payoff:** Anna's presence is not luck — she was watching and waiting (pays off at the reveal); Cooper tolerates her from the dog-park meeting; Sarah's text (`It isn't safe out there. Come home.`) is technically true and goes unanswered; Brooke initiates the one closeness beat and Anna does not reach first.
+- **Character movement:** Brooke chooses Anna — the decisive closeness is hers, made under duress but not by force.
+- **Tension:** 6/10
+- **Found media:** Sarah's unanswered text.
 - **Estimated words:** 3,000
-- **Continuity:** Literal-truth audit required for every Anna line.
-- **Question answered / created:** Could Anna plausibly be her mother? / Why will she not say it directly?
+- **Continuity:** Same night as the siege; Cooper rides in back, uneasy and awake; Anna never claims motherhood or states a falsehood (Rules 10/11) and never reaches first (Rule 15).
+- **Question answered / created:** Is Brooke finally safe? / Who is Anna when Brooke is not watching?
 
-## Chapter 31: The Safest Person
+## Chapter 29: Continue Learning
 
-- **Day:** 29
-- **Purpose / setting:** Make Anna emotionally safer than any unaffected-seeming alternative.
-- **Emotional goal:** Hope to chosen dependence.
-- **Conflict:** Brooke wants proof while fearing that asking will destroy the possibility.
-- **Reveal:** Anna offers to leave the decision and destination entirely to Brooke.
-- **Hidden clues / payoff:** Photograph-derived styling works cumulatively; Cooper's tolerance is mistaken for approval.
-- **Character movement:** Brooke decides uncertainty with Anna feels safer than certainty alone.
-- **Tension:** 4/10
-- **Found media:** News in background urges everyone home, making Anna's restraint feel exceptional.
-- **Estimated words:** 2,800
-- **Continuity:** Anna remains calm, sincere, and nonaggressive.
-- **Question answered / created:** Why does Brooke stay? / Will she choose physical closeness?
-
-## Chapter 32: Let Her Choose
-
-- **Day:** 29
-- **Purpose / setting:** Complete the learned strategy with Brooke's voluntary hug.
-- **Emotional goal:** Isolation to fragile safety.
-- **Conflict:** Brooke must decide whether accepting comfort means surrendering judgment.
-- **Reveal:** Brooke initiates the embrace; Anna does not reach first.
-- **Hidden clues / payoff:** Claire's force, Sarah's guilt, and strangers' pursuit are inverted; patience succeeds.
-- **Character movement:** Brooke chooses closeness for the first time since escalation.
-- **Tension:** 5/10
-- **Found media:** None; the choice needs uninterrupted prose.
-- **Estimated words:** 2,600
-- **Continuity:** Touch does not transmit illness; its danger is trust.
-- **Question answered / created:** Can Anna make Brooke choose her? / What has Brooke actually chosen?
-
-# Part VI: The Last Lesson
-
-## Chapter 33: Somewhere Quiet
-
-- **Day:** 30
-- **Purpose / setting:** Begin the final drive with genuine relief and unresolved destination.
-- **Emotional goal:** Exhaustion to surrender.
-- **Conflict:** Brooke asks where they are going; Anna answers truthfully but vaguely.
-- **Reveal:** Ashcroft continues functioning behind them under changed priorities.
-- **Hidden clues / payoff:** Quiet state-route geography; Anna never provides a destination that could become a lie.
-- **Character movement:** Brooke allows herself to sleep because Anna and Cooper are present.
-- **Tension:** 3/10
-- **Found media:** Final calm broadcast fading with distance.
-- **Estimated words:** 2,500
-- **Continuity:** Brooke sleeps against passenger window; Cooper stays awake in back.
-- **Question answered / created:** Are they escaping Ashcroft? / Who is Anna when Brooke is not watching?
-
-## Chapter 34: Continue Learning
-
-- **Day:** 30
-- **Purpose / setting:** Deliver the reader-only journal confirmation in the moving car.
-- **Emotional goal:** Safety to quiet betrayal.
-- **Conflict:** Cooper watches Anna open the missing journal while Brooke sleeps.
-- **Reveal:** Anna entered the house, stole the journal, constructed the resemblance, and is not Brooke's biological mother.
-- **Hidden clues / payoff:** Keypad, moved photograph, two visits, missing journal, full name, beach memory, repeated language, styling, and patience all resolve.
+- **Day:** 26 (that night)
+- **Purpose / setting:** Deliver the reader-only journal confirmation in the moving car, the same night.
+- **Emotional goal:** Fragile safety to quiet betrayal.
+- **Conflict:** Cooper watches Anna open the missing journal while Brooke sleeps against the window.
+- **Reveal:** Anna entered the house, stole the journal, constructed the resemblance, timed the rescue, and is not Brooke's biological mother.
+- **Hidden clues / payoff:** Keypad, the ajar keepsake box, two visits, the missing journal, the full name, the beach memory, repeated language, styling, and the engineered pickup all resolve.
 - **Character movement:** Brooke does not move; the reader's understanding changes completely.
 - **Tension:** 7/10, quiet rather than explosive.
 - **Found media:** None.
@@ -543,8 +466,9 @@
 
 ## Architecture totals and gates
 
-- **Projected prose:** Approximately 93,500 words including prologue.
-- **Found media:** Planned in 18 of 35 units, usually brief; target remains 10 to 15 percent of final word count.
-- **POV:** Brooke throughout, with only the final journal image exceeding her awareness.
+- **Projected prose:** Approximately 80,000 words including prologue (prologue + 29 chapters), after the one-night ending compressed the former Chapters 28–34 into two.
+- **Found media:** Brief throughout; target remains 10 to 15 percent of final word count.
+- **POV:** Brooke throughout, with only the final journal image (Chapter 29) exceeding her awareness.
+- **Structure note:** The narrative concludes on the night of Day 26; the final days of institutional drift (Phase 6) occur off-page. Anna's arc compresses to surveillance plus two brief in-person meetings (dog park, Day 11; diner, Day 23) and the engineered escape-night pickup.
 - **Drafting gate still requires:** character-arc map, scene inventory validation, infection behavior audit, Foundation continuity audit, and author acceptance of this architecture.
 - **Deferred decisions:** ending eye effect and exact final sentence.
