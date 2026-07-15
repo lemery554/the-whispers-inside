@@ -44,8 +44,8 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [x] **TWI-106 | P1 | Plan Brooke's upload sequence**: Lock titles, contents, view growth, comments, survival value, and information Anna learns. Completed in `outline/UPLOAD_SEQUENCE.md` (7 uploads, Days 3–26, with the Anna-learning throughline).
 - [x] **TWI-107 | P0 | Audit ending fairness**: Confirm keypad, house disturbance, missing journal, repeated language, and final journal proof all survive a reread test. Completed in `outline/ENDING_FAIRNESS_AUDIT.md` — PASS; re-run against the one-night ending rework (2026-07-15) with a new engineered-pickup fairness check — still PASS.
 - [x] **TWI-108 | P1 | Run outline pacing and continuity pass**: Check chronology, geography, emotional escalation, quiet space, clue density, found-media ratio, and projected length. Completed in `outline/PACING_PASS.md` — PASS; corrected projected length to ~85,000 and flagged the Ch 17–22 tension plateau for drafting. Resolves OQ-10.
-- [ ] **TWI-109 | P0 | Authorize drafting**: Open the drafting gate only after M1 and every P0 M2 task pass review.
-- [ ] **TWI-110 | P0 | Draft and review the prologue**: Begin only after TWI-109. Use commercial prose, red-medicine horror, and no authoritative explanation.
+- [x] **TWI-109 | P0 | Authorize drafting**: Drafting authorized by the author (2026-07-15). All P0 M1 and M2 tasks complete; the active author-decision queue is empty; only the exact final line (TWI-011) remains intentionally deferred to drafting/revision. The drafting gate is open, beginning with the prologue (TWI-110).
+- [ ] **TWI-110 | P0 | Draft and review the prologue**: First draft complete in `manuscript/prologue.md` (~1,960 words; commercial close-third prose, red-medicine horror, synchronized vomiting, the uncanny recovery, no authoritative explanation, Brooke's footage-preserving habit, and Cooper's early unease). Awaiting author review before it's marked done.
 
 ## M3: First Draft
 
