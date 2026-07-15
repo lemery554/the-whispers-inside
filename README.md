@@ -2,6 +2,10 @@
 
 Development repository for *The Way They Love*, a psychological family-horror novel about trust, memory, and love becoming possession.
 
+![Cover concept for The Way They Love](assets/cover-concepts/the-way-they-love-cover-concept-01.jpg)
+
+*Early cover concept. Final production artwork, typography, dimensions, and print specifications remain subject to the self-publishing design process.*
+
 ## Story hook
 
 When a violent stomach illness sweeps through her suburban town, seventeen-year-old Brooke Bennett turns to her camera to preserve the truth. The people who survive seem healthy, but recovery leaves them desperate for affection, reassurance, and physical closeness. They still remember every private joke, family argument, password, and regret. They still say they love you. They simply no longer understand why love should ever let someone leave.
@@ -39,6 +43,7 @@ The people who recover from the illness remain recognizable, retain their memori
 - `notes/`: rejected directions retained for protection against regression
 - `research/`: factual and setting research
 - `archive/`: retired material retained for history
+- `assets/cover-concepts/`: exploratory cover artwork
 
 When files conflict, use the complete project brief and the latest explicit canon decision. Record material changes in `CHANGELOG.md`.
 
