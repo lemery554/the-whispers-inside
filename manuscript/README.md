@@ -15,7 +15,7 @@ All chapters default to dense commercial-novel paragraphing. Avoid isolated narr
 
 ## Chapter issue workflow
 
-Each of the 29 numbered chapters has a GitHub issue in the `M3: First Draft` milestone. Chapters are drafted in continuity batches, but each chapter retains its own issue for editor feedback, revision, and author approval. Add `codex-ready` only when the latest comments are ready to implement. Keep each issue open through revisions and close it after the author accepts the chapter.
+Each of the 29 numbered chapters has a GitHub issue in the `M3: First Draft` milestone. Chapters are drafted in continuity batches, but each chapter retains its own issue for editor feedback and revision. Add `codex-ready` only when the latest comments are ready to implement. Close the issue when the current editor feedback has been implemented and pushed. Reopen it if another revision round is needed.
 
 Current batching:
 

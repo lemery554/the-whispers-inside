@@ -4,6 +4,7 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-15
 
+- Changed the chapter-issue completion rule: close each chapter issue once its current editor feedback has been implemented and pushed; reopen only for another revision round.
 - Implemented Batch 1 developmental feedback across Chapters 3–5: tightened upload, call, camera-test, symptom-cycle, debate, and departure material; varied Brooke's failed-repair beats; corrected the vomiting-duration wording; and preserved the central emotional and horror sequences.
 - Locked animal detection timing: animals sense the underlying alteration during the early purge, before apparent recovery or recognizable behavioral change.
 - Adopted a hybrid first-draft workflow: chapters are drafted in continuity batches, reviewed individually through their GitHub issues, and followed by a full-draft continuity pass and developmental rewrite.
