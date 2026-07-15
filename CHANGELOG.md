@@ -4,6 +4,7 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-15
 
+- Flattened the manuscript directory and standardized draft filenames as `00_Prologue.md` and `01_Ordinary-Evidence.md`.
 - Added the first *The Way They Love* cover concept and displayed it in the repository README.
 - Changed the novel title from *The Whispers Inside* to *The Way They Love* and prepared the repository for the new GitHub name.
 - Removed completed planning scaffolds, empty placeholders, and the obsolete closed-issue map; retained active canon, research, archive, milestones, and backlog.

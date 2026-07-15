@@ -4,5 +4,5 @@ Novel prose drafts live here. Draft and revise one chapter at a time against the
 
 ## Current manuscript
 
-- `prologue.md`: revised first draft
-- `chapters/01-ordinary-evidence.md`: Chapter 1 first draft
+- `00_Prologue.md`: revised prologue draft
+- `01_Ordinary-Evidence.md`: Chapter 1 first draft
