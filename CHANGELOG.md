@@ -4,6 +4,8 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-15
 
+- Adopted a hybrid first-draft workflow: chapters are drafted in continuity batches, reviewed individually through their GitHub issues, and followed by a full-draft continuity pass and developmental rewrite.
+- Drafted Batch 1: Chapter 3 `Sisters`, Chapter 4 `The Dog Knows`, and Chapter 5 `Empty`, carrying the story from Brooke's cruel pre-illness remark through Claire's first symptoms and the decision to seek hospital care.
 - Reflowed Chapter 2 to the same commercial-novel paragraph standard and made dense prose formatting a permanent rule for all future chapters.
 - Reflowed the prologue and Chapter 1 into denser commercial-novel paragraphs, removing unnecessary isolated narration while preserving standard dialogue breaks and selective found-media emphasis.
 - Drafted Chapter 2, `Permission`, establishing the canceled film workshop, Brooke and Sarah's unresolved adoption wound, the unsent message to Mark, and the first local hospital-surge alert.
