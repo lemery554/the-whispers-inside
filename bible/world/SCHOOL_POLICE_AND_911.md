@@ -25,7 +25,7 @@ Help is technically dispatched, but it is intentionally or unnaturally delayed. 
 - "Try to remain calm."
 - "Do not antagonize your mother."
 - "She may be experiencing separation distress."
-- "Stay inside with her until officers arrive."
+- "Stay inside with her; you are safest at home."
 - "She is still your mother, Brooke."
 
-Brooke never gave the dispatcher her name. Changed officers arrive after Brooke escapes and interpret Sarah's behavior as separation distress rather than danger. Their priority is returning Brooke to her mother, not protecting her from Sarah. The response system still functions; its definition of safety has changed.
+Brooke never gave the dispatcher her name — the clearest proof the response system is already compromised (IN-01). The dispatcher's guidance is to keep Brooke inside with Sarah; no help is coming. In the reworked one-night ending, **no officers arrive** — Brooke escapes and is picked up by Anna's car before any response materializes. The dispatch dialogue above still stands as the 911-corruption beat during the siege; the physical arrival of changed officers is cut (the response system still functions, but its definition of safety has changed, and it simply never reaches her in time).

@@ -11,14 +11,14 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [x] **TWI-005 | P0 | Decide final town and state**: Ashcroft, Connecticut is a fictional wooded suburb connected to a larger media market.
 - [x] **TWI-006 | P1 | Decide Brooke's vlog channel name**: The channel has no branded title and appears under Brooke Bennett's own name.
 - [x] **TWI-007 | P0 | Decide exact journal contents**: The journal includes the original full-name letter and a private entry explaining that mediated distance feels safer to Brooke than closeness.
-- [x] **TWI-008 | P0 | Place Anna's school-day entry**: Anna's first confirmed entry is Day 19 while Brooke is at school. A possible additional visit remains controlled by TWI-009.
+- [x] **TWI-008 | P0 | Place Anna's school-day entry**: Anna makes two school-day entries (TWI-009): the first, an investigation visit, is Day 18; the second, when she takes the journal, is Day 19. Both occur while Brooke is at school.
 - [x] **TWI-009 | P0 | Decide whether Anna enters once or multiple times**: Anna makes two school-day visits, investigating first and taking the journal second.
-- [ ] **TWI-010 | P1 | Decide ending eye effect**: Determine whether any subtle reflective green-eye effect appears after the journal reveal. It cannot be the reveal itself.
-- [ ] **TWI-011 | P1 | Decide exact final line during Revision**: Deferred until the ending exists in prose. Preserve quiet dread and the realization that Anna is still studying Brooke.
+- [x] **TWI-010 | P1 | Decide ending eye effect**: Decided (2026-07-15) — a brief reflective green flicker in Anna's eyes appears in the final scene *after* the journal reveal, registered through **Cooper** (his whine is his reaction to it), with Brooke asleep. It never carries or is the reveal; the journal-reading does that. Exact prose execution during drafting.
+- [ ] **TWI-011 | P1 | Decide exact final line during Revision**: Deferred until the ending exists in prose. Preserve quiet dread and the realization that Anna is still studying Brooke. Banked direction: the "continued learning how to love her" family of lines (ties to the Ch 29 title *Continue Learning*); lock exact words during drafting.
 - [x] **TWI-012 | P1 | Decide civic operating window**: Answered in GitHub issue #20 with a six-phase, 30-day institutional progression; implementation remains under TWI-022.
 - [x] **TWI-013 | P1 | Decide final POV policy**: Brooke is the sole narrative viewpoint, including the prologue; found media broadens scope and the final journal image is the only exception.
 - [x] **TWI-024 | P0 | Design the unresolved Sarah-Brooke argument**: Sarah secretly cancels Brooke's film workshop; Brooke accuses her of control and weaponizes her biological mother's abandonment.
-- [x] **TWI-025 | P1 | Decide the delayed police arrival**: Changed officers arrive and prioritize returning Brooke to Sarah.
+- [x] **TWI-025 | P1 | Decide the delayed police arrival**: Superseded by the one-night ending rework (2026-07-15) — the changed-officers arrival is cut; the 911-corruption dispatch (dispatcher knows Brooke's name, IN-01) still stands during the siege, but no officers physically arrive.
 - [x] **TWI-026 | P1 | Design Anna's limited appearance changes**: Hair styling, eyebrow silhouette, muted makeup, blue clothing, oval pendant, posture, and stillness create a plausible photographed resemblance without transformation.
 
 ## M1: Foundation documents and research
@@ -26,26 +26,26 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [x] **TWI-014 | P1 | Research hospital and outbreak response**: Completed in `research/HOSPITAL_OUTBREAK_RESPONSE.md` with official CDC and AHRQ sources and separate fictional guardrails.
 - [x] **TWI-015 | P0 | Design the Bennett house floor plan**: Completed in `bible/world/BENNETT_HOUSE.md`, including routes, sight lines, sound, light, gun retrieval, bullet path, and escape.
 - [x] **TWI-016 | P1 | Complete the town map and world guide**: Ashcroft's key locations, travel relationships, regional texture, woods, back roads, and final escape route are mapped.
-- [ ] **TWI-017 | P0 | Complete character dossiers**: Add biography, appearance, personality, voice, habits, fear, regret, secrets, relationships, arc, and whisper effects for Brooke, Claire, Sarah, Mark, Anna, and Cooper.
-- [ ] **TWI-018 | P0 | Complete infection behavior matrix**: Incorporate locked sleep, eating, drinking, daily function, inevitable post-purge change, whisper repetition, recognition, and silent coordination; finish remaining rules for hunger, driving, pain, imitation, and resistance.
-- [ ] **TWI-019 | P1 | Complete internet and hospital progression**: Map institutional changes to story days and Brooke's growing audience.
+- [x] **TWI-017 | P0 | Complete character dossiers**: Add biography, appearance, personality, voice, habits, fear, regret, secrets, relationships, arc, and whisper effects for Brooke, Claire, Sarah, Mark, Anna, and Cooper. Completed in `bible/characters/MAIN_CAST.md`.
+- [x] **TWI-018 | P0 | Complete infection behavior matrix**: Incorporate locked sleep, eating, drinking, daily function, inevitable post-purge change, whisper repetition, recognition, and silent coordination; finish remaining rules for hunger, driving, pain, imitation, and resistance. Completed in `bible/infection/RULES.md`.
+- [x] **TWI-019 | P1 | Complete internet and hospital progression**: Map institutional changes to story days and Brooke's growing audience. Completed in `outline/INTERNET_AND_HOSPITAL_PROGRESSION.md` — phase-by-phase hospital/internet states pinned to days and correlated with the upload sequence (audience peaks Day 14 as capture ramps).
 - [x] **TWI-020 | P0 | Build the day-by-day one-month timeline**: All 30 days, major events, institutional phases, and Anna's first entry are placed. Later approved decisions update this living continuity document through their own tasks.
 - [x] **TWI-021 | P0 | Complete Anna clue ledger**: Days, sources, first-read interpretations, true meanings, and knowledge limits are mapped. Chapter-number assignment moves into TWI-103.
 - [x] **TWI-022 | P1 | Build the news progression timeline**: Six phases are fixed to Days 1 through 30 across news, hospitals, school, police, 911, internet, and public language.
-- [ ] **TWI-023 | P0 | Run Foundation continuity audit**: Check time, geography, character knowledge, injuries, objects, symptoms, direct statements, and rejected concepts before closing M1.
+- [x] **TWI-023 | P0 | Run Foundation continuity audit**: Check time, geography, character knowledge, injuries, objects, symptoms, direct statements, and rejected concepts before closing M1. Completed in `outline/FOUNDATION_CONTINUITY_AUDIT.md`. Its one P0 finding (Anna's first-entry day conflict) was resolved this session via the Day 18 / Day 19 two-visit reconciliation; Foundation is now continuity-clean.
 
 ## M2: Story Design
 
-- [ ] **TWI-101 | P0 | Map character arcs**: Define starting belief, pressure, choices, reversals, lowest point, climax behavior, and ending state.
-- [ ] **TWI-102 | P0 | Create master scene inventory**: List every necessary scene with POV, date, location, purpose, conflict, turn, clue, and dependency.
-- [x] **TWI-103 | P0 | Build the 30-to-40-chapter outline**: Completed as a prologue plus 34 chapters with purpose, conflict, reveal, clues, character movement, found media, continuity, question chain, and projected word count.
-- [ ] **TWI-104 | P0 | Design Anna's trust ladder**: Track permissions, technically true statements, misinterpretations, boundaries, hope, and Brooke's voluntary hug.
-- [ ] **TWI-105 | P1 | Design Claire and Sarah escalation ladders**: Keep their methods distinct, gradual, emotionally real, and synchronized with whisper evolution.
-- [ ] **TWI-106 | P1 | Plan Brooke's upload sequence**: Lock titles, contents, view growth, comments, survival value, and information Anna learns.
-- [ ] **TWI-107 | P0 | Audit ending fairness**: Confirm keypad, house disturbance, missing journal, repeated language, and final journal proof all survive a reread test.
-- [ ] **TWI-108 | P1 | Run outline pacing and continuity pass**: Check chronology, geography, emotional escalation, quiet space, clue density, found-media ratio, and projected length.
-- [ ] **TWI-109 | P0 | Authorize drafting**: Open the drafting gate only after M1 and every P0 M2 task pass review.
-- [ ] **TWI-110 | P0 | Draft and review the prologue**: Begin only after TWI-109. Use commercial prose, red-medicine horror, and no authoritative explanation.
+- [x] **TWI-101 | P0 | Map character arcs**: Define starting belief, pressure, choices, reversals, lowest point, climax behavior, and ending state. Completed in `outline/CHARACTER_ARCS.md`.
+- [x] **TWI-102 | P0 | Create master scene inventory**: List every necessary scene with POV, date, location, purpose, conflict, turn, clue, and dependency. Completed in `outline/SCENE_INVENTORY.md`.
+- [x] **TWI-103 | P0 | Build the 30-to-40-chapter outline**: Completed, then revised by the one-night ending rework (2026-07-15) to a prologue plus 29 chapters (~85,000 words); the climax and ending compress into a single night (Day 26).
+- [x] **TWI-104 | P0 | Design Anna's approach**: Completed, then rewritten by the one-night ending rework (2026-07-15) from a nine-rung patient courtship into surveillance + two brief in-person meetings (dog park Day 11, diner Day 23) + an engineered escape-night pickup, in `outline/ANNA_TRUST_LADDER.md`.
+- [x] **TWI-105 | P1 | Design Claire and Sarah escalation ladders**: Keep their methods distinct, gradual, emotionally real, and synchronized with whisper evolution. Completed in `outline/ESCALATION_LADDERS.md`.
+- [x] **TWI-106 | P1 | Plan Brooke's upload sequence**: Lock titles, contents, view growth, comments, survival value, and information Anna learns. Completed in `outline/UPLOAD_SEQUENCE.md` (7 uploads, Days 3–26, with the Anna-learning throughline).
+- [x] **TWI-107 | P0 | Audit ending fairness**: Confirm keypad, house disturbance, missing journal, repeated language, and final journal proof all survive a reread test. Completed in `outline/ENDING_FAIRNESS_AUDIT.md` — PASS; re-run against the one-night ending rework (2026-07-15) with a new engineered-pickup fairness check — still PASS.
+- [x] **TWI-108 | P1 | Run outline pacing and continuity pass**: Check chronology, geography, emotional escalation, quiet space, clue density, found-media ratio, and projected length. Completed in `outline/PACING_PASS.md` — PASS; corrected projected length to ~85,000 and flagged the Ch 17–22 tension plateau for drafting. Resolves OQ-10.
+- [x] **TWI-109 | P0 | Authorize drafting**: Drafting authorized by the author (2026-07-15). All P0 M1 and M2 tasks complete; the active author-decision queue is empty; only the exact final line (TWI-011) remains intentionally deferred to drafting/revision. The drafting gate is open, beginning with the prologue (TWI-110).
+- [ ] **TWI-110 | P0 | Draft and review the prologue**: First draft complete in `manuscript/prologue.md` (~1,960 words; commercial close-third prose, red-medicine horror, synchronized vomiting, the uncanny recovery, no authoritative explanation, Brooke's footage-preserving habit, and Cooper's early unease). Awaiting author review before it's marked done.
 
 ## M3: First Draft
 

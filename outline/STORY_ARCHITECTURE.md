@@ -20,24 +20,24 @@ School remains open and provides Brooke's first proof that the problem extends b
 
 Sarah recovers into possessive maternal care. Her conflict with Brooke is rooted in overprotection, adoption, unequal-treatment fears, and an unresolved argument about independence. Institutions and online platforms increasingly encourage reunion. Changed strangers chase Brooke, proving the need for closeness is not limited to existing relationships. Sarah initially refuses to open the front door, then maternal attachment responds to Brooke's apology and plea. Sarah saves Brooke, locks the door, turns, and may say, "You came home."
 
-Brooke calls 911. The dispatcher begins normally, then instructs Brooke not to antagonize Sarah, describes separation distress, and tells her to remain with her mother. The dispatcher uses Brooke's name even though Brooke never supplied it. Help is dispatched but delayed. Police arrive too late or already changed.
+Brooke calls 911. The dispatcher begins normally, then instructs Brooke not to antagonize Sarah, describes separation distress, and tells her to remain with her mother. The dispatcher uses Brooke's name even though Brooke never supplied it. No help comes — in the reworked one-night ending, no officers arrive at all.
 
-During the bedroom siege, Sarah pleads, scratches, bangs, and uses guilt before going silent. Brooke hears Mark's gun safe. Sarah returns with the firearm and shoots through the bedroom door. Brooke escapes through the window.
+During the bedroom siege, Sarah pleads, scratches, bangs, and uses guilt before going silent. Brooke hears Mark's gun safe. Sarah returns with the shotgun and fires through the bedroom door. Brooke escapes through the window with Cooper, drops to the yard, and runs into the night.
 
 ## Part Five: Anna
 
-Anna found Brooke through YouTube, recovered the Bennett keypad code from an old family video, and entered the house while Brooke was at school. She studied photographs, adoption documents, Brooke's journal, and a letter from Brooke's biological mother. She learned the mother's real name, took the journal, and made limited changes to her own appearance and presentation to suggest resemblance. Brooke believed Claire stole the journal. Anna uses patience, permission, gentleness, and technically true statements. She never directly claims motherhood. Brooke voluntarily gives Anna the first embrace she has chosen since the outbreak escalated.
+Anna found Brooke through YouTube, recovered the Bennett keypad code from an old family video, and entered the house twice while Brooke was at school (Day 18 investigation, Day 19 journal). She studied photographs, adoption documents, Brooke's journal, and a letter from Brooke's biological mother. She learned the mother's real name, took the journal, and made limited changes to her appearance to suggest resemblance. Brooke believed Claire stole the journal. Anna's in-person contact is only two brief meetings before the climax — a casual dog-park encounter (Day 11, no claim) and a diner meeting (Day 23) where she lets Brooke conclude she is her biological mother without ever stating it — using patience, permission, and technically true statements. She never directly claims motherhood.
 
 ## Ending
 
-Anna gives only a vague, comforting destination such as somewhere quiet or somewhere they can rest. Brooke sleeps against the passenger window. Cooper lies in the back seat but watches Anna. Only the reader sees Anna retrieve Brooke's missing journal. Anna rereads Brooke's memory of the beach, Claire, and safety. Cooper gives an uncertain whine; Anna waits him out without threat, then returns to the journal. The reader understands that Anna is not Brooke's biological mother and is still studying her. Any reflective eye effect is optional and cannot carry the reveal.
+The climax and ending occur in a single night. Brooke escapes the siege out the window with Cooper and runs down the street; Anna's car — positioned by surveillance, not luck — pulls up. Anna opens the door and waits; Brooke gets in herself. As they drive, Sarah sends a single technically-true text ("It isn't safe out there. Come home."), which Brooke does not answer; Brooke initiates the one closeness beat, and Anna does not reach first. Anna gives only a vague, comforting destination such as somewhere quiet. Brooke sleeps against the passenger window; Cooper lies in the back but watches Anna. Only the reader sees Anna retrieve Brooke's missing journal and reread the memory of the beach, Claire, and safety. A brief reflective green flicker crosses Anna's eyes (passing light), and Cooper — the detector — reacts to it with an uncertain whine; Anna waits him out without threat, then returns to the journal. The reader understands that Anna is not Brooke's biological mother and is still studying her. The eye effect comes after the reveal, is registered through Cooper rather than a clean narrator shot, and cannot carry the reveal (TWI-010).
 
 Candidate final line, not yet locked: "Anna turned the page and continued learning how to love her."
 
 ## Scale and drafting gate
 
-- Approximately one month
-- 85,000 to 100,000 words
-- 30 to 40 chapters
+- Narrative concludes on the night of Day 26 (the outbreak's roughly one-month arc continues off-page)
+- Approximately 85,000 words
+- Prologue plus 29 chapters
 - Roughly 10 to 15 percent found media
 - No prologue or chapter drafting until the bible, timeline, clue ledger, and P0 story-design tasks are accepted

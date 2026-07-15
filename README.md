@@ -8,6 +8,17 @@ When a violent stomach illness sweeps through her suburban town, seventeen-year-
 
 As Brooke documents the changes in her younger sister, her mother, and the world beyond their front door, her videos become a lifeline for frightened strangers. They also reveal exactly how to earn her trust. Somewhere among the people watching is someone patient enough to learn that the safest way to reach Brooke is not to chase her, but to become the person she will choose to follow.
 
+## Characters
+
+- **Brooke Bennett** — Seventeen, adopted, and the story's sole viewpoint. Guarded and sharp-eyed, she lives through her camera because recorded truth feels safer than trusting her own memory or letting anyone close.
+- **Claire Bennett** — Brooke's thirteen-year-old sister: funny, clingy, and ordinary, until she becomes the family's first intimate proof of what recovery really costs.
+- **Sarah Bennett** — The girls' adoptive mother. Loving, tired, and protective to a fault, she carries an unhealed argument with Brooke into a change that turns care into captivity.
+- **Mark Bennett** — The adoptive father, away for work when the outbreak begins. His calls degrade, then stop; his fate stays unknown.
+- **Anna** — A patient stranger who finds Brooke online and offers exactly the kind of low-pressure closeness Brooke has always wanted. She asks for nothing, waits, and never pushes.
+- **Cooper** — The family dog, who senses the changed before anyone else can and remains uneasy long after the humans have been reassured.
+
+Full, spoiler-inclusive dossiers live in `bible/characters/MAIN_CAST.md`.
+
 ## Project status
 
 Pre-draft development. The current goal is to complete the novel bible, one-month timeline, clue ledger, house plan, research, and chapter outline. Do not draft the prologue or full novel until the Foundation and Story Design gates are complete.
