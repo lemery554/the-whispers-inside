@@ -73,3 +73,7 @@ Changed people are not knowingly faking love. They sincerely redefine it as poss
 ## Rule 18: Brooke is understood, not chosen
 
 Anna does not uniquely care about Brooke. The same patient strategy could be used with anyone studied closely enough. Brooke's tragedy comes from exposure, not destiny.
+
+## Rule 19: The prose reads like a finished commercial novel
+
+Narration uses substantial, naturally developed paragraphs rather than manuscript-like visual fragmentation. Single-sentence and one-line paragraphs are rare and must earn their emphasis. Standard dialogue speaker changes and necessary found-media presentation remain separate when readability requires it.

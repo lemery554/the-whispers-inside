@@ -14,7 +14,7 @@
 - Keep found media to roughly 10 to 15 percent of the novel.
 - Brooke has no romantic subplot.
 - Brooke and Claire are ordinary sisters, neither unusually close nor distant. Their beach memory anchors Claire's later breakthrough.
-- Avoid screenplay formatting, transcript-heavy presentation, creepypasta rhythms, frequent fragments, and excessive one-line paragraphs.
+- Avoid screenplay formatting, transcript-heavy presentation, creepypasta rhythms, frequent fragments, and excessive one-line paragraphs. Default to dense commercial-novel paragraphing. Isolate a sentence only for genuine dramatic emphasis, necessary found media, or a standard dialogue speaker change.
 - Avoid em dashes and overused italics.
 - Let readers notice implications. Do not overexplain fear or rely on cheap jump scares.
 - Preserve ambiguity and do not force every chapter to end on a cliffhanger.

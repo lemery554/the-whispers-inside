@@ -2,6 +2,8 @@
 
 Novel prose drafts live here. Draft and revise one chapter at a time against the bible, timeline, architecture, and clue system.
 
+All chapters default to dense commercial-novel paragraphing. Avoid isolated narration and visual fragmentation. Reserve separate short paragraphs for standard speaker changes, necessary found media, or moments whose dramatic emphasis genuinely requires isolation.
+
 ## Current manuscript
 
 - `00_Prologue.md`: revised prologue draft

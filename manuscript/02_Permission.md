@@ -1,8 +1,6 @@
 # Chapter 2: Permission
 
-The cancellation arrived at 6:42 the next morning and thanked Brooke for a decision she had not made.
-
-She read it twice before getting out of bed.
+The cancellation arrived at 6:42 the next morning and thanked Brooke for a decision she had not made. She read it twice before getting out of bed.
 
 **ASHCROFT YOUTH FILM COLLABORATIVE**  
 **Registration Withdrawal Confirmed**
@@ -15,29 +13,21 @@ The rest was a refund policy and a signature from someone named Celia who wished
 
 Brooke pressed the phone to her blanket as if covering the screen could restore her place.
 
-The workshop was not a summer camp or a school club pretending phones made everyone a director. It was six hours at the Harlan Media Center in New Haven with three working filmmakers, actual lighting equipment, and an editing suite Brooke had looked up so many times she knew which stations had color-calibrated monitors. Twenty-four students had been accepted. Applicants submitted a two-minute film and a statement about why they wanted to tell stories.
+The workshop was not a summer camp or a school club pretending phones made everyone a director. It was six hours at the Harlan Media Center in New Haven with three working filmmakers, actual lighting equipment, and an editing suite Brooke had looked up so many times she knew which stations had color-calibrated monitors. Twenty-four students had been accepted. Applicants submitted a two-minute film and a statement about why they wanted to tell stories. Brooke had spent four nights cutting hers.
 
-Brooke had spent four nights cutting hers.
-
-Sarah had watched the finished application at the kitchen island. She had cried at the wrong part, denied crying, then paid the registration fee before Brooke could talk herself out of going.
-
-Now Brooke opened the message details.
+Sarah had watched the finished application at the kitchen island. She had cried at the wrong part, denied crying, then paid the registration fee before Brooke could talk herself out of going. Now Brooke opened the message details.
 
 The withdrawal request had come from Sarah's email at 9:18 the previous night, while Brooke was upstairs editing and Sarah was reminding Claire to take her shower.
 
-Brooke took a screenshot. Then another with the sender information expanded.
+Brooke took a screenshot, then another with the sender information expanded. Evidence did not improve with quantity, but anger did.
 
-Evidence did not improve with quantity, but anger did.
-
-Across the hall, Claire's alarm began playing the first eight seconds of a pop song before she silenced it. Pipes knocked inside the wall. Downstairs, a cabinet opened and shut.
-
-The house had started without Brooke.
+Across the hall, Claire's alarm began playing the first eight seconds of a pop song before she silenced it. Pipes knocked inside the wall. Downstairs, a cabinet opened and shut. The house had started without Brooke.
 
 She got dressed, tucked the phone into her pocket, and carried the workshop email downstairs.
 
 Sarah stood at the counter packing lunches. No pancakes today. Two slices of bread lay open beside a jar of peanut butter, and the television murmured from the living room about increased emergency-department traffic across the state. Sarah had turned the volume low enough that the anchors sounded apologetic.
 
-Claire sat at the island in Brooke's hoodie again, picking raisins out of a bowl of cereal and lining them along a napkin.
+Claire sat at the island in Brooke's hoodie again, picking raisins out of a bowl of cereal and lining them along a napkin. Cooper waited beneath her stool, prepared to resolve the dispute.
 
 "Those are the only part with nutritional value," Sarah said.
 
@@ -45,17 +35,9 @@ Claire sat at the island in Brooke's hoodie again, picking raisins out of a bowl
 
 "They were dry when I bought them. You did this."
 
-Cooper waited beneath Claire's stool, prepared to resolve the dispute.
-
 Brooke placed her phone on the counter in front of Sarah.
 
-Sarah looked at the screen. Her hands stopped above the sandwich.
-
-That was enough.
-
-"You canceled it."
-
-Claire ate one of the raisins.
+Sarah looked at the screen. Her hands stopped above the sandwich. That was enough for Brooke. "You canceled it," she said. Claire ate one of the raisins.
 
 Sarah folded the bread together and pressed her palm over it. "I was going to talk to you this morning."
 
@@ -67,9 +49,7 @@ Sarah folded the bread together and pressed her palm over it. "I was going to ta
 
 "Of course I knew you'd get an email. I thought I would have a chance to explain before you saw it."
 
-"You sent it nine hours ago."
-
-Sarah's eyes flicked toward Claire.
+"You sent it nine hours ago." Sarah's eyes flicked toward Claire.
 
 Claire lowered her spoon. "I can go away."
 
@@ -105,9 +85,7 @@ Sarah looked toward the television. The anchor had been replaced by footage of c
 
 The certainty in her voice surprised Brooke. "Yesterday you said everything was fine."
 
-"Yesterday I said your father was fine."
-
-It was an answer built to survive inspection.
+"Yesterday I said your father was fine." It was an answer built to survive inspection.
 
 Sarah reached for the remote and muted the television. "The reports got worse overnight. New Haven has cases. Hartford has cases. Saint Vincent's put out a notice asking people not to come in unless they can't keep fluids down. We don't know what this is yet."
 
@@ -191,13 +169,9 @@ Instead she looked at the cancellation email and saw her empty seat offered to s
 
 "You don't get to keep me forever just because she didn't."
 
-The refrigerator motor turned on.
+The refrigerator motor turned on. In the living room, the cereal bowl met the coffee table with a small ceramic knock.
 
-In the living room, the cereal bowl met the coffee table with a small ceramic knock.
-
-Sarah's mouth opened. Nothing came out. She looked as though Brooke had slapped her, and for one terrible second Brooke felt the satisfaction of having finally found the exact place to hurt.
-
-Then the satisfaction became something else.
+Sarah's mouth opened. Nothing came out. She looked as though Brooke had slapped her, and for one terrible second Brooke felt the satisfaction of having finally found the exact place to hurt. Then the satisfaction became something else.
 
 Sarah picked up the two lunch bags. She folded the tops once, then again, making the creases hard beneath her thumbs.
 
@@ -211,9 +185,7 @@ Sarah picked up the two lunch bags. She folded the tops once, then again, making
 
 Sarah put Claire's lunch beside Brooke's. "How did you mean it?"
 
-Brooke had no version that would make the sentence harmless.
-
-"I meant you can't make every choice for me."
+Brooke had no version that would make the sentence harmless. "I meant you can't make every choice for me."
 
 "Then that is what you should have said."
 
@@ -229,9 +201,7 @@ Claire appeared in the doorway holding her empty bowl. Her gaze moved from Sarah
 
 "That's what schools say before they close."
 
-Normally Brooke would have answered. Sarah would have told Claire that schools were not people and therefore could not plot against her. The rhythm was waiting for them.
-
-Nobody stepped into it.
+Normally Brooke would have answered. Sarah would have told Claire that schools were not people and therefore could not plot against her. The rhythm was waiting for them. Nobody stepped into it.
 
 Sarah took her keys from the hook. "Shoes. Both of you."
 
@@ -239,11 +209,7 @@ On the drive, Claire sat in the back with Cooper's hair stuck to the sleeve of B
 
 Sarah drove with both hands on the wheel. The radio reported twenty-seven confirmed hospitalizations statewide, then corrected itself to thirty-one before the traffic update. Officials urged people with symptoms to stay home, drink clear fluids, and contact a medical provider if they became severely dehydrated.
 
-At a red light, Sarah reached for the volume and turned it down.
-
-Brooke watched her hand return to the wheel.
-
-The camera in her bag stayed there.
+At a red light, Sarah reached for the volume and turned it down. Brooke watched her hand return to the wheel. The camera in her bag stayed there.
 
 At school, the workshop email remained unread in Brooke's notifications even though she had opened it four times. She kept swiping it away. It returned whenever she checked the time.
 
@@ -285,25 +251,13 @@ Brooke almost told her she had other clothes. The argument from yesterday sat re
 
 Claire studied her as if this might be a trap. Then she zipped the hoodie higher and started toward the doors.
 
-Sarah did not mention the workshop in the car. At home she carried groceries into the kitchen and began wiping down containers before putting them away, something she had never done before. When Claire asked why, Sarah said there were a lot of germs going around.
+Sarah did not mention the workshop in the car. At home she carried groceries into the kitchen and began wiping down containers before putting them away, something she had never done before. When Claire asked why, Sarah said there were a lot of germs going around. Brooke went upstairs.
 
-Brooke went upstairs.
+The cancellation email looked different on her monitor. Larger, not more meaningful. She saved a copy in a folder with the workshop application, her acceptance, and the two-minute film that had earned the seat. Then she opened her messages with Mark. His last text had arrived at 5:37 that morning.
 
-The cancellation email looked different on her monitor. Larger, not more meaningful. She saved a copy in a folder with the workshop application, her acceptance, and the two-minute film that had earned the seat.
+*Another day in glamorous Albany. Call tonight. Proud of you, kid.* Brooke typed beneath it.
 
-Then she opened her messages with Mark.
-
-His last text had arrived at 5:37 that morning.
-
-*Another day in glamorous Albany. Call tonight. Proud of you, kid.*
-
-Brooke typed beneath it.
-
-*Mom canceled the workshop without asking me. She says it's because you're gone and people are sick, but that's not all of it. She thinks if she watches me closely enough nothing can happen. I said something awful.*
-
-She stopped.
-
-The cursor waited after the period.
+*Mom canceled the workshop without asking me. She says it's because you're gone and people are sick, but that's not all of it. She thinks if she watches me closely enough nothing can happen. I said something awful.* She stopped. The cursor waited after the period.
 
 If she sent it, Mark would call Sarah. Sarah would know Brooke had made him referee from a hotel two hours away. He would tell Brooke her mother worried because she loved her. He would be right, which would not make Sarah right.
 
@@ -325,12 +279,6 @@ When she finished, the room had darkened around the monitor. A local-news alert 
 
 Brooke opened it. The article said the hospital remained fully operational. It said most patients were expected to recover. It said temporary outdoor screening had been established to reduce pressure on the emergency department.
 
-Below the article, a photograph showed workers unfolding white privacy screens beside the ambulance entrance.
+Below the article, a photograph showed workers unfolding white privacy screens beside the ambulance entrance. Brooke saved that too.
 
-Brooke saved that too.
-
-She placed the cancellation recording beside the hospital footage in her archive, separate folders sharing the same date. One was evidence that something had been taken from her. The other was evidence that Sarah might have been afraid for a reason.
-
-Both could be true.
-
-Brooke closed neither file.
+She placed the cancellation recording beside the hospital footage in her archive, separate folders sharing the same date. One was evidence that something had been taken from her. The other was evidence that Sarah might have been afraid for a reason. Both could be true. Brooke closed neither file.
