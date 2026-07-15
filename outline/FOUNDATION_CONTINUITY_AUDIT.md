@@ -30,12 +30,12 @@ After TWI-009 locked Anna's **two** school-day visits (investigate first, take t
 ## Category-by-category results
 
 ### Time — PASS (except F1)
-- Institutional phases (`INSTITUTIONAL_TIMELINE.md`) align with the day-by-day `TIMELINE.md` public column at every boundary: P1 ends Day 5, P2 Day 6–10, P3 Day 11–16, P4 Day 17–22, P5 Day 23–27, P6 Day 28–30. The **Day 9/10 swap** (this session) correctly kept "Phase 2 ends" anchored to Day 10. ✔
+- Institutional phases (`INSTITUTIONAL_TIMELINE.md`) align with the day-by-day `TIMELINE.md` public column at every boundary: P1 ends Day 5, P2 Day 6–10, P3 Day 11–16, P4 Day 17–22, P5 Day 23–27, P6 Day 28–30. The **Day 9↔12 swap** (this session) correctly kept the public-phase column anchored to its calendar day. ✔
 - Purge duration (12–36 h, `RULES.md`) is consistent: Claire onset Day 4 → hospital Day 5 → apparent recovery Day 6; Sarah onset Day 14 → severe Day 15 → recovered Day 16. ✔
-- 911 scene fixed to Day 26 in both the institutional and day timelines. ✔
+- **Ending rework (this session):** the narrative now concludes on the night of Day 26 (siege → escape → engineered car pickup → journal reveal, all one night); Days 27–30 of institutional drift continue off-page. Anna's two in-person meetings are placed Day 11 (dog park) and Day 23 (diner), both consistent with her knowledge timeline (Day-11 meeting uses video knowledge only; Day-23 meeting follows the house entries and resemblance). The changed-police arrival is cut. ✔
 
 ### Geography — PASS
-- Ashcroft, CT (TWI-005) used consistently; the chase (S26/S27) and final drive (S37) follow the town map's back-roads/state-route logic. House interior routes (`BENNETT_HOUSE.md`) are internally consistent: gun safe in the attached garage, porch-roof escape below Brooke's rear window, hall bathroom upstairs.
+- Ashcroft, CT (TWI-005) used consistently; the chase (S26/S27) and final drive (S32) follow the town map's back-roads/state-route logic. House interior routes (`BENNETT_HOUSE.md`) are internally consistent: gun safe in the attached garage, porch-roof escape below Brooke's rear window, hall bathroom upstairs.
 
 ### Character knowledge — PASS (feeds F1)
 - Every private fact Anna uses has a documented public-video or house-material source (`ANNA_KNOWLEDGE_MATRIX.md`); Brooke, not Anna, introduces the biological-mother claim. The only knowledge-timing defect is F1 (which day the house-derived knowledge is acquired).

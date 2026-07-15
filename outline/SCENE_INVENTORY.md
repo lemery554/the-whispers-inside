@@ -2,11 +2,11 @@
 
 Every necessary scene in the book, one row per scene, with POV, story day, location, purpose, central conflict, turn/reveal, the clue it plants or pays off, and its dependency (the earlier scene or setup it requires). Derived from `outline/CHAPTER_OUTLINE.md` (TWI-103); clue IDs trace `outline/CLUE_LEDGER.md`; escalation beats trace `outline/ESCALATION_LADDERS.md` (TWI-105) and `outline/ANNA_TRUST_LADDER.md` (TWI-104).
 
-**POV rule:** Brooke Bennett is the sole viewpoint for every scene except **S49**, the reader-only journal image. "Found media" scenes stay within Brooke's awareness (she is the one viewing the material).
+**POV rule:** Brooke Bennett is the sole viewpoint for every scene except **S33**, the reader-only journal image. "Found media" scenes stay within Brooke's awareness (she is the one viewing the material).
 
 **How to read "Depends on":** lists the scene(s) whose setup this scene needs, or a clue/setup label. A scene with no upstream dependency is a clean entry point. This column is the drafting-order and continuity spine — no scene should pay off something its dependency hasn't yet planted.
 
-**Scene count:** 49 scenes across prologue + 34 chapters (~93,500 projected words, TWI-103). Some chapters are a single scene; siege/escape and hospital chapters split into two.
+**Scene count:** 34 scenes (S00–S33) across prologue + 29 chapters (~80,000 projected words, TWI-103). The one-night ending compresses siege → escape → engineered car pickup → journal reveal into the final scenes (S30–S33), all on Day 26. Anna's two in-person meetings are folded into S13 (dog park, Day 11) and S25 (diner, Day 23).
 
 ---
 
@@ -42,7 +42,7 @@ Every necessary scene in the book, one row per scene, with POV, story day, locat
 
 | # | Day | Location | Purpose | Conflict | Turn / Reveal | Clue | Depends on |
 |---|---|---|---|---|---|---|---|
-| S13 | 11 | School | Prove Claire is not unique | Brooke observes behavior others normalize | Strangers sit pressed together; a student waits outside a bathroom | Changed recognize one another silently; counselor repeats TV wording | S09, S12 |
+| S13 | 11 | School, then a dog park | Prove Claire is not unique; plant Anna's first in-person appearance | Brooke observes behavior others normalize; later, walking Cooper, she meets a calm stranger | Strangers sit pressed together; at the dog park a woman (Anna) recognizes Brooke from the videos, gives no name, makes no claim | Changed recognize one another silently; **Anna Meeting 1** (no claim; Cooper's one exposure); counselor repeats TV wording | S09, S12 |
 | S14 | 12 | Bennett house, hall bathroom | Claire's first undeniable violence | Brooke refuses to open the door for a hug | Claire breaks the lock and enters without anger | **C-ladder C6** (breaking barriers); Claire injures hand without reacting (pain/no self-preservation) | S09, S11 |
 | S15 | 13 | Bennett house | Show Claire's surviving fragment | Brooke tries to reach Claire mid-possessive-episode | Claire cries without knowing why, loosens her hold | **EM-01 payoff / C-ladder C7**; cruel line (S03) echoes; beach memory | S03, S14 |
 | S16 | 14 | Brooke's room / online | Expand uploads into a survivor network as Sarah falls ill | Thousands confirm Brooke's observations; Sarah hides symptoms | Sarah begins the purge | Comments establish dogs/sleepless watching/separation; Brooke reveals adoption pain (feeds AN-04) | S12, S13 |
@@ -53,39 +53,28 @@ Every necessary scene in the book, one row per scene, with POV, story day, locat
 | S21 | 19 | Bennett house, Brooke's room | Plant the journal theft after Anna's second visit | Brooke can't find the journal; accuses Claire | Claire seems genuinely confused | **AN-03 planted** (journal taken); drawer/letter storage disturbed; Anna now has the full name + leverage | S20 |
 | S22 | 20 | Bennett house | The whispers learn patience as Sarah tightens control | Sarah uses love + the old workshop fight to keep Brooke home | Claire repeats "Not yet" when she thinks Brooke can't hear | **C-ladder C8 / S-ladder S4**; **AN-10 setup**; Anna prepares resemblance off-page | S18, S21 |
 | S23 | 21 | Bennett house / online | Consolidate Brooke's rules before the prison closes | Brooke hunts the journal while hiding her list | Online warnings buried under soothing content | Cooper avoids Sarah; Brooke records "direct pursuit makes me run" (feeds AN-06 logic) | S21, S22 |
-| S24 | 22 | Bennett house, Brooke's room | Prepare escape; say goodbye to the home | Brooke packs without alerting Sarah or Claire | Cooper chooses Brooke's side of the closed door | Window/porch-roof route rehearsed; gun-safe sounds established (pays off S39–40) | S01, S23 |
+| S24 | 22 | Bennett house, Brooke's room | Prepare escape; say goodbye to the home | Brooke packs without alerting Sarah or Claire | Cooper chooses Brooke's side of the closed door | Window/porch-roof route rehearsed; gun-safe sounds established (pays off S31) | S01, S23 |
 
 ## Part IV — Collapse
 
 | # | Day | Location | Purpose | Conflict | Turn / Reveal | Clue | Depends on |
 |---|---|---|---|---|---|---|---|
-| S25 | 23 | Town, streets | Move Brooke into public emotional capture | Brooke leaves on a plausible errand, realizes she's watched | Recovered strangers orient toward her because she's alone | Public "Stay together" slogan; changed officers pass without intervening | S24 |
+| S25 | 23 | Diner → town streets | Anna's diner reveal, then public emotional capture | Brooke slips out past Sarah's confinement to meet Anna; leaving, she realizes she's watched | At the diner Anna lets Brooke conclude she is her biological mother (never states it); outside, recovered strangers orient toward her because she's alone | **Anna Meeting 2** — resemblance up close (AN-09), technically-true lines (AN-05), full name from the journal; Brooke supplies the mother claim (AN-04); public "Stay together" slogan | S13, S21, S24 |
 | S26 | 24 | Ashcroft streets / back roads (chase, part 1) | Deliver the stranger chase; attachment isn't relationship-specific | Strangers calmly close distance, then pursue when she runs | They want touch, not robbery | Pursuit fails → teaches later patient strategy (AN-06); changed protect one another | S25 |
 | S27 | 24 | Route toward home (chase, part 2) | Exhaust Brooke and drive her back toward danger | Sustained flight; nowhere is safe | Brooke abandons pride and runs toward home | Route follows Ashcroft map; leaves her spent for Day 25 | S26 |
 | S28 | 25 | Bennett house, front door (part 1) | Execute the front-door bargain | Sarah refuses entry until Brooke apologizes and reaches her | Sarah opens from attachment, locks the strangers out | **S-ladder S5**; Brooke uses love language she doesn't mean; Sarah answers *around* safety (can't lie) | S18, S22, S27 |
 | S29 | 25 | Bennett house, interior (part 2) | Spring the trap | Door closes; Sarah turns her full attention to Brooke | Brooke is inside and caught | Ends on "You came home." | S28 |
-| S30 | 26 | Brooke's room, barricaded (siege, part 1) | Bedroom siege + 911 corruption | Sarah and Claire escalate outside the barricade; Brooke calls for help | Dispatcher knows Brooke's name unprompted | **IN-01 payoff**; changed officers dispatched to "reunite" her | S24, S29 |
-| S31 | 26 | House: garage safe → bedroom door (siege, part 2) | Gun retrieval, shot through the door, window escape | Sarah retrieves the firearm; Brooke must go out the window | **S-ladder S6**: Sarah fires through the door; Brooke exits over porch roof with Cooper | Long silence → garage safe (setup S24); house geometry pays off; officers arrive after escape | S24, S30 |
+| S30 | 26 | Brooke's room, barricaded (siege, part 1) | Bedroom siege + 911 corruption | Sarah and Claire escalate outside the barricade; Brooke calls for help that won't come | Dispatcher knows Brooke's name unprompted; no help is sent | **IN-01 payoff** (dispatcher knows her name); no officers dispatched (police beat cut) | S24, S29 |
+| S31 | 26 | House: garage safe → bedroom door → yard (siege, part 2) | Shotgun retrieval, shot through the door, window escape, run | Sarah retrieves the shotgun; Brooke must go out the window | **S-ladder S6**: Sarah fires the shotgun through the door; Brooke exits over the porch roof with Cooper, drops to the yard, and runs down the street | Long silence → garage safe (setup S24); house geometry pays off; no police arrive (beat cut) | S24, S30 |
 
-## Part V — Trust
-
-| # | Day | Location | Purpose | Conflict | Turn / Reveal | Clue | Depends on |
-|---|---|---|---|---|---|---|---|
-| S32 | 27 | Public dog park | Introduce Anna without relieving dread | Anna offers help but won't approach without permission | She knows Brooke's public work; says don't trust her yet | **Trust-ladder first in-person meeting (Rung 5, venue locked)**; Sarah's post-escape text arrives (technically true, unanswered); **AN-09** restrained resemblance; **AN-05** technically-true language; Cooper watches, doesn't attack | S16, S31 |
-| S33 | 28 | Anna's car / shelter | Begin the trust ladder through practical care | Brooke needs water, shelter, rest; fears obligation | Anna accepts every limit without bargaining | **Trust-ladder Rung 7 (boundary respected)**; behavior answers the journal's safe-distance entry; reader-facing "Wait" may escape (**AN-10**) | S21, S32 |
-| S34 | 28 | Anna's car / shelter | Let Brooke build the biological-mother interpretation | Brooke tests Anna with adoption questions and private language | Anna knows the full name, never explains beyond what's asked | **Trust-ladder Rungs 4 & 6**; **AN-04** (Brooke's own phrasing), **AN-05**; "Every second," "I knew you were waiting" trace to videos/journal | S16, S21, S33 |
-| S35 | 29 | On the move / roadside | Make Anna safer than any alternative | Brooke wants proof but fears asking will destroy the hope | Anna offers to leave the decision and destination to Brooke | **Trust-ladder Rung 5 & 8**; photo-derived styling works cumulatively (**AN-09**); Cooper's tolerance mistaken for approval | S32, S34 |
-| S36 | 29 | Quiet interior | Complete the strategy: Brooke's voluntary hug | Does accepting comfort mean surrendering judgment? | **Brooke initiates the embrace; Anna does not reach first** | **Trust-ladder Rung 9 (payoff)**; inverts Claire's force, Sarah's guilt, strangers' pursuit | S14, S28, S26, S35 |
-
-## Part VI — The Last Lesson
+## Part V — The Last Lesson
 
 | # | Day | Location | Purpose | Conflict | Turn / Reveal | Clue | Depends on |
 |---|---|---|---|---|---|---|---|
-| S37 | 30 | Anna's car, state route | Begin the final drive; relief + unresolved destination | Brooke asks where they're going; Anna answers true but vague | Ashcroft functions behind them under changed priorities | Anna never gives a destination that could become a lie (AN-05); calm broadcast fading | S36 |
-| S38 | 30 | Anna's car, Brooke asleep | Let Brooke sleep because Anna and Cooper are present | The last lowering of her guard | Brooke sleeps against the window; Cooper stays awake in back | Cooper's wakefulness = last "something is wrong" cue | S37 |
-| S49 | 30 | Anna's car (reader-only) | Deliver the reader-only journal confirmation | Cooper watches Anna open the missing journal while Brooke sleeps | **Anna entered the house, took the journal, built the resemblance, is not Brooke's mother** | **AN-08 / AN-11 payoff**; keypad, moved photo, two visits, missing journal, full name, beach memory, repeated language, styling all resolve | S01, S19, S20, S21, S32, S34, S38 |
+| S32 | 26 (night) | The street → Anna's car | The engineered pickup and drive | Nowhere left to run; then headlights — Brooke must choose whether to get in | Anna opens the door and waits; Brooke gets in herself; they drive; Sarah's text lands; Brooke initiates the one closeness beat, Anna never reaches first | **Anna's arrival is engineered, not luck** (pays off S33); Cooper tolerates her (Meeting 1, S13); Sarah's technically-true text (unanswered); Brooke initiates closeness (Rule 15); reader-facing "Wait" may escape (**AN-10**) | S13, S25, S31 |
+| S33 | 26 (night) | Anna's car (reader-only) | Deliver the reader-only journal confirmation | Cooper watches Anna open the missing journal while Brooke sleeps | **Anna entered the house, took the journal, built the resemblance, timed the rescue, is not Brooke's mother** | **AN-08 / AN-11 payoff**; keypad, ajar keepsake box, two visits, missing journal, full name, beach memory, repeated language, styling, engineered pickup all resolve | S01, S19, S20, S21, S25, S32 |
 
-*(Scene numbering: S49 is intentionally the terminal image; it is the only non-Brooke-POV unit and closes the clue system.)*
+*(Scene numbering: S33 is the terminal image — the only non-Brooke-POV unit — and closes the clue system, the same night as the siege.)*
 
 ---
 
@@ -93,18 +82,19 @@ Every necessary scene in the book, one row per scene, with POV, story day, locat
 
 Every planted clue must have its planting scene precede its payoff scene. Confirmed chains:
 
-- **Keypad code:** planted S01 (AN-01) → public archive S19 → resolved S49.
-- **Displaced object / first entry:** S20 (AN-02) → resolved S49.
-- **Missing journal / second entry:** S21 (AN-03) → leveraged S34 → resolved S49.
-- **Beach memory / cruel line:** planted S03 (EM-01) → Claire's crack S15 → reread S49.
+- **Keypad code:** planted S01 (AN-01) → public archive S19 → resolved S33.
+- **Displaced object / first entry:** S20 (AN-02) → resolved S33.
+- **Missing journal / second entry:** S21 (AN-03) → leveraged S25 (diner) → resolved S33.
+- **Beach memory / cruel line:** planted S03 (EM-01) → Claire's crack S15 → reread S33.
 - **Red medicine:** S00 → S06.
 - **Green-eye effect:** S12 → (deferred final-image eye effect, TWI-010).
-- **Whisper repetition:** "Wait" S12 → "Not yet" S22 → "Wait" near Anna S33 (AN-10).
+- **Whisper repetition:** "Wait" S12 → "Not yet" S22 → "Wait" near Anna S32 (AN-10).
 - **Escape geometry / gun-safe:** rehearsed S24 → siege payoff S30–S31.
 - **911 corruption:** S30 (IN-01), single-beat, self-contained.
-- **Anna's resemblance styling:** prepared off-page S22 → seen S32 → cumulative S35 → resolved S49 (AN-09).
+- **Anna's in-person approach:** Meeting 1 S13 (dog park, no claim) → Meeting 2 S25 (diner, mother reveal) → engineered pickup S32 → reveal S33.
+- **Anna's resemblance styling:** prepared off-page S22 → seen S25 (diner) → resolved S33 (AN-09).
 - **Mark comms degradation:** S07 → S11 (last live) → S17/S18 (missed calls) → never resolved (intentional, TWI-001).
 
 ## Open questions
 
-The Ch 6 / 26 / 27 scene splits are confirmed kept (OQ-08 resolved) and AN-02's object is locked (OQ-09 resolved). The remaining pacing check (~1,900-words/scene vs found-media ratio) is tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-10). Deferred beats (ending eye effect TWI-010, final line TWI-011) are intentionally not scened here.
+The Ch 6 / 26 / 27 scene splits are confirmed kept (OQ-08 resolved) and AN-02's object is locked (OQ-09 resolved). The remaining pacing check (~2,350 words/scene across 34 scenes vs found-media ratio) is tracked centrally in `outline/OPEN_QUESTIONS.md` (OQ-10). Deferred beats (ending eye effect TWI-010, final line TWI-011) are intentionally not scened here.

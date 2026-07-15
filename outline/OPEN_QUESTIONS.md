@@ -6,10 +6,9 @@
 
 | # | Question | Raised in | Priority | Related task |
 |---|---|---|---|---|
-| OQ-04 | **Anna trust-ladder rung → chapter mapping** is not fixed. Cross-reference each rung against the 34-chapter outline so pacing isn't compressed or padded. | `outline/ANNA_TRUST_LADDER.md` | P1 | TWI-103 / TWI-108 |
-| OQ-10 | **Pacing check:** 49 scenes over ~93,500 words (~1,900 words/scene) needs verification against the 10–15% found-media ratio. | `outline/SCENE_INVENTORY.md` | P1 | TWI-108 |
+| OQ-10 | **Pacing check:** 34 scenes over ~80,000 words (~2,350 words/scene) needs verification against the 10–15% found-media ratio. | `outline/SCENE_INVENTORY.md` | P1 | TWI-108 |
 
-Both remaining questions resolve inside the **TWI-108 outline pacing pass** — no standalone author decision is needed first.
+The one remaining question resolves inside the **TWI-108 outline pacing pass** — no standalone author decision is needed first.
 
 ## Tracked elsewhere (not active author decisions)
 
@@ -24,6 +23,7 @@ Both remaining questions resolve inside the **TWI-108 outline pacing pass** — 
 ### Recently resolved
 
 - **OQ-01 (resolved)** — Mark's regret / secret / arc fields stay permanently blank, matching his locked-unknown fate. Confirmed in `MAIN_CAST.md` and `CHARACTER_ARCS.md`.
+- **OQ-04 (resolved)** — The one-night ending rework fixed Anna's in-person placements: dog park Day 11 / Ch 12, diner Day 23 / Ch 24, engineered pickup Day 26 / Ch 28. No rung-to-chapter ambiguity remains.
 - **OQ-02 (resolved)** — Claire's fears kept as written: pre-illness fear is being left behind / left out, which the infection warps into the changed-state panic at closed doors and distance.
 - **OQ-03 (resolved)** — No fixed limit on fragment frequency; it varies per infected person and is tracked case-by-case in the drafting continuity log (TWI-203).
 - **OQ-05 (resolved)** — Anna and Brooke's first in-person meeting (trust-ladder Rung 5) is set at a public **dog park**.

@@ -18,7 +18,7 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 - [x] **TWI-012 | P1 | Decide civic operating window**: Answered in GitHub issue #20 with a six-phase, 30-day institutional progression; implementation remains under TWI-022.
 - [x] **TWI-013 | P1 | Decide final POV policy**: Brooke is the sole narrative viewpoint, including the prologue; found media broadens scope and the final journal image is the only exception.
 - [x] **TWI-024 | P0 | Design the unresolved Sarah-Brooke argument**: Sarah secretly cancels Brooke's film workshop; Brooke accuses her of control and weaponizes her biological mother's abandonment.
-- [x] **TWI-025 | P1 | Decide the delayed police arrival**: Changed officers arrive and prioritize returning Brooke to Sarah.
+- [x] **TWI-025 | P1 | Decide the delayed police arrival**: Superseded by the one-night ending rework (2026-07-15) — the changed-officers arrival is cut; the 911-corruption dispatch (dispatcher knows Brooke's name, IN-01) still stands during the siege, but no officers physically arrive.
 - [x] **TWI-026 | P1 | Design Anna's limited appearance changes**: Hair styling, eyebrow silhouette, muted makeup, blue clothing, oval pendant, posture, and stillness create a plausible photographed resemblance without transformation.
 
 ## M1: Foundation documents and research
@@ -38,11 +38,11 @@ Task IDs remain stable across the repository. P0 tasks block drafting or protect
 
 - [x] **TWI-101 | P0 | Map character arcs**: Define starting belief, pressure, choices, reversals, lowest point, climax behavior, and ending state. Completed in `outline/CHARACTER_ARCS.md`.
 - [x] **TWI-102 | P0 | Create master scene inventory**: List every necessary scene with POV, date, location, purpose, conflict, turn, clue, and dependency. Completed in `outline/SCENE_INVENTORY.md`.
-- [x] **TWI-103 | P0 | Build the 30-to-40-chapter outline**: Completed as a prologue plus 34 chapters with purpose, conflict, reveal, clues, character movement, found media, continuity, question chain, and projected word count.
-- [x] **TWI-104 | P0 | Design Anna's trust ladder**: Track permissions, technically true statements, misinterpretations, boundaries, hope, and Brooke's voluntary hug. Completed in `outline/ANNA_TRUST_LADDER.md`.
+- [x] **TWI-103 | P0 | Build the 30-to-40-chapter outline**: Completed, then revised by the one-night ending rework (2026-07-15) to a prologue plus 29 chapters (~80,000 words); the climax and ending compress into a single night (Day 26).
+- [x] **TWI-104 | P0 | Design Anna's approach**: Completed, then rewritten by the one-night ending rework (2026-07-15) from a nine-rung patient courtship into surveillance + two brief in-person meetings (dog park Day 11, diner Day 23) + an engineered escape-night pickup, in `outline/ANNA_TRUST_LADDER.md`.
 - [x] **TWI-105 | P1 | Design Claire and Sarah escalation ladders**: Keep their methods distinct, gradual, emotionally real, and synchronized with whisper evolution. Completed in `outline/ESCALATION_LADDERS.md`.
 - [ ] **TWI-106 | P1 | Plan Brooke's upload sequence**: Lock titles, contents, view growth, comments, survival value, and information Anna learns.
-- [x] **TWI-107 | P0 | Audit ending fairness**: Confirm keypad, house disturbance, missing journal, repeated language, and final journal proof all survive a reread test. Completed in `outline/ENDING_FAIRNESS_AUDIT.md` — PASS; the two dependent details (OQ-09, OQ-11) are now both resolved.
+- [x] **TWI-107 | P0 | Audit ending fairness**: Confirm keypad, house disturbance, missing journal, repeated language, and final journal proof all survive a reread test. Completed in `outline/ENDING_FAIRNESS_AUDIT.md` — PASS; re-run against the one-night ending rework (2026-07-15) with a new engineered-pickup fairness check — still PASS.
 - [ ] **TWI-108 | P1 | Run outline pacing and continuity pass**: Check chronology, geography, emotional escalation, quiet space, clue density, found-media ratio, and projected length.
 - [ ] **TWI-109 | P0 | Authorize drafting**: Open the drafting gate only after M1 and every P0 M2 task pass review.
 - [ ] **TWI-110 | P0 | Draft and review the prologue**: Begin only after TWI-109. Use commercial prose, red-medicine horror, and no authoritative explanation.

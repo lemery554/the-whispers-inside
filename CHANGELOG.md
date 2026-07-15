@@ -2,6 +2,19 @@
 
 All notable project-development changes are recorded here.
 
+## 2026-07-15
+
+- Added the expanded character dossiers (`MAIN_CAST.md`, TWI-017) and the full illness-behavior matrix (`RULES.md`, TWI-018); added character arcs (TWI-101), the master scene inventory (TWI-102), Anna's approach doc (TWI-104), and the Claire/Sarah escalation ladders (TWI-105).
+- Swapped Claire's Day 9 and Day 12 beats so her escalation ladder ascends monotonically (memory-lure before the bathroom-lock breakthrough).
+- Reconciled Anna's two house-entry days to the two-visit model: investigation Day 18, journal theft Day 19 (correcting stale "Day 19 first entry" references).
+- Consolidated all open questions into `outline/OPEN_QUESTIONS.md` as the single registry; resolved OQ-01/02/03/05/06/08/09.
+- Locked: Mark's dossier fields stay permanently blank; Claire's fears as written; no fixed fragment-frequency number; the AN-02 object (adoption-papers container ajar in the keepsake box at the foot of Brooke's bed); Sarah's fate (a single technically-true text, then left behind).
+- **Reworked the climax and ending into a single night (Day 26):** siege → shotgun blast → window escape → run → engineered car pickup by Anna → drive → Sarah's text → reader-only journal reveal. Cut the former multi-day post-escape trust epilogue; the book drops from 34 to 29 chapters and ~93,500 to ~80,000 words.
+- Moved Anna's in-person contact earlier to two brief meetings before the climax: a casual dog-park encounter (Day 11, no claim) and a diner meeting (Day 23, biological-mother reveal-to-Brooke).
+- **Reinterpreted Anna's method** from a patient multi-day courtship to surveillance plus two meetings plus an *engineered* escape-night pickup. STORY_RULES Rule 15/18 are preserved by two guardrails: Anna's arrival is engineered (studied and waiting), not luck, and Brooke still chooses — she gets into the car herself and initiates the one closeness beat; Anna never forces, grabs, or reaches first. Recorded here per the STORY_RULES exception-logging requirement.
+- Cut the changed-police "reunion" arrival on the escape night (`SCHOOL_POLICE_AND_911.md`, TWI-025 superseded for that beat); the 911-corruption dispatch (IN-01) still stands during the siege.
+- Re-ran the ending fairness audit (TWI-107) against the one-night structure, including a new engineered-pickup fairness check — PASS.
+
 ## 2026-07-14
 
 - Locked Anna's two school-day house visits, with investigation first and journal theft second.

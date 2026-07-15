@@ -14,11 +14,11 @@ Maps each character's starting belief, the pressure applied across the month, th
 
 **Reversals:** The unresolved fight with Sarah about the workshop reframes Sarah's later "protective" language with a second, darker meaning. The journal theft, first blamed on Claire, redirects suspicion in a way that delays Brooke's realization about Anna. The moment Brooke starts to want Anna's calm, undemanding presence is itself a reversal — the girl who trusts distance starts to crave a relationship built entirely on distance, without recognizing the danger in that appeal.
 
-**Lowest point:** Isolated from both her mother and sister, unable to trust the two people she's supposed to be safest with, with her father unreachable and no adult she can rely on — she has never been more alone, and the loneliness itself is what makes Anna's patient attention land.
+**Lowest point:** The siege — isolated from both her mother and sister, father unreachable, 911 compromised, a shotgun blast through her door. She has never been more alone or more afraid, and that terror is what makes Anna — the one person who ever felt safe and undemanding — the only door she'll run to.
 
-**Climax behavior:** Brooke initiates the closeness — per STORY_RULES Rule 15, Anna wins through consent, not force. Brooke's own established coping mechanism (trusting curated, mediated connection over messy immediate intimacy) is exactly what makes her choose to trust Anna at the worst possible moment.
+**Climax behavior:** In the one-night climax Brooke escapes the siege out the window with Cooper, runs down the street, and — when Anna's car appears — chooses to get in herself, then initiates the one closeness beat as they drive (Anna never reaches first). Per STORY_RULES Rule 15, Anna wins through consent, not force: even under terror, Brooke's own coping mechanism (trusting a curated, undemanding connection over messy family intimacy) is exactly what makes her run *to* Anna rather than away.
 
-**Ending state:** Alive, but the final journal-reading image confirms to the reader (not necessarily fully to Brooke) that patience was strategy. Brooke's arc doesn't resolve into safety — it resolves into the same isolation that created her vulnerability in the first place, now confirmed rather than suspected.
+**Ending state:** Alive, but the final journal-reading image — the same night — confirms to the reader, not fully to Brooke, that the rescue was engineered, not luck, and that Anna was studying her all along. Brooke's arc doesn't resolve into safety; it resolves into the same isolation that created her vulnerability, now confirmed rather than suspected.
 
 ---
 
@@ -54,7 +54,7 @@ Maps each character's starting belief, the pressure applied across the month, th
 
 **Climax behavior:** Acts entirely within the "changed" behavioral rules (retains memory, cannot lie, believes she's protecting Brooke) — her violence is sincere, not malicious in her own understanding.
 
-**Ending state:** Changed and left behind in the house. Her final contact with Brooke is a **single post-escape text message** (Day 27) — technically true and quietly devastating, framing captivity as safety ("It isn't safe out there. Come home."). Brooke does not answer it, and Sarah never appears again. No reconciliation; the door-shot and the text are her last two acts. (OQ-06 resolved.)
+**Ending state:** Changed and left behind in the house. Her final contact with Brooke is a **single text message that same night**, as Anna drives Brooke away — technically true and quietly devastating, framing captivity as safety ("It isn't safe out there. Come home."). Brooke does not answer it, and Sarah never appears again. No reconciliation; the shotgun blast through the door and the text are her last two acts. (OQ-06 resolved.)
 
 ---
 
@@ -74,15 +74,15 @@ Maps each character's starting belief, the pressure applied across the month, th
 
 **Pressure:** None, really — Anna is the only major character under no external pressure. This asymmetry is part of what makes her dangerous: she's operating on her own timeline, unhurried, while everyone else is reacting to crisis.
 
-**Choices:** Studies Brooke's public videos and private journal before making contact. Makes two separate school-day entries into the house rather than one, escalating access deliberately. Chooses appearance changes calculated to suggest resemblance without claiming it outright. Never forces a claim of motherhood — lets Brooke supply the conclusion herself, in line with STORY_RULES Rule 10.
+**Choices:** Studies Brooke's public videos and private journal before making contact. Makes two separate school-day entries into the house rather than one, escalating access deliberately. Makes two brief in-person contacts — a casual dog-park meeting (Day 11, no claim) and a diner meeting (Day 23) where she lets Brooke conclude she is her mother. Chooses appearance changes calculated to suggest resemblance without claiming it outright. Positions herself near the house so she can appear the moment Brooke runs. Never forces a claim of motherhood — lets Brooke supply the conclusion herself, in line with STORY_RULES Rule 10.
 
-**Reversals:** From the reader's perspective, Anna reverses from "patient stranger offering safety" to "the person who was studying Brooke the whole time" — but this isn't a reversal in Anna's own understanding, since she never experiences herself as deceptive.
+**Reversals:** From the reader's perspective, Anna reverses from "the kind stranger who happened to be there when Brooke needed rescue" to "the person who engineered the whole thing and was studying Brooke the entire time" — but this isn't a reversal in Anna's own understanding, since she never experiences herself as deceptive.
 
 **Lowest point:** N/A in the traditional sense — Anna doesn't have a low point built into her arc; she is the one character whose trajectory is uninterrupted escalation toward success.
 
-**Climax behavior:** Present in the car in the final sequence with Cooper's uneasy tolerance; the journal-reading image is her confirming action, proving to the reader what her patience was for.
+**Climax behavior:** Her car appears as Brooke runs from the siege — not luck but engineering, the payoff of surveillance. She opens the door and waits without grabbing or commanding; Brooke gets in herself. The same-night journal-reading image is her confirming action, proving to the reader that the rescue was studied, not chance.
 
-**Ending state:** In proximity to Brooke, having "won" per STORY_RULES Rule 15 — Brooke chose the closeness. Anna's ending state is success, which is the specific horror STORY_RULES Rule 18 requires: this could have been anyone; Brooke was understood, not chosen.
+**Ending state:** In proximity to Brooke, having "won" per STORY_RULES Rule 15 — Brooke chose to get in and chose the closeness. Anna's ending state is success, which is the specific horror STORY_RULES Rule 18 requires: this could have been anyone; Brooke was understood and exposed, not chosen.
 
 ---
 
@@ -94,7 +94,7 @@ Maps each character's starting belief, the pressure applied across the month, th
 
 **Choices:** Consistently avoids and grows wary around changed people; consistently permits and stays close to unchanged people he trusts.
 
-**Reversals:** Gradual, grudging tolerance of Anna specifically — not trust so much as an absence of alarm, won through Anna's patience the same way she wins Brooke's trust, which is its own quiet horror: even the detector can be worn down.
+**Reversals:** A single earlier exposure to Anna (the Day-11 dog park) earns just enough grudging tolerance — not trust so much as an absence of full alarm — that he doesn't panic when she appears in the car. Even the detector can be softened by one calm, undemanding meeting, which is its own quiet horror.
 
 **Lowest point:** N/A — Cooper doesn't have an emotional low point on the page; his function is signal, not journey.
 

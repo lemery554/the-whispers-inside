@@ -133,7 +133,7 @@ Sarah is the collective's second, more sophisticated attempt. She never breaks a
 ### S7 — Still present, still "protecting" *(ending state)*
 - **Step:** N/A.
 - **Day/Chapter:** Post-climax.
-- **Behavior:** Changed, left behind in the house, still framing everything as protection. Her one post-climax act is a single technically-true text to Brooke on Day 27 ("It isn't safe out there. Come home."), which Brooke never answers. She does not appear again (OQ-06 resolved).
+- **Behavior:** Changed, left behind in the house, still framing everything as protection. Her one post-climax act is a single technically-true text to Brooke the same night, as Anna drives her away ("It isn't safe out there. Come home."), which Brooke never answers. She does not appear again (OQ-06 resolved).
 - **Function:** Sarah's love was never fake; that's the tragedy the middle stage is built to prove.
 
 **Sarah's ladder in one line:** loves → restricts → guilts → bargains → shoots. Love and guilt work until they're seen, then collapse into force — the lesson Anna inherits from the *other* direction.
@@ -146,7 +146,7 @@ Sarah is the collective's second, more sophisticated attempt. She never breaks a
 |---|---|---|---|---|
 | Early — proximity commands | **Claire** | Force / physical closeness | Breaks the bathroom lock (C6) | Force gets contact, destroys trust |
 | Middle — emotional leverage | **Sarah** | Guilt, memory, authority | Fires through the door (S6) | Love/guilt fail once control is visible |
-| Later — learned psychology | **Anna** | Patience, permission, hope | Brooke's voluntary hug (TWI-104 Rung 9) | Let her choose; win through consent |
+| Later — learned psychology | **Anna** | Study, patience, engineered timing | Brooke gets into Anna's car and initiates the one closeness beat (one-night ending) | Let her choose; win through consent, not force |
 
 The three ladders are one escalating argument the book makes about love-as-possession: each failure narrows the collective's method until Anna arrives at the only version that succeeds — the one that never forces anything. Claire and Sarah must therefore fail *convincingly and sympathetically*, or Anna's success reads as a trick rather than the horrifying endpoint of a learning process.
 
