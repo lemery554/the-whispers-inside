@@ -12,6 +12,10 @@ All chapters default to dense commercial-novel paragraphing. Avoid isolated narr
 - `03_Sisters.md`: Chapter 3 first draft
 - `04_The-Dog-Knows.md`: Chapter 4 first draft
 - `05_Empty.md`: Chapter 5 first draft
+- `06_Red.md`: Chapter 6 first draft
+- `07_Better.md`: Chapter 7 first draft
+- `08_Sit-With-Me.md`: Chapter 8 first draft
+- `09_Preferences.md`: Chapter 9 first draft
 
 ## Chapter issue workflow
 
