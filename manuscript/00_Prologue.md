@@ -2,9 +2,7 @@
 
 The house was quiet after midnight. The refrigerator hummed downstairs. Claire's white-noise machine breathed through the wall, an artificial ocean steady enough to disappear if Brooke stopped listening for it. Outside her bedroom window, a streetlight laid a pale bar across the carpet.
 
-Brooke liked the house at this hour. Small sounds held still long enough to place.
-
-Four windows occupied her monitor.
+Brooke liked the house at this hour. Small sounds held still long enough to place. Four windows occupied her monitor.
 
 Her editing timeline filled the bottom half of the screen. Above it sat a dispatch recording, a hospital video, and a recovery clip she had opened twenty minutes ago and still had not played.
 
@@ -12,11 +10,7 @@ None of the footage was hers. Normally that alone would have made her close it. 
 
 For two nights, she had been finding seams everywhere.
 
-The illness did not have a name. News stations called it a gastrointestinal outbreak. Posts called it the stomach flu, the purge, or whatever was going around. One commenter beneath a hospital video had written two words that Brooke had saved without knowing why.
-
-*The color.*
-
-She played the dispatch recording again.
+The illness did not have a name. News stations called it a gastrointestinal outbreak. Posts called it the stomach flu, the purge, or whatever was going around. One commenter beneath a hospital video had written two words that Brooke had saved without knowing why: *the color*. She played the dispatch recording again.
 
 Thirty-one seconds of radio traffic from two towns over. Someone who monitored emergency frequencies had uploaded it over a motionless blue screen.
 
@@ -24,15 +18,11 @@ A dispatcher's trained voice read an address. Behind it, a caller spoke too quic
 
 *She can't keep anything down. She can't keep the medicine down. It comes right back up.*
 
-The dispatcher asked what medicine she meant.
-
-The caller went silent long enough for Brooke to glance at the waveform.
+The dispatcher asked what medicine she meant. The caller went silent long enough for Brooke to glance at the waveform.
 
 *The red one,* the woman said. *They gave us the red one.*
 
-Brooke had listened forty times. *The red one* still raised the hair on her arms. *She can't keep anything down* did not.
-
-Fear was like that. It picked.
+Brooke had listened forty times. *The red one* still raised the hair on her arms. *She can't keep anything down* did not. Fear was like that. It picked.
 
 She dragged the audio onto her timeline. Keeping things had become automatic after a hard drive died when she was twelve and took four months of footage with it. She could no longer remember some of what she had lost without also remembering the videos of it, which felt like proof that memory could be edited without permission.
 
@@ -54,51 +44,29 @@ Brooke rewound the fall once. The woman did not hesitate the second time either.
 
 A comment beneath another clip claimed hospitals had received cases of red liquid in sealed cups. The writer said patients vomited it almost as soon as they swallowed. The writer claimed to be a nurse. Brooke had no way to know whether that part was true.
 
-The liquid on the pavement could have been the treatment. The caller had said the medicine came back up. Similar red stains appeared in videos from three hospitals.
-
-That was a pattern, not an answer.
+The liquid on the pavement could have been the treatment. The caller had said the medicine came back up. Similar red stains appeared in videos from three hospitals. That was a pattern, not an answer.
 
 Brooke muted the hospital video. She sometimes edited wedding footage for gas money, and voices were often the least reliable part of a room. People said they were happy while their shoulders drew tight. They said they were fine while watching an exit.
 
-Bodies did not know how to lie the way voices did.
-
-Without sound, she found the timing.
+Bodies did not know how to lie the way voices did. Without sound, she found the timing.
 
 She pulled two more hospital clips into the project. One came from another state. The other had been filmed by a phone propped against a vending machine. She aligned their timestamps as closely as the posts allowed and ran them together.
 
-In the first clip, six patients along a wall stopped moving.
+In the first clip, six patients along a wall stopped moving. In the second, a woman lowered a paper cup without drinking. In the third, two nurses looked toward opposite ends of a corridor. Then the patients folded forward.
 
-In the second, a woman lowered a paper cup without drinking.
-
-In the third, two nurses looked toward opposite ends of a corridor.
-
-Then the patients folded forward.
-
-Not one and then another. The movement passed through each room in a narrow wave, close enough to simultaneous that Brooke replayed it at half speed. Shoulders tightened. Heads turned. Bodies doubled over as if something had been said that only they could hear.
-
-Her mouth had gone dry.
-
-She played the sequence again. Muted. Full speed. Half speed.
+Not one and then another. The movement passed through each room in a narrow wave, close enough to simultaneous that Brooke replayed it at half speed. Shoulders tightened. Heads turned. Bodies doubled over as if something had been said that only they could hear. Her mouth had gone dry. She played the sequence again. Muted. Full speed. Half speed.
 
 The refrigerator cycled off downstairs, leaving Claire's white noise and the faint click of Cooper's collar near the foot of the stairs. Sarah, Brooke's mother, had gone to bed hours ago after reminding her twice that it was a school night. Claire, her thirteen-year-old sister, was asleep behind the manufactured ocean.
 
-The house sounded ordinary. Brooke let it.
-
-She opened a news tab.
+The house sounded ordinary. Brooke let it, then opened a news tab.
 
 The anchor spoke with the careful calm used for storms that might turn away. The lower third read *REGIONAL ILLNESS UNDER INVESTIGATION*. An official described the situation as serious but responsive to treatment. Behind him, through a window in a hospital door, someone dragged a red mop bucket across the hall.
 
 The report was not necessarily false. The footage was not necessarily complete. Brooke could not make them occupy the same room.
 
-The unplayed recovery clip waited in the fourth window.
+The unplayed recovery clip waited in the fourth window. She clicked it.
 
-She clicked it.
-
-A girl lay propped in a hospital bed, filmed from the doorway by an unsteady phone. She looked fifteen or sixteen. An IV ran into a hand the color of paper. Her lips were gray, and the skin beneath her eyes had sunk into bruised half-moons.
-
-Then she drank from a plastic cup.
-
-She swallowed. Waited. Drank again.
+A girl lay propped in a hospital bed, filmed from the doorway by an unsteady phone. She looked fifteen or sixteen. An IV ran into a hand the color of paper. Her lips were gray, and the skin beneath her eyes had sunk into bruised half-moons. Then she drank from a plastic cup. She swallowed, waited, and drank again.
 
 The girl turned toward the phone and smiled. A woman behind the camera began crying with relief.
 
@@ -114,9 +82,7 @@ The mother stepped partly out of the doorway to answer someone in the hall. The 
 
 The phone swung back. The woman returned to the bedside, laughing softly as she told the girl not to scare her.
 
-The girl caught her wrist with both hands.
-
-Her face relaxed at once.
+The girl caught her wrist with both hands, and her face relaxed at once.
 
 It could have been fear. After hours of vomiting and strangers and bright hospital rooms, anyone might panic when the one familiar person stepped away. Brooke knew that. She watched the mother bend and kiss the girl's forehead. She watched the girl's fingers remain closed around the wrist.
 
@@ -124,13 +90,7 @@ When a nurse asked the mother to move so she could check the IV, the girl said, 
 
 Not a question. Not anger. The same exhausted voice she had used for *Mom?*
 
-The clip ended with the mother still beside the bed.
-
-Brooke played it again.
-
-The smile was not late. It was not false. That would have been easier. The relief in it seemed to belong to the girl completely.
-
-So did the fear when the doorway emptied.
+The clip ended with the mother still beside the bed. Brooke played it again. The smile was not late. It was not false. That would have been easier. The relief in it seemed to belong to the girl completely. So did the fear when the doorway emptied.
 
 Brooke dragged the clip to the end of her timeline. She labeled the project *the color*, added the date, and saved it to her main archive. Then she copied it to the backup drive beneath her desk.
 
@@ -140,28 +100,14 @@ Brooke checked the files, checked them again, and closed the laptop.
 
 Darkness returned to the room. The streetlight remained across the carpet. Claire's artificial ocean rolled through the wall.
 
-Cooper was no longer resting.
+Cooper was no longer resting. Brooke could not see him from her bed, but the front hall had gone too still. His tags did not move. His nails did not shift against the hardwood.
 
-Brooke could not see him from her bed, but the front hall had gone too still. His tags did not move. His nails did not shift against the hardwood.
+A vibration traveled up through the floor, so low she mistook it for the refrigerator starting again. Then Cooper growled. He ignored delivery drivers, passing cars, joggers, children on bicycles. Brooke had heard him bark at a squirrel once and sneeze at the vacuum cleaner. This sound belonged to neither irritation nor surprise.
 
-A vibration traveled up through the floor, so low she mistook it for the refrigerator starting again.
+She went to her bedroom door. Cooper stood at the bottom of the stairs with his head low and ears forward, his weight aimed toward the front of the house. The fur along his shoulders had lifted. He did not look back at her.
 
-Then Cooper growled.
-
-He ignored delivery drivers, passing cars, joggers, children on bicycles. Brooke had heard him bark at a squirrel once and sneeze at the vacuum cleaner. This sound belonged to neither irritation nor surprise.
-
-She went to her bedroom door.
-
-Cooper stood at the bottom of the stairs with his head low and ears forward, his weight aimed toward the front of the house. The fur along his shoulders had lifted. He did not look back at her.
-
-Outside, a shoe scraped along the sidewalk.
-
-One step. A pause. Another step, slower than the first.
+Outside, a shoe scraped along the sidewalk. One step. A pause. Another step, slower than the first.
 
 No engine passed. No headlights moved across the wall. Something continued beyond the front windows and down the street, never entering the bar of light Brooke could see from the landing.
 
-Cooper tracked it behind the closed door.
-
-Brooke waited for him to settle.
-
-He did not.
+Cooper tracked it behind the closed door. Brooke waited for him to settle, but he did not.

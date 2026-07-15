@@ -6,9 +6,7 @@ It was not an ambiguous hoodie. Brooke had bought it with money from editing thr
 
 Claire wore it unzipped over her school shirt, sleeves pulled over her hands.
 
-Brooke raised her phone and framed the evidence.
-
-"State your name for the record."
+Brooke raised her phone and framed the evidence. "State your name for the record."
 
 Claire stopped beside the kitchen island. "You know my name."
 
@@ -64,9 +62,7 @@ Mark had been in Albany since Monday, rewiring part of an old hotel that its own
 
 Sarah gave her a look. "He'll call tonight. You can interrogate him then."
 
-Claire reached past the pancake stack.
-
-Without turning, Sarah tapped the back of Claire's hand with the spatula.
+Claire reached past the pancake stack. Without turning, Sarah tapped the back of Claire's hand with the spatula.
 
 "Plate."
 
@@ -82,9 +78,7 @@ Brooke had checked the front walk after his growling stopped. There had been nob
 
 In daylight, the sound from the night had become less specific. Dogs growled. People walked past houses. A thing did not become evidence because it happened near another thing.
 
-She moved the camera back to Claire.
-
-"Take it off before school."
+She moved the camera back to Claire. "Take it off before school."
 
 "No."
 
@@ -116,9 +110,7 @@ Claire moved back. Brooke tapped the screen to hold focus on the syrup.
 
 "You're standing near people. That's different."
 
-Brooke stopped recording.
-
-Claire had already begun cutting into the stack and did not appear to know she had said anything worth keeping. Sarah set a plate on the island in front of Brooke, two pancakes with crisp edges and a small amount of syrup because she remembered Brooke hated when they turned soft.
+Brooke stopped recording. Claire had already begun cutting into the stack and did not appear to know she had said anything worth keeping. Sarah set a plate on the island in front of Brooke, two pancakes with crisp edges and a small amount of syrup because she remembered Brooke hated when they turned soft.
 
 "Sit," Sarah said.
 
@@ -130,13 +122,9 @@ Claire had already begun cutting into the stack and did not appear to know she h
 
 "You stole my clothes, not my ability to read time."
 
-Brooke took the plate with her upstairs.
+Brooke took the plate with her upstairs. Her room looked better through a lens. In person, cables showed beneath the editing desk no matter how many times she tied them together. Memory-card cases leaned against the monitor. Two camera batteries charged beside a chipped mug full of pens and one screwdriver she kept forgetting to return to the garage.
 
-Her room looked better through a lens. In person, cables showed beneath the editing desk no matter how many times she tied them together. Memory-card cases leaned against the monitor. Two camera batteries charged beside a chipped mug full of pens and one screwdriver she kept forgetting to return to the garage.
-
-Brooke set her plate beside the keyboard and checked the files she had saved overnight.
-
-They were still there.
+Brooke set her plate beside the keyboard and checked the files she had saved overnight. They were still there.
 
 The folder called *the color* sat between a client project and footage from last summer. She did not open it. School started in twenty-seven minutes, and there were limits to how much hospital pavement a person should see before first period.
 
@@ -146,11 +134,7 @@ The clip began with Claire entering in the stolen hoodie. Brooke scrubbed past h
 
 One frame later, she had looked up and smiled at them.
 
-Brooke backed up.
-
-Sarah's mouth tight. Claire saying *legally abandoned*. Sarah looking up. The smile.
-
-It was not fake. That was the lazy word people used when a camera caught the transition into an expression. Sarah had been worried and then had decided not to bring the worry into breakfast. Both things were true. The cut between them was only visible because Brooke could move backward.
+Brooke backed up. Sarah's mouth tight. Claire saying *legally abandoned*. Sarah looking up. The smile. It was not fake. That was the lazy word people used when a camera caught the transition into an expression. Sarah had been worried and then had decided not to bring the worry into breakfast. Both things were true. The cut between them was only visible because Brooke could move backward.
 
 She saved the clip under FAMILY instead of deleting it.
 
@@ -174,17 +158,11 @@ Sarah opened the door. "Car. Now. Both of you."
 
 Cooper lifted his head from the bottom stair. For a moment he looked past Sarah toward the street, body still beneath the warm square of sunlight from the glass.
 
-Brooke watched him.
-
-His tail struck the floor once. Then he sneezed and lowered his head again.
-
-Nothing.
+Brooke watched him. His tail struck the floor once. Then he sneezed and lowered his head again. Nothing.
 
 Outside, Ashcroft looked offensively normal. A sprinkler clicked across the Dunns' lawn despite the cold. A school bus sighed at the corner. Two houses down, Mr. Vale dragged a recycling bin toward his garage in plaid pajama pants, pausing to raise one hand at Sarah.
 
-Sarah waved back.
-
-Brooke checked the sidewalk in both directions. She did not know what she expected to find. A red trail would have been ridiculous. A stranger standing beneath the streetlight in daylight would have been worse.
+Sarah waved back. Brooke checked the sidewalk in both directions. She did not know what she expected to find. A red trail would have been ridiculous. A stranger standing beneath the streetlight in daylight would have been worse.
 
 There was only a damp patch of concrete where somebody's sprinkler had reached too far.
 
@@ -216,9 +194,7 @@ Brooke shut her locker. "Did she also predict the part where I leave you to be r
 
 "You two have built an efficient police state."
 
-Claire smiled and started toward the exit, apparently certain Brooke would follow.
-
-She did.
+Claire smiled and started toward the exit, apparently certain Brooke would follow. She did.
 
 The quickest route home cut behind the athletic fields, through a narrow path between two developments, then along Hawthorn Road. Claire narrated most of it without requiring an audience. Her science teacher had worn two different shoes. Someone named Lila had cried in the bathroom and refused to explain why. The cafeteria pizza had achieved a texture Claire believed violated federal law.
 
@@ -266,9 +242,7 @@ The video held what memory had dropped: Mark behind the camera asking who had st
 
 "Are you coming in?" Claire asked.
 
-Brooke lowered the phone.
-
-Claire remained on the floor with both arms around Cooper. His chin rested on her shoulder. The hoodie bunched across her back, one sleeve already marked with a dark smear from his nose.
+Brooke lowered the phone. Claire remained on the floor with both arms around Cooper. His chin rested on her shoulder. The hoodie bunched across her back, one sleeve already marked with a dark smear from his nose.
 
 "You got dog on it," Brooke said.
 
@@ -294,10 +268,6 @@ Brooke could go in. She could take back the hoodie, eat popcorn, and listen to C
 
 Instead she sat on the front step and replayed the clip.
 
-Claire's palm had hidden her fingers. At the edge of the frame, thin blue halos marked where each one landed.
-
-Most of it.
-
-Brooke was already listening to Claire complain about the popcorn when the flashes passed.
+Claire's palm had hidden her fingers. At the edge of the frame, thin blue halos marked where each one landed. Most of it. Brooke was already listening to Claire complain about the popcorn when the flashes passed.
 
 Claire called from the kitchen that the popcorn smelled weird. Cooper barked once at the microwave. Brooke went inside, and that evening the doorway clip joined six other ordinary pieces in the short video she uploaded under her own name.
