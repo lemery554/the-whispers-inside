@@ -40,13 +40,39 @@ Brooke heard three people repeat *inaccurate social-media reports* before lunch.
 
 She saved the nurse's email and a screenshot of the district notice. During study hall, she opened the folder called *the color* and built a sequence from the clips she had collected: the red pavement, the synchronized movement in hospital corridors, the recovering girl tightening both hands around her mother's wrist, and the white intake screens outside Saint Vincent's.
 
+Mr. Larkin had given Brooke a key to the audiovisual room after she repaired two microphone cables the district had planned to replace. The room smelled of dust warmed by old equipment. A row of cameras sat in a locked cabinet, each one older than Brooke but better balanced than her phone. She used the school's sound blanket, clipped it behind the desk, and listened to the room through headphones.
+
+The first narration sounded excited. Brooke deleted it. The second sounded frightened, which was closer to honest but made every image seem guilty before it appeared. On the third attempt she left space between statements. Uncertainty required room. If she filled every pause, viewers would hear confidence she did not have.
+
 Brooke recorded narration in the empty audiovisual room, keeping her voice low because the walls were thinner than they looked.
 
 "This started showing up three nights ago. I don't know if the red liquid is medicine or something else, and I don't know whether it matters. Hospitals in at least four states are using it. The people in these clips seem to recover quickly, but the reports don't agree about how sick they were first. I'm saving the sources in the description. If anything gets corrected, I'll update it."
 
 She stopped there. No warning. No theory. She titled the upload *Something's going around* and posted it under Brooke Bennett.
 
+Before publishing, she checked the source links twice and blurred a patient's face the original account had left visible. She removed six frames of the red spill because they made the thumbnail more compelling than the information justified. The final thumbnail showed the white paper cup against a hospital wall. It was less dramatic. Brooke trusted it more.
+
 By final bell, one comment said *dramatic much*. Another asked whether the red liquid was fruit punch. Brooke did not reply.
+
+Nora found her outside the audiovisual room and asked why Brooke had not used music.
+
+"Because it isn't a trailer," Brooke said.
+
+"Everything online is a trailer for something."
+
+"That's depressing."
+
+Nora refreshed the page. "You have twenty-one views."
+
+"I had twelve subscribers this morning."
+
+"Congratulations on terrifying nine strangers."
+
+The joke was not cruel. Nora said it with the same mild respect she used when Brooke fixed corrupted project files. Brooke almost asked whether she wanted to help with the next upload. The impulse passed before it became speech. Collaboration meant explaining why each cut mattered. It meant letting somebody else see the uncertainty before Brooke had shaped it into something defensible.
+
+"There isn't a next upload," she said.
+
+Nora looked at the source folder still open on the computer behind her. "Sure."
 
 Sarah texted that her last meeting would run late and told Brooke to make sure Claire came straight home. The message included a heart at the end, the same one Sarah used after reminders about dentist appointments and laundry. Brooke stared at it long enough for the screen to dim, then sent back *okay*.
 
@@ -140,6 +166,8 @@ Instead she chose the sentence that would end the argument.
 
 Claire went still. Brooke knew the line had landed before she understood where she had aimed it. Claire's mouth opened slightly. Her eyes moved over Brooke's face as if searching for evidence that the sentence belonged to somebody else.
 
+The hallway noise continued around them. A locker slammed. Somebody laughed near the stairs. The ordinary sounds made the cruelty feel private, sealed between the two of them even though Brooke had said it where anyone could have heard.
+
 "Mom is your real mother," Claire said.
 
 "I know."
@@ -177,6 +205,24 @@ Claire wiped one eye with the sleeve of the stolen hoodie. "Then go."
 Brooke almost smiled because the answer sounded like Claire again. Claire did not smile back.
 
 They walked home several feet apart. Claire did not narrate the route. She did not complain about school or ask Brooke to film anything. At Hawthorn Road, an ambulance passed toward Saint Vincent's without using its siren. Both sisters watched it disappear around the bend.
+
+At the path behind the fields, Claire stopped at the bench where they sometimes waited out rain. She took Brooke's hat from her backpack and set it on the damp wood.
+
+"That's yours too," she said.
+
+Brooke picked it up. "You can keep the hoodie until we get home."
+
+"I don't want it."
+
+"You're wearing it."
+
+Claire unzipped it and held it out. Underneath, her school shirt had dried in a pale ring from the ceramics spill.
+
+"Claire, it's cold."
+
+"Then you wear it."
+
+Brooke took the hoodie because refusing would have required an apology or another cruel sentence, and she did not trust herself with either. Claire walked ahead in the thin shirt. Brooke carried both stolen things and understood that getting them back was not the same as winning.
 
 At home, Sarah was still on a call. Brooke went upstairs and refreshed the outbreak upload. Thirty-eight views. Four dislikes. A new comment read, *My brother had this. He was fine the next day.*
 
@@ -222,4 +268,18 @@ When the screen went dark, Claire left first. Brooke waited for Sarah to mention
 
 Brooke opened the video from the beach. She stopped on a frame where Claire's hands were buried in the sand around Brooke's knees. The picture shook with Mark's laughter behind the camera.
 
+The full clip lasted four minutes. Sarah was offscreen warning them that the tide was coming in. Claire kept adding sand to the wall as water darkened it from below. Six-year-old Claire wore Brooke's striped towel like a cape because her own had blown down the beach. Brooke, ten and sunburned across the nose, complained that the sand scratched her legs.
+
+"You have to stay," Claire told her in the video. "The castle needs a person."
+
+"Why can't you be the person?"
+
+"I'm the builder."
+
+The first wave broke through and both girls screamed, then laughed so hard the camera shook. Mark said something about engineering standards. Claire threw a handful of wet sand toward him and hit Sarah instead.
+
+Brooke watched until the video ended with the lens pointed at sky.
+
 She considered sending Claire the clip. Instead she saved a second copy to the family folder.
+
+Then she opened their message thread and typed *I'm sorry.* She stared at the two words until they looked like a caption placed over the wrong scene. She deleted them, told herself she would say it in person, and heard Claire's bedroom door close across the hall.

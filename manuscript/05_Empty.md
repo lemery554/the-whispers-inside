@@ -84,11 +84,33 @@ Sarah called the pediatrician's after-hours line. A recording advised anyone exp
 
 Brooke searched beneath the state notice while Sarah replaced the damp cloth on Claire's neck. One comment said Saint Vincent's had stopped letting relatives beyond triage. Another showed three people sitting together beneath the emergency-room sign. Contradiction had become the only detail every report shared.
 
+She called Saint Vincent's main number. A recording thanked callers for their patience, warned of extended emergency waits, and repeated that the hospital remained open. The menu offered no choice for asking whether a thirteen-year-old would be separated from her family. Brooke pressed zero until the system disconnected her.
+
+On the second call, she chose patient information. A woman answered after seven minutes and said she could not discuss emergency intake procedures because they were changing by the hour.
+
+"Can two family members stay with a child?" Brooke asked.
+
+"The clinical team will decide based on space and safety."
+
+"What does that mean?"
+
+"It means bring one adult if possible."
+
+Brooke looked through the bathroom doorway at Sarah supporting Claire's weight. "What happens to the other person?"
+
+The woman paused. "They wait."
+
+Brooke thanked her because the woman sounded as tired as Sarah.
+
 A video posted twenty minutes earlier showed shoes, chair legs, and a white paper cup tipped on its side in a crowded waiting room. A vivid red line ran from the cup toward the filmer's sneaker. Someone out of frame retched.
 
 Brooke watched six seconds, muted it, and locked her screen. Claire was sick in front of her. The footage did not make Claire safer or tell Sarah what to do. For the first time since the clips began, saving more felt like refusing to look at what was already in the room.
 
 At eight, Claire's fever was 102.8. At eight-twenty, she vomited after one teaspoon of electrolyte drink. At eight-forty, diarrhea forced Sarah to close the bathroom door, leaving Brooke in the hall with fresh clothes and the sound of Claire crying that she was sorry.
+
+The illness erased privacy by degrees. First Sarah asked Brooke to bring clean underwear. Then Claire needed help standing. Then the bath mat went into a trash bag and Sarah stopped closing the door all the way because she needed Brooke near enough to hear instructions. Claire protested each loss until exhaustion made protest more expensive than embarrassment.
+
+Brooke learned how to knot a trash bag without touching the wet plastic, how to run the shower just long enough to warm the room without filling it with steam, and how to look at Claire's face instead of the mess around her. None of it felt like helping until Sarah asked for something else.
 
 "You have nothing to be sorry for," Sarah said through the door.
 
@@ -150,6 +172,18 @@ Claire lurched toward the toilet. The phone slid against the counter while Sarah
 
 The call disconnected before anyone said goodbye.
 
+Sarah picked up the phone and called back immediately. Voicemail. She tried again while Claire rinsed her mouth. Voicemail again.
+
+"He said he was leaving," Brooke said.
+
+"He said as soon as they clear them."
+
+"Same thing."
+
+"No, it isn't."
+
+Sarah set the phone faceup on the counter, volume at maximum. For the next hour, every vibration made all three of them look toward it. Most were building alerts from Sarah's work or news notifications Brooke had forgotten to silence.
+
 At nine-twenty, the pediatrician returned the message. The on-call nurse sounded tired and spoke quickly. She asked whether Claire had urinated in the last six hours, whether her mouth was dry, whether she could stand without dizziness, whether she knew where she was. Sarah answered until the last question. "Claire," she said, "tell me where you are."
 
 Claire rested her forehead against the cool side of the tub. "Home."
@@ -165,6 +199,16 @@ Claire frowned at the toilet, the sink, the bath mat beneath her knees. "The whi
 The nurse told Sarah to take her to the emergency department.
 
 The house became a list: insurance card, phones, clean clothes, plastic bags, medication history, basin. Sarah moved through it without stopping while Brooke obeyed.
+
+Brooke added Claire's temperature note, the state-health screenshots, and the short video of Cooper outside the room. Sarah saw the video thumbnail when Brooke checked the folder.
+
+"Do not show them her throwing up."
+
+"I didn't film that."
+
+Sarah looked at her long enough to make the answer feel like a test. "Good."
+
+Brooke wanted credit for the boundary and hated herself for wanting it.
 
 "Shoes she can put on in the car. Bring the gray blanket. Put Cooper in the kitchen."
 
@@ -203,6 +247,22 @@ This time the liquid was almost clear.
 By ten, Claire had nothing left. Her stomach continued trying anyway.
 
 Sarah drove. Brooke sat in the back beside Claire with the basin between their feet. Rain glazed the roads and turned every traffic light into a long colored smear across the windows. Claire lay with her head in Brooke's lap, shivering beneath the blanket despite the heat pouring from the vents.
+
+They passed the high school at ten-oh-seven. The parking lot lights were on though the building was empty. A digital sign near the road still announced Monday's basketball game and reminded families that attendance mattered. Beneath it, somebody had taped a sheet of paper over the community-event board. In the headlights Brooke read only two words: *STAY HOME*.
+
+At the next intersection, a pharmacy drive-through line wrapped around the building. People waited beneath umbrellas at the walk-up window. Sarah slowed, considered the turn, and continued toward the hospital.
+
+"We could get nausea medicine," Brooke said.
+
+"Not without knowing what she can take."
+
+"Everybody online says they're giving something red."
+
+Sarah's eyes met hers in the mirror. "Online is not her doctor."
+
+Claire shifted in Brooke's lap. "No red."
+
+Neither of them asked what she meant.
 
 Brooke kept one hand on Claire's shoulder and used the other to refresh the Saint Vincent's emergency page. The estimated wait time had disappeared. A notice said temporary triage procedures were in effect. Families should bring identification, medication lists, and patience.
 

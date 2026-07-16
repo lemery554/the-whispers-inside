@@ -72,6 +72,18 @@ Claire reached past the pancake stack. Without turning, Sarah tapped the back of
 
 Brooke caught Claire's offended expression before it broke into a grin. She kept recording as Claire dragged a plate from the cabinet and loaded it with three pancakes, each one placed carefully enough to support her claim that she was not taking three, only building something.
 
+Mark usually handled Saturday pancakes and treated each one as a structural problem. He made Claire's shaped like animals that became less identifiable as she grew older and more critical. Sarah made circles and expected gratitude. This morning she had used Mark's heavy cast-iron pan, the one she complained was designed for people with stronger wrists and worse judgment.
+
+"Dad says you heat it too fast," Claire said.
+
+"Your father isn't here to defend that opinion."
+
+"I can call him."
+
+"At six forty in the morning? Please do."
+
+Claire considered the threat seriously enough to make Sarah laugh. Brooke kept the laugh in frame. Sarah's laughter had a small inhale in the middle when it surprised her. Brooke had never noticed it without headphones.
+
 Cooper lay at the foot of the stairs where the kitchen opened toward the front hall. He had returned to his usual shape sometime before dawn, loose-limbed and mostly in the way. One ear lifted when Claire opened the silverware drawer. It dropped again when no cheese appeared.
 
 Brooke had checked the front walk after his growling stopped. There had been nobody beneath the streetlight, no dropped package, no animal in the hedge. By the time she went upstairs, Cooper had circled twice on his bed and collapsed with the force of something unfairly burdened by comfort.
@@ -130,6 +142,12 @@ The folder called *the color* sat between a client project and footage from last
 
 She connected her phone instead and transferred the kitchen video.
 
+The transfer software created a thumbnail of Claire with the hoodie zipped over her mouth. Brooke dragged the clip into a family project she had been building without telling anyone. It had no clear purpose. Pancakes, Cooper sleeping through a thunderstorm, Mark replacing a porch light while Claire supplied incorrect electrical advice, Sarah singing half a line of a song and stopping when she noticed the camera. Ordinary footage accumulated faster than Brooke could justify it.
+
+She told herself it was practice. Continuity. Color correction under bad kitchen lights. The truth was less technical. Families changed in ways nobody marked. A voice lowered. A favorite mug disappeared. Somebody stopped sitting in the same chair. By the time anyone noticed, the old version existed only in claims nobody remembered making.
+
+Brooke set an in point before Claire entered the kitchen and an out point after Sarah laughed. She did not trim the empty second at the beginning. The empty room established what changed when Claire arrived.
+
 The clip began with Claire entering in the stolen hoodie. Brooke scrubbed past her own mock-serious interrogation, past Sarah at the stove, and stopped on a frame she had not intended to catch. Sarah stood in profile behind Claire, looking down at her phone. Whatever message was on the screen had tightened her mouth.
 
 One frame later, she had looked up and smiled at them.
@@ -172,6 +190,30 @@ Claire bumped Brooke's shoulder on the way to the car. "You coming?"
 
 By lunch, the overnight outbreak had acquired three new expert interviews and a rumor that Ashcroft High would close on Monday. Beneath the cafeteria's flickering blue menu board, Nora Patel said the red medicine was an experimental antiviral. A boy behind her said his cousin's roommate worked at Saint Vincent's and the emergency room was empty. Before Nora could answer, he added that the National Guard had taken over the hospital.
 
+Nora had been in Brooke's media class the previous year and still asked for help when an export failed. She slid her phone across the table now, showing a vertical video of uniformed people unloading boxes.
+
+"That's not Saint Vincent's," Brooke said.
+
+"How can you tell?"
+
+"The ambulance logo. And the building has brick around the doors. Saint Vincent's is glass."
+
+Nora enlarged the frame until the image broke into squares. "So where is it?"
+
+"I don't know."
+
+The boy behind her leaned closer. "Then it could be Saint Vincent's."
+
+"That isn't how locations work."
+
+Nora took back the phone. "Can you check it? Like reverse search it or whatever?"
+
+Brooke almost said yes. The request produced a familiar spark, the pleasure of being useful because she noticed what other people missed. Then she imagined spending lunch proving one video false only to have another replace it by final bell.
+
+"Send it to me," she said.
+
+She saved the clip beneath UNSOURCED before eating anything.
+
 The principal disproved the closure rumor over the intercom before final bell. Nobody sounded convinced.
 
 Brooke did not mention the clips. Everybody else had already decided what they meant.
@@ -197,6 +239,38 @@ Brooke shut her locker. "Did she also predict the part where I leave you to be r
 Claire smiled and started toward the exit, apparently certain Brooke would follow. She did.
 
 The quickest route home cut behind the athletic fields, through a narrow path between two developments, then along Hawthorn Road. Claire narrated most of it without requiring an audience. Her science teacher had worn two different shoes. Someone named Lila had cried in the bathroom and refused to explain why. The cafeteria pizza had achieved a texture Claire believed violated federal law.
+
+At the edge of the athletic field, Claire stopped to retie a shoe that was not untied. Brooke waited while the soccer team ran drills under lights that had come on too early in the gray afternoon.
+
+"Are you going to film school somewhere far away?" Claire asked.
+
+Brooke lowered the phone. "That was random."
+
+"Mom said the workshop would look good on applications."
+
+"New Haven isn't far away."
+
+"I meant later. College."
+
+Brooke looked toward the path home. "If somebody lets me in."
+
+Claire pulled the lace tighter. "You could make movies here."
+
+"About what? Mr. Vale's recycling bin?"
+
+"You film pancakes."
+
+It was meant as an insult, but Brooke heard the question beneath it. Claire was thirteen. A year was a country. Two years was disappearance.
+
+"You'd get my room," Brooke said.
+
+"I don't want your room. The light is bad."
+
+"The light is excellent."
+
+Claire stood. "Then I want it."
+
+The conversation moved on because that was how most important conversations ended in their family. Somebody made the last true thing into a joke.
 
 Brooke filmed ten seconds of her walking backward along the path.
 

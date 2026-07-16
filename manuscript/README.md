@@ -6,13 +6,13 @@ All chapters default to dense commercial-novel paragraphing. Avoid isolated narr
 
 ## Current manuscript
 
-- `00_Prologue.md`: revised prologue draft
-- `01_Ordinary-Evidence.md`: Chapter 1 approved draft
-- `02_Permission.md`: Chapter 2 first draft
-- `03_Sisters.md`: Chapter 3 first draft
-- `04_The-Dog-Knows.md`: Chapter 4 first draft
-- `05_Empty.md`: Chapter 5 first draft
-- `06_Red.md`: Chapter 6 first draft
+- `00_Prologue.md`: developmental rewrite A
+- `01_Ordinary-Evidence.md`: developmental rewrite A
+- `02_Permission.md`: developmental rewrite A
+- `03_Sisters.md`: developmental rewrite A
+- `04_The-Dog-Knows.md`: developmental rewrite A
+- `05_Empty.md`: developmental rewrite A
+- `06_Red.md`: developmental rewrite A
 - `07_Better.md`: Chapter 7 first draft
 - `08_Sit-With-Me.md`: Chapter 8 first draft
 - `09_Preferences.md`: Chapter 9 first draft

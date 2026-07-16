@@ -46,6 +46,8 @@ Targets are directional. A chapter may finish above or below its target if its d
 
 Prologue through Chapter 6.
 
+**Completed first developmental pass:** approximately 17,550 words. This is within working range of the 18,000-word section projection. Further additions should come only from manuscript-wide revision findings, not from filling the remaining numerical difference.
+
 Primary goals:
 
 - make the Bennetts worth mourning

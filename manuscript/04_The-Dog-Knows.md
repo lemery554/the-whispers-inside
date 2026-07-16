@@ -8,6 +8,10 @@ The Harlan Media Center opened registration at ten. At ten-fifteen, students wou
 
 At ten, she opened the workshop's social page. Someone had posted a photograph of name badges arranged on a table. The nearest badge belonged to a girl named Elise. Behind it, twenty-three others waited in clean white rows.
 
+At eleven-twenty, the page posted a lighting exercise. Students stood around a woman seated against a gray backdrop while an instructor demonstrated how moving one lamp changed the apparent shape of her face. Brooke enlarged the image until she could identify the fixtures. Two LED panels, one tube light, a black flag clipped to a stand. Equipment she had read about and never touched.
+
+She imagined where she would have stood. Not closest to the instructor. Close enough to see the controls, far enough that nobody expected her to volunteer first. By lunch the imagined day had become detailed enough to feel remembered.
+
 Brooke closed the page before she could count them.
 
 Her outbreak upload had reached eighty-six views. The fruit-punch comment had collected more likes than the video. Two new viewers said their schools had sent notices about the illness. One wrote that her father had recovered overnight and was already back at work.
@@ -77,6 +81,28 @@ Claire dropped the crust onto her plate. "He knows you're mad at me."
 The answer was close enough to normal that Sarah smiled. Brooke did too before she could prevent it. Claire looked between them and gave a small, satisfied nod.
 
 For several minutes they ate without mentioning the workshop or yesterday's fight. Rain began against the kitchen windows, light enough to sound like fingers brushing the glass. The television showed footage of a temporary intake tent outside a hospital in Hartford. A reporter stood beneath an umbrella and said officials were investigating whether the gastrointestinal illness was foodborne, viral, or the result of an environmental exposure.
+
+Sarah's phone buzzed beside her bowl. She read a message, set the phone facedown, and took one bite without chewing.
+
+"Dad?" Brooke asked.
+
+"Work."
+
+"His work or yours?"
+
+"Mine. Two people called out."
+
+Sarah coordinated schedules for a regional property-management company. On ordinary weekends, somebody always lost a key or reported water where water did not belong. Today the calls had been about employees refusing to enter apartments where tenants were vomiting, cleaners asking whether ordinary gloves were enough, and a building manager who wanted permission to close a shared laundry room.
+
+"Are they sick?" Claire asked.
+
+"Some of them have family who are."
+
+"Then why are you working?"
+
+Sarah looked at the muted television. "Because buildings do not stop needing things when people are scared."
+
+It was the kind of sentence Brooke would remember later and wish she had recorded cleanly.
 
 "Every option," Brooke said.
 
@@ -174,6 +200,24 @@ Brooke guided him into the hall and shut Claire's door partway, leaving the gap 
 
 By three, Claire had developed a fever of 101.4. Sarah took her temperature twice with the digital thermometer and once with an older one from the bathroom cabinet because she distrusted the first number. Claire complained that the beeping hurt her head. The curtains in her room were closed, though the rain had already darkened the afternoon.
 
+Sarah called the pediatrician's regular line even though the office had closed at noon. The recording had been replaced since yesterday. It now directed patients with vomiting and fever to a state information page before offering the option to leave a message.
+
+"We are not there yet," Sarah said after hanging up.
+
+"There where?" Brooke asked.
+
+"Emergency-room there. She has a fever. She needs rest and fluids."
+
+Sarah wrote the temperature and time on the back of an envelope from the electric company. Brooke photographed it, then opened a note on her phone and copied the number.
+
+"We don't need two records," Sarah said.
+
+"Yours can get thrown away."
+
+"And your phone can die."
+
+Neither stopped recording it their way.
+
 Brooke stood in the doorway with her phone in her hand. She had begun recording when Sarah read the second temperature aloud. The camera held the clock, the thermometer, and Claire curled beneath her blanket.
 
 "Turn that off," Claire said.
@@ -209,6 +253,26 @@ At five, Mark texted that the crew had found damage behind a wall and he would c
 "His phone dies in that building," she said. Brooke had not asked.
 
 Claire slept for an hour. When she woke, the fever had reached 102.6. She refused soup, crackers, applesauce, and the lemon ice pops she normally ate until her tongue hurt.
+
+Brooke sat on the floor outside the room while Sarah changed Claire's damp pillowcase. Cooper lay against Brooke's thigh, awake but pretending not to be. Through the doorway, Claire answered questions with her eyes closed. Name. Day. Whether her neck hurt. Whether the light made her head worse.
+
+"Saturday," Claire murmured.
+
+"Good," Sarah said.
+
+"Brooke's thing."
+
+Brooke looked up.
+
+Claire opened her eyes briefly. "You should've gone."
+
+"This is a terrible apology strategy."
+
+"Not apologizing."
+
+"Then you're doing great."
+
+Claire's mouth moved toward a smile and failed. The failure frightened Brooke more than the fever number.
 
 "The lemon ones taste wrong," she said.
 

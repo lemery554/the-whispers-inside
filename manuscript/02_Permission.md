@@ -15,6 +15,10 @@ Brooke pressed the phone to her blanket as if covering the screen could restore 
 
 The workshop was not a summer camp or a school club pretending phones made everyone a director. It was six hours at the Harlan Media Center in New Haven with working filmmakers and equipment Ashcroft High did not own. Twenty-four students had been accepted. Brooke had spent four nights cutting her two-minute application film.
 
+The film followed a crossing guard named Mr. Alvarez through one winter morning. No music. No interview. Just boots in gray snow, children arriving in bursts, and Mr. Alvarez learning which drivers would stop only after he stepped into the road. Brooke had filmed from across the street for three days until he stopped performing kindness for the camera and returned to the smaller gestures that interested her: warming a child's dropped mitten beneath his coat, checking an empty intersection twice, waving to a bus driver who never waved back.
+
+The acceptance email praised her "observational patience." Brooke had read that phrase enough times to distrust it and still wanted it printed on something permanent.
+
 Sarah had watched the finished application at the kitchen island. She had cried at the wrong part, denied crying, then paid the registration fee before Brooke could talk herself out of going. Now Brooke opened the message details.
 
 The withdrawal request had come from Sarah's email at 9:18 the previous night, while Brooke was upstairs editing and Sarah was reminding Claire to take her shower.
@@ -112,6 +116,24 @@ Brooke picked up the phone. The email was still open between them, bright and bl
 "Then at least I would have been part of the decision."
 
 Sarah's face softened, which made Brooke angrier than if she had shouted. "This isn't a decision I can hand you when I don't think it's safe."
+
+"I had a plan."
+
+"A train is not a plan."
+
+"The seven-twelve to Union Station, the shuttle from the west entrance, check-in at nine-thirty. I sent you all of it."
+
+"And if the shuttle stops running? If they cancel the return train? If you get sick?"
+
+"I call you."
+
+"From an hour away while I have Claire here and your father is in Albany."
+
+"You keep saying where everybody else is like that makes me less capable."
+
+Sarah's fingers tightened against the counter. "I am saying I cannot be in three places. That is not an opinion about your capability."
+
+Brooke heard the exhaustion in it and refused to let it change the argument. Sarah was always tired when she made decisions for everyone. If exhaustion excused the decisions, it would excuse them forever.
 
 "You handed it to yourself."
 
@@ -234,6 +256,42 @@ Brooke almost told her she had other clothes. The argument from yesterday sat re
 Claire studied her as if this might be a trap. Then she zipped the hoodie higher and started toward the doors.
 
 Sarah did not mention the workshop in the car. At home she carried groceries into the kitchen and began wiping down containers before putting them away, something she had never done before. When Claire asked why, Sarah said there were a lot of germs going around. Brooke went upstairs.
+
+An hour later, Sarah knocked once and entered with the refunded workshop fee displayed on a bank notification as if it were a document requiring Brooke's approval.
+
+"The money is back," she said.
+
+Brooke kept her eyes on the monitor. "Congratulations."
+
+Sarah placed the phone on the desk. "I emailed Celia. If they reschedule, she will contact you before reopening registration."
+
+"That fixes it."
+
+"No. It is the thing I can fix."
+
+Brooke turned then. Sarah had changed out of her work blouse but still wore the black pants, wrinkled behind the knees. She looked older than she had at breakfast, though nothing visible had happened except a grocery trip and a full day of calls.
+
+"Why are you more afraid for me than for Claire?" Brooke asked.
+
+Sarah sat on the edge of the bed without being invited. "I am afraid for both of you in different ways."
+
+"Because she's yours."
+
+Sarah flinched. "You are mine."
+
+"That's what you always say when I ask something else."
+
+"Because the something else is built on a lie."
+
+Brooke wanted Sarah to say she checked Brooke's location because adoption had taught her people could vanish. She wanted the ugly explanation because then the difference would be real and not something Brooke created from every locked door and repeated question.
+
+Sarah rubbed both hands over her face. "When Claire is reckless, I know the exact kind of reckless she is. I watched it develop one bad idea at a time. You think before you do things. Then you make a plan and tell me after the part where I could object. That scares me more, Brooke. It has nothing to do with who gave birth to you."
+
+The answer was reasonable. Brooke hated it for not resolving anything.
+
+Sarah stood. At the door she said, "I am sorry I did not talk to you first. I am not sorry I kept you home. Both can be true."
+
+After she left, Brooke recorded the empty doorway for eleven seconds before realizing the camera was on.
 
 The cancellation email looked different on her monitor. Larger, not more meaningful. She saved a copy in a folder with the workshop application, her acceptance, and the two-minute film that had earned the seat. Then she opened her messages with Mark. His last text had arrived at 5:37 that morning.
 
