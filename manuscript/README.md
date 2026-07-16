@@ -28,6 +28,10 @@ All chapters default to dense commercial-novel paragraphing. Avoid isolated narr
 - `19_Something-Moved.md`: Chapter 19 first draft
 - `20_Missing.md`: Chapter 20 first draft
 - `21_Not-Yet.md`: Chapter 21 first draft
+- `22_The-List.md`: Chapter 22 first draft
+- `23_Pack-Light.md`: Chapter 23 first draft
+- `24_Outside.md`: Chapter 24 first draft
+- `25_Contact.md`: Chapter 25 first draft
 
 ## Chapter issue workflow
 
