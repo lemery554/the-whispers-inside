@@ -32,6 +32,10 @@ All chapters default to dense commercial-novel paragraphing. Avoid isolated narr
 - `23_Pack-Light.md`: Chapter 23 first draft
 - `24_Outside.md`: Chapter 24 first draft
 - `25_Contact.md`: Chapter 25 first draft
+- `26_You-Came-Home.md`: Chapter 26 first draft
+- `27_Separation-Distress.md`: Chapter 27 first draft
+- `28_Headlights.md`: Chapter 28 first draft
+- `29_Continue-Learning.md`: Chapter 29 first draft
 
 ## Chapter issue workflow
 
