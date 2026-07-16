@@ -4,6 +4,18 @@ The comments were still coming the next morning. Brooke did not read them on the
 
 At school the water had risen another inch. She could not stop seeing it now. By third period she wanted out of the building the way you want out of a dream, and she went to the front office and said she had a headache and asked to sign out early.
 
+Before she left, she saw Mason standing outside the nurse's office with both hands around another student's wrist. The other boy was not struggling. He was crying into Mason's shoulder while the nurse spoke to them in the same calm tone Ms. Ferro had used.
+
+"Nobody is sending anybody away," the nurse said. "We're keeping everyone together until a parent comes."
+
+The boy lifted his face. "My mom said I could walk."
+
+"Your mother will feel better knowing you aren't alone."
+
+Mason looked across the hall at Brooke. His gaze rested on her without embarrassment. The boy's wrist remained enclosed in his hands.
+
+Brooke took out her phone, then remembered Mr. Vale's question. *Proof of what?* She photographed the nurse's office sign and the time on the wall clock, not the boys. In her notes she wrote exactly what she had seen. She did not write what she thought Mason would do if the boy tried to leave.
+
 The woman at the desk was sympathetic and did not let her go. District guidance required a parent or listed guardian to sign out any student reporting illness, and Sarah could not leave work. The woman offered the nurse's office instead, where people could keep an eye on Brooke rather than send her home alone. She said *alone* like it was the dangerous part.
 
 She lay in the nurse's office until the final bell and then went home, because home was where Claire was, and there was no version of the day that did not end with Claire.
@@ -125,6 +137,10 @@ Brooke went. She kept her hand in Cooper's collar and drew the dog with her out 
 She had no footage. Sarah had already called the lock old, and Brooke could feel the scene becoming arguable.
 
 She wrote it down while it was sharp: the turning handle, the blood on the lever, *There you are*, Cooper forcing an inch of space. A written account was not proof, but it was what she had.
+
+Then she made herself add the parts that complicated it. Claire had stopped when Cooper intervened. Claire had not pushed him. Claire had looked confused. The hug had begun gently.
+
+Brooke wanted a clean account in which every detail pointed in the same direction. The truth would not give her one.
 
 *It isn't trauma. I don't know what it is, but trauma does not explain all of it.*
 

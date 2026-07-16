@@ -72,7 +72,41 @@ Mason Lee had left class vomiting on Thursday. The school had allowed him back a
 
 Mason caught Brooke looking and smiled. Nothing about his face seemed wrong.
 
+During the lab, Mason reached across his partner for a container instead of asking him to move. His arm stayed against the boy's chest while he measured the solution. The boy did not object. When Ms. Delaney separated them again, she did it laughing.
+
+"We appreciate the enthusiasm, but everybody gets their own oxygen."
+
+Mason and the boy looked at each other. Then both smiled at precisely the same moment.
+
+Brooke missed the next instruction and added twice the required water. Nora swore under her breath and rescued the beaker.
+
+"Are you okay?" Nora asked.
+
+"Yeah."
+
+"You keep staring at Mason."
+
+"He was sick."
+
+"Half the school was sick."
+
+Brooke looked around. Two students shared a stool at the counter although an empty one stood beside them. At the sinks, a girl washed her hands while another rested her chin on the girl's shoulder. None of it was impossible. Ashcroft High had always contained couples, best friends, people who treated hallways like their living rooms.
+
+The difference was not any single act. It was how often Brooke saw it once she began looking.
+
 At lunch, the televisions displayed an interview with a hospital administrator. The captions read *RECOVERY RATES CONTINUE TO IMPROVE*. The administrator thanked families for supporting patients through a frightening but brief illness.
+
+At the next table, Mason peeled the mushrooms from a cafeteria pizza and ate them one by one. Brooke had watched him pick them off every Friday since freshman year, sometimes with a plastic fork so the cheese would not touch his fingers.
+
+"Did Mason always eat mushrooms?" she asked.
+
+Nora followed her gaze. "Maybe he finally grew up."
+
+A girl beside Mason offered him a container of cold spinach left over from the salad bar. He took a forkful, chewed, and passed the container to the boy from chemistry. They ate from it in turn without talking.
+
+Brooke raised her phone, then lowered it before recording. Mason was not Claire. He had not agreed to become evidence in a story he did not know existed.
+
+She typed the observation into a private note instead.
 
 Brooke opened her comments, saw another accusation that she wanted something to be wrong with Claire, and closed the app before the words could arrange themselves into Sarah's voice.
 
@@ -128,6 +162,14 @@ Brooke showed Sarah. Sarah blamed the network near the hotel. Claire read the me
 
 After dinner, Brooke uploaded *She's better. I think.* She kept Claire's face out of it. Over shots of the untouched dog bowl and the kitchen after breakfast, she described the mushroom request, Claire's repeated invitations to work downstairs, and Cooper's refusal to approach her. She did not show the growl. She did not ask Claire's permission.
 
+Before publishing, she watched the whole thing with the cursor over the button. The video made the house seem darker than it was. Her low voice turned small changes into clues. A viewer who had never met Claire would learn that she hated mushrooms because Brooke said so. They would not see Claire trying them last summer on a dare and admitting one was tolerable. They would not see the dozens of mornings she had followed Brooke around simply to be irritating.
+
+Brooke added a sentence near the beginning.
+
+"None of these things means anything by itself. I know that. I'm recording them because I want to know later whether they became a pattern."
+
+It sounded defensive. She left it in.
+
 The video reached more people than the first two. Brooke avoided the comments.
 
 Then she created a note on her phone.
@@ -149,3 +191,63 @@ Across the hall, Claire began humming again.
 Brooke added one final line.
 
 *Check old videos.*
+
+She did.
+
+The family archive was not organized by year so much as by whatever storage device had been available when Brooke copied it. She searched filenames for Claire's name and found hundreds of clips: birthdays, school concerts, failed recipes, Cooper as a puppy, beach trips, arguments filmed accidentally because nobody realized the camera was still running.
+
+Brooke sampled them rather than watching whole years disappear. At nine, Claire followed her through a department store because she was afraid of getting lost. At eleven, Claire spent forty minutes alone building a blanket fort and yelled when Brooke entered without permission. Three months ago, Claire fell asleep during a movie and woke furious when Brooke moved her feet.
+
+The archive did not give Brooke a simple before. Claire had always wanted attention until she did not. She had always borrowed clothes, invaded rooms, demanded company, and then vanished into a book or a game for hours. The difference now was not closeness. It was the absence of its opposite.
+
+Brooke added that sentence to the note, then deleted it because it sounded like narration written after the ending.
+
+She replaced it with:
+
+*Before, she sometimes wanted to be alone.*
+
+Across the hall, the humming stopped.
+
+Claire appeared in the doorway. "What are you watching?"
+
+Brooke turned the laptop enough to show a frame of Claire asleep beneath the coffee table at age seven.
+
+"Delete that."
+
+"Dad filmed it."
+
+"Dad has terrible judgment."
+
+"You were cute."
+
+"I look dead."
+
+The word emptied the humor from the room. Claire studied the frozen image, then climbed onto Brooke's bed and sat against the wall.
+
+"I don't remember that," she said.
+
+"You don't remember most things from when you were seven."
+
+"Do you?"
+
+"Some."
+
+"Remember for me."
+
+Brooke looked at her. Claire's request was soft, almost embarrassed. It sounded like the kind of thing a younger sister might ask after a hospital stay had frightened her. Brooke began the video.
+
+For twenty minutes they watched their younger selves. Claire laughed at Cooper sliding across the kitchen floor. She supplied the ending to a family joke before the recording reached it. She remembered that Sarah had burned the cupcakes after the camera stopped and that Mark had gone out for doughnuts.
+
+Nothing in her memory was missing.
+
+When Brooke paused, Claire said, "Keep going."
+
+"I have homework."
+
+"You can do it later."
+
+"So can we."
+
+Claire's face settled into stillness. "Why would we stop if we're together now?"
+
+Brooke closed the archive. A moment later Claire smiled, as if she had heard how the sentence sounded and found the correct expression to place over it.

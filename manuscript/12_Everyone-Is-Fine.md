@@ -10,6 +10,26 @@ Then she started to see it, and once she started she could not stop, because see
 
 It was in the way people sat. In the library, two girls she was fairly sure did not know each other, one a senior, one a freshman, sat pressed together at a four-person table with the whole rest of the table empty, shoulder to shoulder, hip to hip, sharing nothing, saying nothing, comfortable in a way that people who had just met were not comfortable. Neither of them looked at the other. They did not need to. They sat the way a family sits in a waiting room, close for the sake of closeness, and when the freshman got up for a book the senior turned to keep her in view the entire time she was gone.
 
+In homeroom, Mr. Bell passed around a plastic container of olives. He had spent three years complaining that the smell of olives ruined the faculty refrigerator. Now he ate them between attendance names and offered them to students with an absent generosity. Three people accepted. One was a girl Brooke had once watched remove an olive from nachos with a napkin.
+
+"New health kick?" somebody asked.
+
+Mr. Bell looked at the olive pinched between his fingers as if he had forgotten it was there. "They taste clean."
+
+The room laughed. He laughed too, a little late, and set the container on the desk where anybody could reach it.
+
+In the hall after second period, an assistant principal stood beside the exit telling a boy he could not leave until his mother arrived.
+
+"She told me to walk home," the boy said.
+
+"Families need to know where everyone is right now."
+
+"She knows."
+
+"Then waiting won't hurt."
+
+The assistant principal's hand stayed lightly on the boy's shoulder. Not restraining him. Not quite.
+
 And it was outside the second-floor bathroom, where a girl stood waiting.
 
 Brooke almost walked past her. She was a small girl, maybe a freshman, standing against the wall beside the bathroom door with her backpack still on both shoulders, and she was not on her phone and not doing homework and not doing any of the things people did while they waited. She was just watching the door. When it opened and another girl came out, the waiting girl straightened and fell into step so close behind her that they moved through the hallway as one shape, and Brooke understood that she had been standing outside a bathroom door for however long it takes, waiting, because the person inside had gone somewhere she could not follow, and the waiting had been the whole activity.

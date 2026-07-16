@@ -198,6 +198,10 @@ Claire's eyes filled.
 
 The change was so sudden Brooke stopped speaking. Tears gathered along Claire's lower lashes and slid down both cheeks. Claire lifted her injured hand and touched one as if checking whether it was water.
 
+For an instant her whole posture changed. Her shoulders drew inward. Her free hand disappeared into the sleeve of Brooke's flannel, the old habit Claire had whenever she was embarrassed or trying not to cry in public. She glanced toward the librarian's desk and then toward the windows, searching for somewhere to hide.
+
+That was Claire. Not the memory of Claire and not a behavior something else had learned. Brooke knew the small defensive fold of her body as surely as she knew her own face.
+
 "Why am I crying?"
 
 Brooke sat across from her. "Because you remember."
@@ -329,6 +333,10 @@ Her ten-year-old handwriting leaned hard to the right.
 *Claire buried me and said I had to stay forever. I let her because she looked so happy. We put all the shells back after.*
 
 Brooke read it twice. The memory in the journal was simpler than the video and simpler than what had happened in the library. Claire had wanted her to stay then too. That did not tell Brooke what the wanting meant now.
+
+Tucked into the back cover was an envelope Sarah had given her years ago and then regretted giving her. Brooke's original first name was written on the front in an unfamiliar hand. She did not open it. She knew the letter inside almost by memory, knew every vague apology and every sentence that could be read as love or abandonment depending on the day.
+
+The journal held things the camera did not. That was why Brooke rarely opened it now. A video showed what a person had done. Paper showed what Brooke had needed it to mean.
 
 She returned the journal to the drawer and opened her list.
 

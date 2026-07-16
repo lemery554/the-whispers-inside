@@ -66,6 +66,22 @@ Brooke took her coffee upstairs. Claire did not follow this time, which was some
 
 Brooke opened *Things I Have Seen*. Four observations waited beneath the title, each one ordinary enough to explain alone. Together they still sounded less like evidence than an accusation against a kid who had almost died over the weekend. She checked the file's timestamp anyway. The point was not to convince anyone yet. The point was to have it later, when everyone agreed it had not been like this.
 
+She added a second heading beneath the list.
+
+**THINGS THAT WERE TRUE BEFORE**
+
+*Claire stole my clothes.*
+
+*Claire came into my room without knocking.*
+
+*Claire hated being left out.*
+
+*Claire sometimes followed me just to annoy me.*
+
+Brooke stared at the two lists. The same behavior could belong in either one depending on degree, timing, and the expression on Claire's face. A record could preserve what happened. It could not preserve the exact pressure in a hand or the moment affection became a trap.
+
+She saved both lists. If she was going to build a case against her sister, she would keep the evidence for the defense too.
+
 The rest of the afternoon went the way the days went now. Claire drifted in and out. She wanted to be in the same room. She did not need conversation or attention, only proximity, and she took it in small helpings that never quite added up to something Brooke could point at. Brooke lay down on top of her covers with a headache building behind one eye, and when she woke an hour later Claire was sitting on the floor beside the bed with her back against the frame, close enough that Brooke's hand, hanging off the mattress, had come to rest against her sister's shoulder in her sleep.
 
 Claire had not moved it. She had let it stay there.
@@ -187,6 +203,10 @@ Sarah set down the dish towel. "His phone dies in there. You know that."
 But she had opened the phone's own recording, the one it made of video calls when she remembered to start it, and she had remembered. She put in one earbud in the powder room with the door locked and scrubbed to the last thirty seconds and turned the volume as high as it went, past the point of comfort, into the hiss.
 
 Under her father's voice saying he would try in the morning, under the fan and the bad signal and the flat digital wind of the call, the other voices were there. She could not make out a single word. She played it twice more and stopped before noise could become language simply because she wanted it to.
+
+She exported the audio without cleaning it. Noise reduction could invent edges that were not there. She named the file with the date, time, and nothing else.
+
+For the first time, Brooke understood that remembering accurately might require leaving some things unresolved.
 
 She stopped the recording. She sat on the closed lid of the toilet for a while with the earbud still in and the silence in it.
 

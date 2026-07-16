@@ -13,14 +13,14 @@ All chapters default to dense commercial-novel paragraphing. Avoid isolated narr
 - `04_The-Dog-Knows.md`: developmental rewrite A
 - `05_Empty.md`: developmental rewrite A
 - `06_Red.md`: developmental rewrite A
-- `07_Better.md`: Chapter 7 first draft
-- `08_Sit-With-Me.md`: Chapter 8 first draft
-- `09_Preferences.md`: Chapter 9 first draft
-- `10_What-They-Remember.md`: Chapter 10 first draft
-- `11_Frame-by-Frame.md`: Chapter 11 first draft
-- `12_Everyone-Is-Fine.md`: Chapter 12 first draft
-- `13_There-You-Are.md`: Chapter 13 first draft
-- `14_Sand.md`: Chapter 14 first draft
+- `07_Better.md`: developmental rewrite B
+- `08_Sit-With-Me.md`: developmental rewrite B
+- `09_Preferences.md`: developmental rewrite B
+- `10_What-They-Remember.md`: developmental rewrite B
+- `11_Frame-by-Frame.md`: developmental rewrite B
+- `12_Everyone-Is-Fine.md`: developmental rewrite B
+- `13_There-You-Are.md`: developmental rewrite B
+- `14_Sand.md`: developmental rewrite B
 - `15_Somewhere-Else.md`: Chapter 15 first draft
 - `16_Carrying-Them.md`: Chapter 16 first draft
 - `17_Having-You-Home.md`: Chapter 17 first draft

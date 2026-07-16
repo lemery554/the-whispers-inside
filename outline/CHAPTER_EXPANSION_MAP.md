@@ -61,6 +61,8 @@ Projected contribution: approximately 18,000 words.
 
 Chapters 7 through 14.
 
+**Completed first developmental pass:** approximately 16,570 words. The section remains below its original numerical projection, but its current scenes complete the required dramatic movement without padding. Any further expansion should be driven by the manuscript-wide pacing audit, especially if later batches leave the full novel below target.
+
 Primary goals:
 
 - make recovery genuinely persuasive
