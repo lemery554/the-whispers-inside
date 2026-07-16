@@ -4,6 +4,8 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-16
 
+- Drafted Batch 4, Chapters 14 through 17: Claire's beach-memory breakthrough, Brooke's upload network and adoption disclosure, Sarah's purge, Brooke's caretaker ordeal, Mark's degrading contact, and Sarah's believable but controlling recovery.
+
 - Implemented the Batch 3 developmental edit across Chapters 10–13: removed hindsight narration, reduced Brooke's certainty about memory and Mark's call, redesigned Chapter 11 around one nonreproducible eye frame and ambiguous audio, made Anna's first encounter more ordinary, grounded the school's sign-out procedure, gave Sarah a visible crack of fear, and tightened the bathroom-scene aftermath.
 - Locked Batch 3 continuity clarifications: retained memories become deliberate leverage only as strategy evolves; pain remains felt but can be deprioritized; animal alarm intensity varies with approach and context while detection remains reliable; Anna is changed and Cooper detects her; the green reflection can never become clean repeatable proof; Mark's background voices remain unresolved.
 - Integrated and continuity-edited Batch 3, Chapters 10–13, onto `main` after the Batch 2 developmental pass. The four chapters total approximately 10,170 words and carry the story through Claire's memory lure, Mark's last live call, Brooke's green-eye and whispered-word discoveries, the first public pattern at school, Anna's quiet dog-park contact, Upload 4's network formation, and the bathroom-lock breach.

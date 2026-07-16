@@ -1,0 +1,315 @@
+# Chapter 17
+
+## Having You Home
+
+The next morning, Sarah made pancakes.
+
+Brooke woke to the smell of butter and the sound of the kitchen cabinet that never closed correctly. For several seconds she lay still, listening to Sarah move through the downstairs rooms, and the house sounded restored. A plate touched the counter. The kettle clicked off. Claire laughed at something too quiet for Brooke to hear.
+
+Normal life had returned before Brooke was ready to trust it.
+
+She found Sarah at the stove in clean pajamas with her damp hair combed behind her ears. The mixing bowl from the night before had been washed and returned to the cupboard. The towels were already in the machine. Even the broken bathroom handle had disappeared from the counter.
+
+"Sit," Sarah said. "You look terrible."
+
+"You had a fever yesterday."
+
+"And you haven't slept since Tuesday."
+
+"It's Thursday."
+
+"Exactly."
+
+Sarah slid a pancake onto Brooke's plate. It was too dark around the edge, the way Sarah always made the first one. Claire had already eaten half of hers and was spreading spinach across the other half.
+
+Brooke stopped beside the table. "What are you doing?"
+
+"It's good."
+
+"It absolutely isn't."
+
+Claire folded the pancake and bit into it. Syrup ran over the spinach.
+
+Sarah laughed. "At least she's eating vegetables."
+
+Brooke looked at Cooper. He sat beside the back door rather than beneath Sarah's chair. When Sarah tore off a corner of pancake and offered it, he lowered his head.
+
+"He was up all night," Sarah said.
+
+"He wouldn't come into your room."
+
+"Because people were vomiting in it."
+
+"You were in your room."
+
+Sarah placed the pancake piece on the floor. "Do you want breakfast or an interrogation?"
+
+The words were light. Brooke sat.
+
+Sarah asked about school, the assignments they had missed, and whether Claire's hand needed another bandage. She sent two work emails while standing at the counter and called the hardware store about a replacement latch. She remembered that Brooke's permit paperwork needed a signature. She reminded Claire about an overdue library book.
+
+Nothing in her behavior was impossible.
+
+That became the problem.
+
+Sarah spent the rest of the morning repairing the evidence of her illness. She stripped the towels from the bathroom floor, disinfected the sink, opened windows, and made a grocery list. When Brooke offered to help, Sarah told her to sit down. When Brooke remained standing, Sarah put a hand on her shoulder and guided her toward the table.
+
+The pressure was gentle. Brooke went where it directed her.
+
+"You don't have to do everything," Brooke said.
+
+"Neither do you."
+
+"You passed out yesterday."
+
+"I nearly passed out."
+
+"You were on the floor."
+
+"People can lie down on floors voluntarily."
+
+Brooke stared at her.
+
+Sarah smiled. "That was a joke."
+
+The delivery was right. The timing was wrong by only enough to make Brooke wonder whether she was inventing the distance.
+
+At the front window, Mrs. Alvarez from across the street stood on the sidewalk with her adult son. Brooke had seen an ambulance at their house three nights earlier. Now the son held his mother against his chest while she tried to reach her mailbox. He kissed her hair. She said something Brooke could not hear and pushed once at his arms.
+
+A patrol car slowed beside them.
+
+The officer lowered his window. Mrs. Alvarez stopped struggling. Her son raised one hand in greeting while keeping the other arm around her. After a brief conversation, the cruiser continued down Hawthorn Road.
+
+"Everything okay?" Sarah asked.
+
+Brooke stepped away from the curtain. "I don't know."
+
+"Then don't stare."
+
+Sarah closed the curtain.
+
+At nine, Sarah emailed the school to say both girls would remain home another day.
+
+"I can go," Brooke said.
+
+"You can barely keep your eyes open."
+
+"I slept."
+
+"You lost a day taking care of me. Stay home."
+
+"You didn't ask."
+
+Sarah looked up from her laptop. "I didn't think I needed permission to let my exhausted daughter recover."
+
+The phrasing struck the same place as the workshop argument. Safety presented after the decision. Concern that left no room for refusal.
+
+"You could've talked to me first."
+
+"About missing one day?"
+
+"That's what you said about the workshop."
+
+Sarah's face changed, not into anger exactly. Hurt arrived first. "You filmed yourself telling thousands of strangers that you want another mother while I was sick downstairs."
+
+"That is not what I said."
+
+"I heard you."
+
+"Then you heard the part where I said I love you."
+
+"You always make sure that part is in there."
+
+It was nearly the same sentence Sarah had used before the purge.
+
+Brooke felt relief before suspicion. A changed person who remembered the argument would remember the wound. A sick person who recovered would too. There was no clean way to interpret continuity.
+
+Sarah closed the laptop. "I am glad you're home."
+
+"I'm always home."
+
+"No, you're always halfway out the door. School, that workshop, filming, whatever comes after graduation. Even when you're in this house, you're watching it like you're already somewhere else."
+
+Brooke's hand moved toward her pocket. Her phone was there, recording nothing.
+
+"I'm allowed to leave," she said.
+
+"Of course you are." Sarah's answer came too fast. Then, more softly, "I just don't understand why you fight so hard to."
+
+Claire had stopped eating. She watched them from the table.
+
+Brooke stood. "I'm going upstairs."
+
+"Take your plate."
+
+The ordinary instruction almost made her laugh. She carried the pancake to her room and closed the door. The handle clicked. A minute later, Claire tried it once, found it unlocked, and came in.
+
+"Mom's sad," she said.
+
+"Mom is always sad when I disagree with her."
+
+"You make it sound like she does it on purpose."
+
+"Does what?"
+
+"Loves you."
+
+Brooke looked at Claire. Her sister sat in the desk chair but did not roll it closer. The boundary from the night before remained, or the memory of getting what she wanted by respecting it did.
+
+"Did she say anything to you while I was asleep?" Brooke asked.
+
+"Who?"
+
+"Mom."
+
+"She was asleep too."
+
+"This morning."
+
+Claire thought. "She said everything feels clean."
+
+"What does that mean?"
+
+"I don't know."
+
+"Did she say anything about whispers?"
+
+Claire's expression emptied. "What whispers?"
+
+Brooke did not answer.
+
+At eleven, the local station ran a segment from Saint Vincent's.
+
+The emergency department looked cleaner than it had in Brooke's footage. The camera avoided the hallway where patients had vomited the red medicine and stayed close on a hospital administrator in a pale blue suit.
+
+"Our recovery numbers are encouraging," the administrator said. "The most important thing families can provide is a calm, supportive home environment. Recovered individuals may experience distress when isolated unnecessarily."
+
+A banner beneath her read:
+
+> FAMILIES HEAL TOGETHER
+
+The anchor smiled. "A good reminder that compassion is part of recovery."
+
+Sarah stood in the living room with a basket of folded laundry against her hip. "See?"
+
+Brooke looked away from the television. "See what?"
+
+"You don't have to treat your sister like she's dangerous."
+
+"She broke a lock."
+
+"She panicked."
+
+"And you?"
+
+Sarah's smile remained, but the warmth left it. "What about me?"
+
+"Are you distressed when you're isolated unnecessarily?"
+
+Claire appeared behind Sarah and took the basket from her. For a moment they stood shoulder to shoulder, both looking at Brooke.
+
+"I'm tired of being examined," Sarah said. "I was sick. I got better. Your sister was sick. She got better. You could let that be good news."
+
+The broadcast moved to a commercial. A family gathered around a dining table while a soft voice described the importance of staying connected.
+
+Brooke went upstairs.
+
+She waited until Sarah started the vacuum before opening the recording app. She did not set up the camera or turn on her lights. She sat on the floor beside her bed with the phone close to her mouth.
+
+"Day sixteen," she whispered. "Mom's fever is gone. She's eating, working, cleaning, and remembering everything. Cooper won't go near her. She canceled school without asking me. The hospital and the news are both using the same language about separation."
+
+The vacuum stopped downstairs.
+
+Brooke paused.
+
+Footsteps came up the stairs. She saved the file, renamed it with the date, and moved it into a folder labeled *chemistry*. Then she slid the phone beneath a stack of folded shirts as Sarah opened the door.
+
+"What are you doing?"
+
+"Looking for my charger."
+
+The lie came easily. Brooke had never hidden footage from Sarah before. She had hidden embarrassing edits and bad grades and searches about her biological mother, but not evidence. Sarah was the person she showed things to when she needed another adult to confirm that she had seen them correctly.
+
+Sarah leaned against the frame. "Your charger is plugged in beside the desk."
+
+"Found it."
+
+"You weren't near the desk."
+
+Brooke held her gaze.
+
+Sarah's expression softened. "You don't have to be afraid of me."
+
+"I didn't say I was."
+
+"You don't have to say everything."
+
+For a moment Brooke thought Sarah might cross the room and search the bed. Instead she stayed at the doorway.
+
+"Your dad said he'd call at seven," Sarah said. "Maybe we can all eat together while he's on."
+
+"Did he answer you?"
+
+"He texted."
+
+"Can I see?"
+
+Sarah's fingers tightened around her phone. Then she handed it over.
+
+Mark's message had arrived at 6:08 that morning.
+
+*Should have service tonight. Seven if the crew gets us clear. Miss you.*
+
+It sounded more like him than the last one. Brooke held on to that. The conditional promise was irritatingly normal. Seven if. Tomorrow if. Home when.
+
+"He'll call," Sarah said.
+
+At seven, they set Mark's place at the table and propped Sarah's phone against the salt shaker.
+
+At seven fifteen, the screen remained dark.
+
+At seven thirty, Sarah served the food anyway. Claire ate beets without complaint. Cooper stayed beneath Brooke's chair.
+
+At eight, Sarah texted Mark once.
+
+At nine, Brooke called and reached voicemail.
+
+Sarah did not appear worried. "He warned us about the signal."
+
+"He also said seven."
+
+"He said if."
+
+Brooke looked at the empty place setting. "You always tell me not to make excuses for people."
+
+"Your father is working."
+
+"Do you know that?"
+
+Sarah's fork stopped. "What is that supposed to mean?"
+
+"Nothing."
+
+"No, say it."
+
+Brooke stood and carried her plate to the sink. "I'm tired."
+
+Upstairs, she added the missed call to the private recording. She included Mark's exact message and the time. Then she copied both files to the memory card in her camera.
+
+She slept with the camera bag beneath the bed and Cooper against the door.
+
+Sometime after midnight, the mattress shifted.
+
+Brooke kept her breathing even.
+
+Sarah stood beside the bed. Moonlight from the window gave her face no expression Brooke could read. She did not touch Brooke. She watched her chest rise and fall, then bent close enough that Brooke could feel breath move against her hair.
+
+"There you are," Sarah whispered.
+
+Cooper lifted his head.
+
+Sarah looked at him. For several seconds, neither moved. Then she straightened, crossed the room, and closed the door almost silently behind her.
+
+Brooke waited until the hall floor stopped creaking before opening her eyes.
+
+The first thing she did was reach beneath the bed and make sure the camera was still there.
