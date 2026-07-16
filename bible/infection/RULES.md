@@ -40,7 +40,7 @@ Changed people retain full driving competence, route memory, and traffic awarene
 
 ## Hearing and speech
 
-Unaffected people cannot hear the whispers. Changed people hear them silently at first. Later, when alone or believing no unaffected person is nearby, they may involuntarily repeat fragments aloud like a verbal tic: "Wait," "Let her choose," "She is afraid," or "Not yet." This can imply that Anna is still receiving guidance without letting Brooke clearly witness it.
+Unaffected people cannot hear the whispers. Changed people hear them silently at first. Later, when alone or believing no unaffected person is nearby, they may involuntarily repeat a brief fragment aloud like a verbal tic. Any audible fragment must remain plausibly interpretable as self-talk, rehearsal, or an anxious habit. No changed person holds a clear spoken exchange with an unseen interlocutor, and Brooke never receives direct proof that strategy passes through a shared network.
 
 ## Personality and resistance
 

@@ -66,12 +66,12 @@ Claire is the collective's first, worst-calibrated attempt. She wants closeness 
 - **Fragment/tell:** This *is* the fragment — the clearest proof the real Claire persists.
 - **Function:** The one rung that climbs *down* the ladder for a moment, which makes the loss legible and escape morally harder.
 
-### C8 — "Not yet" *(the collective begins to learn)*
+### C8 — Restraint *(strategy replaces force)*
 - **Step:** between 9 and 10 — restraint replacing force.
 - **Day/Chapter:** Day 20 / Ch 21.
-- **Behavior:** Claire repeats "Not yet" when she believes Brooke can't hear (involuntary whisper repetition, `RULES.md`/`EVOLUTION.md`). She is being told to stop forcing.
-- **Fragment/tell:** The repeated fragment is the reader-facing signal that the strategy is shifting from Claire's failed force toward Anna's patience.
-- **Function:** Hands the baton from the early stage to the later stage.
+- **Behavior:** Claire stays in her room after Brooke asks for distance. When Brooke hears an indistinct murmur, Claire truthfully says she was telling herself Brooke needs space.
+- **Fragment/tell:** The self-talk is deniable. Retained memory, ordinary observation, and private whisper guidance all remain possible.
+- **Function:** Shows strategy shifting from Claire's failed force toward Anna's patience without proving a collective exchange.
 
 ### C9 — Present, restrained, at the end *(the fragment that never breaks)*
 - **Step:** N/A — the ladder's terminal proof is what Claire *won't* do.
@@ -79,7 +79,7 @@ Claire is the collective's first, worst-calibrated attempt. She wants closeness 
 - **Behavior:** Claire is part of the changed collective (e.g., outside the barricade, Ch 27) but **never harms Cooper** — the surviving restraint fragment holds to the end (MAIN_CAST; the protective-threat trigger).
 - **Function:** Right up to the last, one thread of the real Claire persists. Her ending state (changed, memory intact, "recovered" by every visible metric) is accepted in-world as a good outcome — the horror.
 
-**Claire's ladder in one line:** asks → takes → breaks → is told to stop. Force works and ruins everything, which is the lesson Anna inherits.
+**Claire's ladder in one line:** asks → takes → breaks → learns to stop. Force works and ruins everything, which is the lesson Anna later embodies.
 
 ---
 

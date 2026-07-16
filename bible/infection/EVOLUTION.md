@@ -1,6 +1,6 @@
 # Emotional Evolution of the Whispers
 
-The whispers do not evolve physically. Across roughly one month, they learn emotional strategy from failed human interactions. The exact method of shared learning remains unexplained.
+The whispers do not evolve physically. Across roughly one month, changed people display increasingly effective emotional strategy after failed human interactions. The novel never proves that tactics are transmitted through a shared network. Every on-page adaptation must also be explainable through retained memory, ordinary intelligence, observation, or individual experience.
 
 ## Early stage: proximity commands
 
@@ -35,4 +35,4 @@ The changed genuinely feel love, but define it as possession, permanent proximit
 
 ## Involuntary repetition
 
-The whispers begin as silent experience. Later, changed people who believe no unaffected person is listening may repeat instruction fragments aloud as an involuntary verbal tic. Anna may do this outside Brooke's awareness, providing a reader-facing clue without confirming the source.
+The whispers begin as silent experience. Later, changed people who believe no unaffected person is listening may repeat a short fragment aloud like an involuntary verbal tic. Such speech must remain indistinguishable from self-talk, rehearsal, or an anxious habit. No changed person holds a clear audible exchange with an unseen interlocutor. Anna may produce one ambiguous fragment outside Brooke's awareness near the ending without confirming its source.

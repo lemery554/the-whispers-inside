@@ -2,7 +2,9 @@
 
 ## Something Moved
 
-Sarah insisted Brooke go to school the next day.
+Cooper planted himself against Brooke's knees when she came downstairs and refused to move.
+
+Sarah insisted Brooke go to school anyway.
 
 "Yesterday you wanted me home," Brooke said.
 
@@ -40,21 +42,17 @@ Cooper looked up at Brooke.
 
 Brooke stared at her. "Straight home."
 
-Sarah smiled and kissed Brooke's forehead. The affection was warm, familiar, and impossible to refuse without turning the morning into an argument. Brooke left with the place Sarah's lips had touched feeling cold in the wind.
+Sarah smiled and kissed Brooke's forehead. The affection was warm, familiar, and impossible to refuse without turning the morning into an argument.
 
-The school had added a second counselor table near the entrance. A sign offered *RECOVERY SUPPORT CHECK-INS* before first period. Students who had been sick sat beside friends, siblings, and parents. Nobody appeared confined. Nobody appeared free either.
+"Did Mark answer?" Brooke asked.
 
-Brooke kept her camera in her bag.
+"No. I found the keypad company's number. I'll call after the check-in."
 
-In English, Mrs. Keating asked the class to put their desks into pairs for a "community grounding exercise." A boy near the windows said he worked better alone.
+The code remained the same.
 
-"Temporary discomfort with closeness is normal after a frightening event," Mrs. Keating said.
+Brooke left with the place Sarah's lips had touched feeling cold in the wind.
 
-"I wasn't sick."
-
-"Someone you know probably was."
-
-The class moved the desks.
+The school had added a counselor table near the entrance beneath a sign offering *RECOVERY SUPPORT CHECK-INS*. Brooke kept her camera in her bag.
 
 At ten thirty, Brooke received a message from the counselor.
 
@@ -102,7 +100,7 @@ Nora lowered her voice. "That you locked her in a bathroom to get footage."
 
 Brooke's appetite disappeared. "Who said that?"
 
-"I don't know. It was in a group chat."
+"Claire told the counselor the handle broke while you were inside. Somebody in the office heard. After that, I don't know."
 
 The story was wrong in several directions at once. Brooke pictured trying to correct it online and feeding it more details. She pictured Sarah reading every correction as another public betrayal.
 
@@ -134,7 +132,7 @@ The exterior doors near the gym were locked. A security officer asked where she 
 
 Brooke showed him the counselor message and said she felt sick. The officer directed her to the nurse instead of opening the door.
 
-At Student Services, the counselor spoke in a low voice about harassment, family privacy, and how frightening public attention could distort judgment. She recommended Brooke take a forty-eight-hour break from uploading and asked whether Sarah could pick her up.
+At Student Services, the counselor spoke about harassment, family privacy, and how public attention could distort judgment. She recommended Brooke take a forty-eight-hour break from uploading and asked whether Sarah could pick her up.
 
 "I can walk."
 
@@ -180,7 +178,7 @@ Brooke had no answer that did not sound reckless. Sarah reached across the conso
 
 At home, the keypad gave its usual two-note chirp when Claire entered the code. Brooke watched the front door swing inward.
 
-Cooper met them in the foyer. He rushed past Sarah and Claire to Brooke, whining as he pushed his nose against her hands.
+Cooper met them in the foyer. He rushed past Sarah and Claire to Brooke, whining as he pushed his nose against her hands. The fur along his shoulders was still raised.
 
 The water bowl beside the kitchen was overturned. Damp paw prints crossed the foyer and stopped near the front door.
 
@@ -242,9 +240,9 @@ Brooke looked over the railing. "When?"
 
 "Did you touch my dresser?"
 
-"I don't remember."
+"I don't remember touching it."
 
-The answer was truthful and useless.
+The answer was narrow enough to be truthful and broad enough to leave Brooke nowhere.
 
 Brooke closed the bedroom door and knelt at the foot of the bed. The keepsake box was pushed beneath the frame, where it always stayed. She drew it out.
 
@@ -262,8 +260,8 @@ There was no footage of the room. No timestamp. No way to prove whether anything
 
 Downstairs, Sarah called that dinner was ready.
 
-Brooke closed the adoption container carefully, pressed the clasp until it clicked, and took a photograph of the whole box before sliding it beneath the bed.
+Brooke closed the adoption container carefully and pressed the clasp until it clicked. She took photographs of the box, the drawer, the dresser, and the bedroom door. Then she tore a sliver from the blank edge of a sticky note, laid it across the keepsake-box seam, and photographed that too. It would fall if someone lifted the lid.
 
-Then she photographed the dresser.
+She wedged an old phone behind the books on her desk with its camera facing the room. The battery would not last all day, but it could record while they were gone.
 
-She did not tell Sarah why.
+Only then did she slide the box beneath the bed and take one final photograph.

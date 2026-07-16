@@ -2,7 +2,7 @@
 
 ## Not Yet
 
-Sarah removed Brooke's bedroom key the following morning.
+Sarah took the keepsake-box key the following morning.
 
 She did it in front of her. No deception. She held out her hand and waited until Brooke gave her the tiny brass key to the keepsake box.
 
@@ -16,7 +16,7 @@ She did it in front of her. No deception. She held out her hand and waited until
 
 "For now."
 
-Brooke looked at Sarah's open palm. "You're taking my stuff because I accused Claire of taking my stuff."
+Brooke looked at Sarah's open palm. "You're taking my key because I accused Claire of taking my journal."
 
 "I'm keeping one argument from becoming five."
 
@@ -172,91 +172,45 @@ Sarah turned. "Why wouldn't they?"
 
 Brooke looked at Claire.
 
-Claire had gone upstairs.
+Claire had gone upstairs. A few minutes later Brooke heard her bedroom door close.
 
 The house became quiet enough for the refrigerator motor to sound loud. Sarah returned to work at the dining table. Brooke sat on the living-room floor with Cooper and pretended to review footage on her laptop.
 
-She was listening for Claire.
+At noon, Claire crossed the landing. Brooke heard one floorboard, then nothing. She waited for Claire to come downstairs, ask what she was doing, or sit close enough to watch the screen. Claire did none of those things.
 
-At noon, the shower ran. At twelve twenty, Claire crossed the landing. At twelve thirty, a floorboard creaked above the living room.
+Brooke carried an empty glass to the kitchen and paused at the stairs. From above came a murmur too soft to separate from the television.
 
-Brooke waited.
+Maybe Claire said, "It's okay."
 
-Sarah's headset covered one ear. Her work voice remained calm as she discussed billing schedules.
+Maybe she was reading something.
 
-Brooke carried her empty glass toward the kitchen, then turned at the stairs and went up without making the first step creak.
+Brooke took one step upward. The sound stopped.
 
-Claire's bedroom door was nearly closed.
+"Claire?"
 
-Through the narrow gap, Brooke could see her sister sitting on the floor beside the bed. Claire faced the wall. Her hands rested palms-up on her knees.
+"What?"
 
-She was not speaking to anyone Brooke could see.
+Her voice came from her room.
 
-"Not yet," Claire whispered.
+"Were you talking?"
 
-Brooke stopped breathing.
+"Yes."
 
-Claire tilted her head, listening.
+"To who?"
 
-"She is afraid."
+A pause. "Myself."
 
-The words were quiet and flat, without the shape of a conversation. Claire's mouth moved again.
+It was a complete answer. It proved almost nothing.
 
-"Wait."
+"What did you say?"
 
-Brooke's heel touched the baseboard.
+"I said you need space."
 
-Claire turned.
+Brooke gripped the empty glass. It could have been Claire trying to remember a rule. It could have been mockery. It could have been the ordinary intelligence of someone who had finally noticed that following Brooke made her leave.
 
-For one second her eyes caught the weak hall light. A pale reflection moved across them and disappeared.
+"Okay," Brooke said.
 
-"What are you doing?" Claire asked.
-
-Brooke held up the glass. "Getting water."
-
-"The kitchen is downstairs."
-
-"I know."
-
-Claire stood. "Were you listening?"
-
-"To what?"
-
-Claire looked back at the empty wall. "You heard me."
-
-The answer could be true from her point of view. Whatever she heard, Brooke had heard only Claire.
-
-"Who is afraid?" Brooke asked.
-
-Claire's gaze returned to her. "You are."
-
-"Why did you say not yet?"
-
-"I don't know."
-
-"You said wait before. On my recording."
-
-"You said that wasn't clear."
-
-Claire remembered the argument about the audio. She remembered Brooke's uncertainty and used it without raising her voice.
-
-"Do you hear someone?" Brooke asked.
-
-"I hear you."
-
-"When I'm not talking."
-
-"You're always making noise."
-
-The old Claire might have said it as a joke. This Claire said it with mild affection.
-
-Brooke backed into the hall.
-
-Claire did not follow.
-
-That was the worst part.
-
-She stayed in her room while Brooke went downstairs. She did not ask to sit beside her. She did not touch her or block the stairs. She waited.
+Claire did not open the door.
 
 Sarah ended her work call at one.
 
@@ -274,16 +228,12 @@ Sarah nodded. "Whenever you're ready."
 
 No demand. No reaching hand. No reminder about the key in her pocket.
 
-Brooke understood the change without understanding its source. The pressure had not disappeared. It had learned that visible pressure made her resist.
+Brooke understood only that the method had changed. Sarah had raised her for seventeen years. She did not need whispers or secret instructions to know that direct pressure made Brooke pull away.
 
 She opened the private observation file and typed beneath the entry about memory:
 
-*They are learning when not to push.*
-
-Then:
-
-*Claire said: Not yet. She is afraid. Wait.*
+*Sarah is giving me more room after taking the key. Claire stayed upstairs after I said I was angry. Maybe they are learning when not to push. Maybe they already knew.*
 
 Brooke saved the file to the chemistry folder and copied it to the camera card.
 
-Across the room, Sarah folded laundry while giving Brooke enough space to keep typing.
+Across the room, Sarah folded laundry while giving Brooke exactly enough space to keep typing.

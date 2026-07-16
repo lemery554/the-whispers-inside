@@ -287,7 +287,7 @@
 - **Emotional goal:** Suspicion to strategic secrecy.
 - **Conflict:** Sarah restricts Brooke's movement while news and school validate her.
 - **Reveal:** Different institutions use the same reunion language.
-- **Hidden clues / payoff:** Upload 6 extends Anna's emotional blueprint; old keypad footage enters the public archive Anna studies off-page. Interview requests, harassment, account moderation, and school recognition pay off Upload 5's viral scale.
+- **Hidden clues / payoff:** Upload 6 extends Anna's emotional blueprint; Brooke discovers the active keypad code in her public archive, makes the clip private, and demands a reset. Anna has already saved it off-page. Interview requests, harassment, account moderation, and school recognition pay off Upload 5's viral scale.
 - **Character movement:** Brooke begins planning rather than arguing.
 - **Tension:** 5/10
 - **Found media:** Upload 6, news montage, school message.
@@ -302,7 +302,7 @@
 - **Emotional goal:** Public unease to private paranoia.
 - **Conflict:** School discourages departure; home later feels subtly rearranged.
 - **Reveal:** A photograph and adoption container are not exactly where Brooke remembers.
-- **Hidden clues / payoff:** Anna studied layout, photographs, and material locations; Brooke blames stress and Sarah.
+- **Hidden clues / payoff:** Anna uses the still-active code and studies layout, photographs, and material locations; Cooper's agitation, overturned water, and displaced papers remain deniable. Brooke sets photographic, paper-seal, and camera checks.
 - **Character movement:** Brooke doubts even recorded memory because she has no footage of the room.
 - **Tension:** 5/10
 - **Found media:** School counselor message.
@@ -316,8 +316,8 @@
 - **Purpose / setting:** Plant the journal theft after Anna's second unseen visit.
 - **Emotional goal:** Paranoia to misplaced anger.
 - **Conflict:** Brooke cannot find the journal and accuses Claire.
-- **Reveal:** Claire appears genuinely confused, which Brooke cannot trust.
-- **Hidden clues / payoff:** Drawer and letter storage are disturbed; Anna now has the full name and private leverage.
+- **Reveal:** Sarah and Claire directly deny taking the journal, and Brooke still chooses the familiar target over the exposed keypad route.
+- **Hidden clues / payoff:** The paper seal is broken, the monitoring phone dies before the entry, Cooper orients toward the front door, and the letter remains while the journal is gone. Anna now has the full name and private leverage.
 - **Character movement:** Brooke damages the remaining connection with Claire while trying to protect herself.
 - **Tension:** 5/10
 - **Found media:** None.
@@ -328,17 +328,17 @@
 ## Chapter 21: Not Yet
 
 - **Day:** 20
-- **Purpose / setting:** Show the whispers learning patience while Sarah tightens control.
+- **Purpose / setting:** Show Sarah and Claire independently changing tactics while Sarah tightens control.
 - **Emotional goal:** Anger to chilled observation.
 - **Conflict:** Sarah uses love and the old workshop fight to keep Brooke home.
-- **Reveal:** Claire repeats `Not yet` when she believes Brooke cannot hear.
-- **Hidden clues / payoff:** Anna prepares a resemblance off-page using photographed cues; whispered instruction foreshadows her restraint.
-- **Character movement:** Brooke understands the behavior is being guided or shared without understanding how.
+- **Reveal:** Sarah gives Brooke carefully measured space after taking the keepsake-box key; Claire stays away and describes ambiguous self-talk about Brooke needing space.
+- **Hidden clues / payoff:** Anna prepares a resemblance off-page using photographed cues. Sarah's ordinary retained knowledge of Brooke is enough to explain her strategic restraint.
+- **Character movement:** Brooke recognizes a behavioral change but refuses to claim proof of guidance or shared knowledge.
 - **Tension:** 5/10
 - **Found media:** News wording about temporary separation.
 - **Estimated words:** 2,700
 - **Continuity:** Unaffected people cannot hear the actual whispers.
-- **Question answered / created:** Do recovered people receive guidance? / What are they learning to wait for?
+- **Question answered / created:** Can the changed adapt without visible coordination? / Is restraint care, strategy, or both?
 
 ## Chapter 22: The List
 

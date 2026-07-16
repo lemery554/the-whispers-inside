@@ -4,7 +4,7 @@
 
 The next morning, Brooke checked the keepsake box before school.
 
-The clasp was closed. The photograph matched the image on her phone. The beach frame remained where she had left it.
+The clasp was closed. The photograph matched the image on her phone. The beach frame remained where she had left it. The paper strip still bridged the keepsake-box seam.
 
 She almost stayed home.
 
@@ -15,6 +15,18 @@ The offer sounded generous. Brooke heard the price inside it: another day in the
 "No," Brooke said. "I'm going."
 
 Sarah drove both girls. At the curb she said, "Straight home," and Brooke answered without making her repeat it.
+
+"Did you call the keypad company?"
+
+"They need the installer number or Mark's account verification. I left him another message."
+
+"So the code is still the same."
+
+"The house is locked, Brooke."
+
+"With a code strangers can watch me type."
+
+Sarah's mouth tightened. "I am handling it."
 
 Sarah continued toward the office after they got out. Cooper would be alone again until she returned.
 
@@ -58,15 +70,15 @@ The phrase had become a family argument no one else could hear.
 
 They walked home together. Claire did not touch Brooke, but she remained close enough that their coats brushed at every turn.
 
-The front door was locked. Brooke entered the code and watched the buttons light beneath her fingers. Sarah had never changed it. Why would she? The only people who knew it were family.
+The front door was locked. Brooke entered the code and watched the buttons light beneath her fingers. The same digits still opened it.
 
-Cooper met Brooke in the foyer and followed her upstairs.
-
-He sniffed Brooke's jeans, then turned back toward the front door and gave a low, uncertain sound. Brooke assumed he wanted the walk Sarah had missed the day before.
+Cooper met Brooke in the foyer but did not settle. He sniffed along the base of the front door, crossed to the stairs, then returned to the foyer with a low sound in his throat.
 
 Her bedroom door was closed.
 
-She had closed it that morning. The dresser photograph had not moved. The keepsake box remained under the bed with its clasp fastened.
+She had closed it that morning. The dresser photograph had not moved. The keepsake box remained under the bed with its clasp fastened. The paper strip lay on the carpet beside it.
+
+Brooke checked the old phone behind the books. Its battery was dead. The recording ended after fifty-three minutes, showing only an empty room and a bar of changing daylight.
 
 Brooke opened it anyway.
 
@@ -78,7 +90,13 @@ Cards, programs, loose photographs, two ticket stubs from a movie Mark had taken
 
 Brooke pulled open the bottom desk drawer. Old notebooks. Cables. A dead external drive. She checked beneath the bed, behind the dresser, inside the camera bag, and between the mattress and wall.
 
-Cooper followed each movement, agitated by the search.
+Cooper followed each movement, then left the room and stood at the top of the stairs facing the front door.
+
+Brooke opened the keypad app Sarah had installed years ago and forgotten. It showed battery status, not an entry history. From the front window she could see the neighbor's doorbell camera aimed toward the street, with the Bennetts' hedge blocking its view of their door.
+
+Someone could have used the code while the recording phone was already dead. Someone could also have entered the room the night before, before Brooke set any of it up.
+
+Claire had watched Brooke put the journal away. Sarah had read it once. Those facts felt closer than a stranger because Brooke already knew how to be angry at them.
 
 "Claire!"
 
@@ -130,7 +148,17 @@ At the beach video. Brooke remembered setting the journal back beneath the noteb
 
 Claire stared at her. "Because I said."
 
-The answer stopped Brooke for half a second. Claire had not lied about anything Brooke could verify. That did not make omission impossible. It did not make memory reliable.
+The answer stopped Brooke. If Claire had taken it today, she could not say she had not. If she had moved it without remembering, or if someone else had entered, the words still held. Brooke knew that. She also knew Claire had broken a bathroom lock to reach her.
+
+"Did you see anyone near the house?"
+
+"No."
+
+"Did Cooper bark?"
+
+"I was at school."
+
+Brooke heard how stupid the question was and hated Claire for making her hear it.
 
 "Open your room."
 
@@ -190,11 +218,7 @@ Brooke turned. Sarah's face had shifted at the mention of the journal.
 
 "You've read it."
 
-Sarah did not deny that. "Not recently."
-
-"That's not what I asked."
-
-"I did not take it."
+Sarah did not deny that. "Not recently. I did not take it."
 
 The direct answer should have narrowed the possibilities. Instead it left Brooke with nowhere to put her anger.
 
@@ -210,11 +234,7 @@ Claire flinched.
 
 It was small. Brooke saw it and continued anyway.
 
-"You follow me, take my clothes, come into my room, grab me when I leave. Why wouldn't you take something because you wanted it?"
-
-"I didn't want it."
-
-"You want everything that's mine."
+"You follow me, take my clothes, come into my room, grab me when I leave. Why wouldn't you take it?"
 
 Claire's eyes filled.
 
@@ -228,17 +248,15 @@ Claire looked frightened then, but not by the accusation. By the word *leave*.
 
 "That's not the point."
 
-"Where?"
-
 Sarah stepped between them. "Brooke, enough."
 
 "You both keep saying enough when you mean stop asking."
 
 "I mean stop hurting your sister."
 
-"She isn't my sister."
+"You remember being my sister when it's useful."
 
-The sentence entered the room and changed it.
+The sentence entered the room and changed it. It was not the same cruelty as the sentence before Claire got sick, but it came from the same place in Brooke: the place that reached for whatever would hurt fastest.
 
 Claire's tears stopped moving. Sarah went still.
 
@@ -256,14 +274,10 @@ Or she had moved it yesterday while checking.
 
 She opened the letter.
 
-The name at the bottom was still there in blue ink, her biological mother's full name beneath a paragraph Brooke had read enough times to know by shape. She returned it to the envelope and locked the keepsake box with the tiny brass key Sarah had given her at sixteen.
+The name at the bottom was still there in blue ink, her biological mother's full name beneath a paragraph Brooke had read enough times to know by shape. The envelope was present. So were the agency copies and the photograph Sarah had given her at sixteen.
 
-The journal was not inside.
-
-Someone had taken the book and left the information that mattered most.
+The journal was the only thing missing.
 
 Downstairs, Claire began to cry.
 
 Brooke sat on the floor with her back against the bed. Cooper rested his chin on her knee.
-
-For the first time, the house felt occupied by more people than she could account for.

@@ -98,11 +98,9 @@ Brooke opened the school email on her phone. The counselor's message used the sa
 
 The platform warning used *supportive recovery information*.
 
-Sarah's employer had sent *Supporting Recovered Family Members at Home*.
+Sarah's employer had sent *Supporting Recovered Family Members at Home*. Different offices, different logos, the same handful of words.
 
-Different offices. Different logos. The same handful of words.
-
-At breakfast Sarah had also said she was expected back at the office the next morning. Her supervisor wanted recovered employees onsite for a short check-in before they resumed normal schedules. Sarah had sounded pleased by the idea. The house would be empty for the first time since Claire became sick, except for Cooper.
+Sarah was expected back at the office the next morning for a short check-in before she resumed her normal schedule. She had sounded pleased by the idea. The house would be empty for the first time since Claire became sick, except for Cooper.
 
 "Where did the school get this?" Brooke asked.
 
@@ -138,7 +136,7 @@ Claire sat against the wall outside the bedroom. Brooke closed the door.
 
 She recorded Upload Six in one take.
 
-"They say we're fine," she began. "Not just my family. The hospital, the school, the news. They keep using the same words because they're all getting the same guidance, and maybe that started for a good reason. But the guidance doesn't match what's happening in houses."
+"They say we're fine," she began. "Not just my family. The hospital, the school, the news. They keep using the same words. Maybe it's all the same health-department guidance. Maybe that part is normal. But it doesn't match what's happening in houses."
 
 She showed the platform warning, the school email, and the hospital notice without displaying names or addresses. She described Sarah's recovery but did not include the nighttime recording. That remained in the chemistry folder and on the camera card.
 
@@ -146,13 +144,13 @@ She showed the platform warning, the school email, and the hospital notice witho
 
 Brooke stopped. Outside the door, Claire shifted against the wall.
 
-"People keep asking what to do. I don't know. I know dogs notice. I know closed doors upset them. I know they can remember something exactly and still make it mean something different. I know treating every request for space like cruelty makes it easier for them to keep you close."
+"People keep asking what to do, and I don't know. I know dogs notice. Closed doors upset them. They remember things, but sometimes they make those things mean something else." She stopped, rubbed both hands over her face, and started again. "I don't know how to say this without sounding dramatic. If every request for space gets treated like cruelty, then you stop being allowed to ask for space."
 
 She looked directly into the lens.
 
 "If somebody says they feel safer when you can't leave, that isn't the same as you being safe."
 
-Brooke ended the recording at six minutes and forty-one seconds.
+Brooke ended the recording at four minutes and twelve seconds. She cut one false start and left the rest alone.
 
 Claire was still sitting outside.
 
@@ -196,7 +194,7 @@ Brooke chose the chair.
 
 "Do you?"
 
-Mr. Dorsey folded his hands. "Our concern is student safety and minimizing disruption. We also want to avoid language that stigmatizes students who have recovered."
+Mr. Dorsey folded his hands, unfolded them, then pushed his glasses higher. "I don't know what the right response is yet. I do know we have students being followed by reporters and other students being called monsters."
 
 Claire sat at the end of the couch, watching Brooke.
 
@@ -218,19 +216,13 @@ Mr. Dorsey turned to Claire. "Is that true?"
 
 "I wanted to know where she was."
 
-He nodded with the solemnity of someone receiving a reasonable explanation. "Given what your family has been through, reassurance is understandable. But you still need permission to leave class."
+He nodded. "Wanting reassurance makes sense. Leaving class without permission doesn't. Both things can be true."
 
 "Okay," Claire said.
 
 Brooke laughed once. "That's the whole response?"
 
-"No. We can make a support plan. Scheduled check-ins. Shared lunch period if teachers approve. A counselor available to both of you."
-
-Every solution gave Claire more official access.
-
-"I don't want a shared lunch."
-
-"Then we won't begin there," Mr. Dorsey said. "But Brooke, the school cannot treat your sister as dangerous based on videos and family conflict."
+"No. Claire stays in class unless a teacher releases her. You can ask for separate counseling appointments. But Brooke, the school cannot treat your sister as dangerous based on videos and family conflict."
 
 "The videos are evidence."
 
@@ -242,7 +234,7 @@ Mr. Dorsey slid a printed page across the desk. The heading read *TEMPORARY SEPA
 
 "The counselor will speak with you both," he said.
 
-Brooke left the paper on his desk.
+Brooke left the paper on his desk. Mr. Dorsey looked at it as if he was no more certain what it meant than she was.
 
 By lunch, three students had asked whether Claire's eyes really glowed. One asked Brooke to film him pretending to vomit red medicine. A sophomore she did not know whispered, "My dad does it too," then walked away before Brooke could ask what she meant.
 
@@ -274,10 +266,46 @@ Upstairs, she opened her public archive to check what strangers could see. Hundr
 
 Brooke chose one from three years earlier and scrubbed through the foyer shot. Claire entered the front-door code while Brooke narrated something about composition. The keypad flashed blue at the edge of the frame.
 
-The digits were visible.
+The digits were visible. Brooke watched the sequence twice, sick with the stupidity of it. She had spent years insisting the camera remembered what people missed. Apparently it remembered passwords too.
 
 Brooke paused, zoomed in, and watched Claire's hand enter the code again.
 
 She set the video to private.
 
-Then she began checking the others.
+Then she called Sarah.
+
+"The front-door code is in an old video."
+
+Sarah was quiet for a beat. "Take it down."
+
+"I made it private. That doesn't erase copies. We have to change the code."
+
+"I'll look at the keypad manual tonight."
+
+"No, now."
+
+"Brooke, I am working."
+
+"Someone knows where I go to school."
+
+That reached her. Brooke heard keys clicking on Sarah's end, then a drawer opening. "The installer card isn't here. Your father kept all of that in the garage file box."
+
+"Then call him."
+
+"I will."
+
+Mark had not answered a live call in days.
+
+"What do we do until then?"
+
+"The dead bolt is locked when we're home. Cooper is there when we're not. I will call the keypad company after my check-in tomorrow."
+
+Brooke looked at the frozen blue buttons on her screen. "Tomorrow is not the same as now."
+
+"I know."
+
+Sarah sounded worried. The worry did not change the code.
+
+After they hung up, Brooke checked the video's analytics. Most of its lifetime views came from years ago, but eleven people had watched it in the past week. The platform did not show who they were or whether anyone had saved it.
+
+She began checking the rest of the archive anyway.
