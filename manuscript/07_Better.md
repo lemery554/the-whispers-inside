@@ -10,7 +10,7 @@ Her voice sounded like hers again.
 
 The discharge nurse had called the improvement typical. Continue fluids. Offer bland foods. Return for confusion, persistent vomiting, or inability to drink. Follow up with the pediatrician. The printed page described a gastrointestinal illness and did not mention the red treatment beyond a handwritten time.
 
-At home, Cooper waited behind the kitchen gate. His tail moved when Sarah entered, faster when he saw Brooke, then stopped when Claire stepped through.
+At home, the kitchen smelled faintly of coffee left in the pot and the lavender cleaner Sarah used on the counters. Cooper waited behind the gate. His tail moved when Sarah entered, faster when he saw Brooke, then stopped when Claire stepped through.
 
 Claire dropped to her knees. "I survived."
 
@@ -26,7 +26,7 @@ Claire accepted the explanation. Brooke watched Cooper retreat when she stood.
 
 By noon, Claire's fever was gone. She showered, changed into Brooke's blue hoodie without asking, and ate half a bowl of rice. Sarah slept on the living-room sofa with one hand still curled around her phone.
 
-Brooke sat at the kitchen table reviewing the hospital clips with the sound off. The red treatment cart. The cups. Claire's stained mouth. The room contracting almost together. She cut away before Claire vomited, then restored the section because removing it changed what happened.
+Brooke sat at the kitchen table reviewing the hospital clips with the sound off. The red treatment cart. The cups. Claire's stained mouth. The room contracting almost together. She cropped out the other patients and the staff name badges, then chose a close frame of the emergency-formulation code. She cut away before Claire vomited, restored the section, and hated herself a little for deciding that removing it changed what happened.
 
 When Claire entered, Brooke minimized the window.
 
@@ -82,19 +82,9 @@ She recorded one final sentence.
 
 "She's home now. Her fever is gone. The hospital says most people recover quickly, and that seems true. I still don't know what the red treatment is supposed to do."
 
-The upload began collecting comments before dinner.
+The upload began collecting comments before dinner. The first criticism that stayed with her asked whether Claire had agreed to have the worst night of her life posted online. Brooke began typing that the video might help somebody, then stopped. Claire had not agreed. Brooke closed the page.
 
-*glad she's better*
-
-*you filmed your sick little sister for views?*
-
-*My wife had it. Same red stuff. Home in twelve hours.*
-
-*Stop fearmongering. Recovery rate is almost 100%.*
-
-Brooke closed the page.
-
-Claire sat cross-legged on the living-room rug watching a cooking competition. A plate beside her held mushrooms, olives, and plain crackers. She had always picked olives off pizza and hidden them beneath her napkin.
+Claire sat cross-legged on the living-room rug watching a cooking competition. A plate beside her held mushrooms and plain crackers.
 
 "Can I sit here?" Brooke asked.
 
@@ -107,7 +97,5 @@ Claire patted the rug. "You too."
 He lowered his head onto Brooke's knee.
 
 Sarah returned with three blankets and covered them as if recovery could be secured by warmth. Claire complained that hers was too heavy. Sarah called that a normal complaint and kissed the top of her head.
-
-For the length of one episode, Brooke let normal win.
 
 When the credits began, Claire reached back and rested her hand over Brooke's ankle. She left it there after she fell asleep.

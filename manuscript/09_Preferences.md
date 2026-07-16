@@ -22,7 +22,7 @@ Claire shrugged. "Not long."
 
 She looked rested. That was almost worse.
 
-At breakfast, Claire ate spinach, olives, and plain oatmeal. She had once required brown sugar in oatmeal and still complained that its texture resembled paste. Now she finished a bowl without adding anything.
+At breakfast, Claire ate plain oatmeal. She had once required brown sugar and still complained that its texture resembled paste. Now she finished the bowl without adding anything.
 
 Brooke set her phone beside the plate. "Say what you're eating."
 
@@ -32,9 +32,9 @@ Sarah looked up. "Don't."
 
 "You're filming her breakfast like she's evidence."
 
-Claire leaned toward the phone. "Spinach, olives, oatmeal. Breakfast of people who survived."
+Claire leaned toward the phone. "Sad oatmeal. Breakfast of people who survived."
 
-"You hate all three."
+"You hate it."
 
 "I changed my mind."
 
@@ -42,7 +42,7 @@ Claire leaned toward the phone. "Spinach, olives, oatmeal. Breakfast of people w
 
 Claire took another bite. "You wanted me to try new things."
 
-Sarah pushed the phone facedown. "She is eating. She slept. She has no fever. The pediatrician cleared her for school tomorrow. Stop looking for a way to make recovery frightening."
+Sarah pushed the phone facedown. "She is eating. She slept. She has no fever. The pediatrician cleared her for school tomorrow. Stop making her feel watched."
 
 "Cooper growled at her."
 
@@ -58,13 +58,15 @@ The reassurance made Brooke move her chair back.
 
 Claire's hand remained suspended for a moment before returning to her lap.
 
+When Brooke carried her bowl to the sink, Sarah remained at the table. Claire had started humming again. Sarah watched her for several seconds, then noticed Brooke looking and reached for her coffee.
+
 Later, Brooke went to school alone. Sarah said Claire needed one more day despite the pediatrician's clearance, which meant Sarah could be cautious when the caution was hers.
 
 Ashcroft High had placed handwashing posters over the old dance flyers. Teachers wiped desks between periods. The nurse's office door stayed open, and a line formed before second bell.
 
 In chemistry, Nora pointed toward the rear lab station. "Mason's back."
 
-Mason Lee had left class vomiting on Thursday. Now he sat shoulder to shoulder with a boy Brooke had never seen him speak to before. Their stools touched. When the teacher asked them to separate for the lab, both moved to the same empty station.
+Mason Lee had left class vomiting on Thursday. The school had allowed him back after forty-eight symptom-free hours. Now he sat shoulder to shoulder with a boy Brooke had never seen him speak to before. Their stools touched. When the teacher asked them to separate for the lab, both moved to the same empty station.
 
 "He recovered," Nora said. "My mom says almost everyone does."
 
@@ -72,15 +74,7 @@ Mason caught Brooke looking and smiled. Nothing about his face seemed wrong.
 
 At lunch, the televisions displayed an interview with a hospital administrator. The captions read *RECOVERY RATES CONTINUE TO IMPROVE*. The administrator thanked families for supporting patients through a frightening but brief illness.
 
-Brooke opened her comments.
-
-*She's better. Leave her alone.*
-
-*Why are you disappointed your sister recovered?*
-
-*Hospital trauma makes people clingy.*
-
-She closed the app before the words could arrange themselves into Sarah's voice.
+Brooke opened her comments, saw another accusation that she wanted something to be wrong with Claire, and closed the app before the words could arrange themselves into Sarah's voice.
 
 At home, Claire met her at the door.
 
@@ -94,7 +88,7 @@ At home, Claire met her at the door.
 
 "Do it downstairs."
 
-The phrase matched yesterday exactly.
+She had used the same words yesterday.
 
 Brooke went upstairs and locked her door, then felt ridiculous and unlocked it. Claire entered without knocking five minutes later and settled on the bed.
 
@@ -132,19 +126,9 @@ The timestamp showed 8:02 a.m.
 
 Brooke showed Sarah. Sarah blamed the network near the hotel. Claire read the message twice and said, "He loves all of us," as if that were the only part worth verifying.
 
-After dinner, Brooke uploaded *She's better. I think.* She kept it short: the mushroom request, the new foods, the constant following, Cooper's refusal. She did not show the growl.
+After dinner, Brooke uploaded *She's better. I think.* She kept Claire's face out of it. Over shots of the untouched dog bowl and the kitchen after breakfast, she described the mushroom request, Claire's repeated invitations to work downstairs, and Cooper's refusal to approach her. She did not show the growl. She did not ask Claire's permission.
 
-The video reached more people than the first two. Most comments offered explanations.
-
-*post-viral taste changes are real*
-
-*separation anxiety*
-
-*Dogs react to hospital smells.*
-
-*She almost died and wants her sister. This is sad, not scary.*
-
-Brooke read the last one three times.
+The video reached more people than the first two. Brooke avoided the comments.
 
 Then she created a note on her phone.
 

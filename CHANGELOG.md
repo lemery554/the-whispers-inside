@@ -2,6 +2,11 @@
 
 All notable project-development changes are recorded here.
 
+## 2026-07-16
+
+- Implemented the Batch 2 developmental edit across Chapters 6–9: grounded the red treatment in ordinary emergency logistics, formalized Claire's pediatric observation, made Brooke's privacy breach and lack of consent explicit, slowed Claire's proximity escalation, narrowed the food reversals, clarified Mason's return to school, and gave Sarah a private moment of concern.
+- Applied the Chapters 6–9 cross-chapter assessment to canon and continuity documents: established the changed people's proximity hierarchy, limited food changes to an individual cluster, prevented a premature sleep-restraint escalation, and recorded the information Anna gains from Upload 3.
+
 ## 2026-07-15
 
 - Drafted Batch 2, Chapters 6–9: the Saint Vincent's red-treatment sequence, Claire's apparent recovery and altered appetite, escalating proximity, Cooper's first directed growl, recovered students returning to school, and Brooke's first private observation list.

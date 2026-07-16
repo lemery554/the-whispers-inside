@@ -10,7 +10,7 @@ Claire waited outside the bathroom while Brooke brushed her teeth. She sat on Br
 
 "I'm eating."
 
-Claire held a forkful of spinach and mushrooms. Sarah had made eggs again because Claire asked.
+Claire held a forkful of eggs. Sarah had made them again because Claire asked.
 
 "You can eat from a chair."
 
@@ -58,7 +58,7 @@ She smiled after saying it, trying to make the sentence lighter. Brooke recogniz
 
 "That's not how bargaining works."
 
-For several minutes Claire watched the screen. Brooke reviewed footage from before the hospital: Claire at lunch leaving the sandwich untouched, Cooper moving behind Brooke's chair, Claire on the stairs reaching for her hand. In the corner of the monitor, the current Claire leaned closer.
+Claire watched the screen while Brooke reviewed footage from before the hospital: Claire at lunch leaving the sandwich untouched, Cooper moving behind Brooke's chair, Claire on the stairs reaching for her hand. In the corner of the monitor, the current Claire leaned closer.
 
 "Don't use the part where I throw up."
 
@@ -74,29 +74,17 @@ The ordinary response made Brooke feel ashamed of the question forming in her mi
 
 At noon, Sarah took a work call upstairs. Brooke carried her laptop to the sofa. Claire curled beside her beneath the heavy blanket, shoulder pressed along Brooke's arm. Each time Brooke shifted, Claire shifted too.
 
-Comments continued arriving under *My sister got sick*.
-
-*trauma response. she almost died. be nice to her*
-
-*My son wouldn't let me leave the room for a week after his fever.*
-
-*This is normal after hospitalization.*
-
-Brooke wanted them to be right.
+The highest-rated comment beneath *My sister got sick* called Claire's behavior a trauma response and told Brooke to be kind. Brooke wanted it to be right.
 
 Claire fell asleep against her. Brooke waited until her breathing deepened, then eased one arm free and stood.
 
-Claire's eyes opened immediately. "Where are you going?"
+Brooke made it to the kitchen before Claire appeared in the doorway with the blanket around her shoulders.
 
-"Kitchen."
+"You left."
 
-"I'll come."
+"I got water."
 
-"I'm getting water."
-
-"I'm thirsty too."
-
-She was fully awake before Brooke reached the doorway.
+"You could've told me."
 
 Cooper stood in the hall. Claire crouched and held out both hands. "Are you done being weird?"
 
@@ -120,9 +108,9 @@ Sarah appeared at the top of the stairs with her headset still on. "What happene
 
 Cooper backed behind Brooke.
 
-"Did you hurt him?" Sarah asked Brooke.
+"Did somebody step on him?" Sarah asked. "Startle him?"
 
-"No. Claire touched him."
+"Claire touched him."
 
 Sarah came down and checked his paws, collar, and ears. Cooper tolerated everything while watching Claire.
 
@@ -140,7 +128,7 @@ Claire looked at Cooper. "I didn't do anything."
 
 She did not shout at him or reach again. She stood slowly and moved beside Brooke instead, close enough that their hands brushed.
 
-Sarah said they would call the veterinarian. Brooke nodded, although she knew the vet would find a dog with a normal appetite, normal sleep, and one very specific fear.
+Sarah said they would call the veterinarian. Brooke nodded. Maybe there was a sore place beneath his fur, or some smell from the hospital that had not washed away.
 
 That night, Claire appeared in Brooke's doorway carrying her pillow.
 
@@ -166,12 +154,12 @@ Claire considered this. "In my room?"
 
 Brooke followed her across the hall. Claire climbed beneath the covers and took Brooke's wrist, holding it lightly against the mattress.
 
-"You don't have to do that."
+"You don't have to hold on."
 
 "Do what?"
 
 "Hold me here."
 
-Claire loosened her fingers but did not let go. "I'm not."
+Claire loosened her fingers. "I'm just holding your hand."
 
-Brooke stayed until Claire's eyes closed. When she tried to withdraw her hand, Claire tightened her grip without waking.
+Brooke stayed until Claire's eyes closed, then slipped her hand free.

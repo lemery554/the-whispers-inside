@@ -40,9 +40,7 @@ Her voice had no force left, but she did not release the sleeve. Sarah peeled Cl
 
 Claire stared at her as the wheelchair moved through the double doors. The look remained fixed until the doors met between them.
 
-Brooke sat beneath a television with captions turned on. A local anchor reported that most patients were improving rapidly with supportive treatment. Behind him, footage showed military trucks unloading cardboard cases from an unmarked warehouse.
-
-Nobody explained what was inside.
+Brooke sat beneath a television with captions turned on. A local anchor reported that most patients were improving rapidly with supportive treatment. Behind him, National Guard members unloaded cardboard cases at a state distribution center.
 
 At 12:18 a.m., Sarah texted that Claire had an IV and bloodwork pending. At 12:41, she wrote that the fever was 103.1. At 1:06, a nurse brought Brooke through because Claire had become too agitated for Sarah to calm alone.
 
@@ -56,17 +54,13 @@ A cart stood beside the medication station, loaded with sealed white cups. Throu
 
 "What is that?" Brooke asked.
 
-Sarah shook her head. "They said an emergency oral treatment."
+Sarah shook her head. "Something they're using for vomiting."
 
-"For what?"
-
-"The vomiting. Maybe dehydration. I don't know."
-
-The doctor arrived before Brooke could ask more. Dr. Shah looked younger than Sarah and more tired than anyone Brooke had ever seen standing upright. He said Claire's labs showed significant dehydration and electrolyte imbalance. They would continue IV fluids, monitor her mental status, and try the oral treatment being used under emergency guidance.
+The doctor arrived before Brooke could ask more. Dr. Shah looked younger than Sarah and more tired than anyone Brooke had ever seen standing upright. He said Claire's labs showed significant dehydration and electrolyte imbalance. They were admitting her to pediatric observation for IV fluids, neurological checks, and the oral treatment being used under emergency guidance.
 
 "What is it called?" Brooke asked.
 
-Dr. Shah gave the name of a manufacturer and a string of letters she did not retain. "We don't have evidence that it treats the cause. The goal is to help patients tolerate fluids."
+Dr. Shah pointed to the emergency-formulation code printed on the instruction sheet. It looked more like inventory than a name. "We don't have evidence that it treats the cause. The goal is to help patients tolerate fluids."
 
 "Is it working?"
 
@@ -104,27 +98,13 @@ At three, Claire slept.
 
 Her fever fell to 101.7. She kept down two ice chips, then four. By four, she answered her name, the hospital, and the day correctly. Around them, other patients improved with the same improbable speed.
 
-A woman across the aisle sat upright after hours beneath a blanket. When an orderly arrived to take her for imaging, she caught her husband's hand.
+A woman across the aisle sat upright after hours beneath a blanket. When an orderly arrived to take her for imaging, she hooked two fingers through her husband's sleeve. He kissed her knuckles and promised he would wait. She kept hold of the fabric until the orderly gently separated them.
 
-"He comes with me."
-
-The orderly explained that he had to remain.
-
-The woman smiled apologetically. "I don't want to be alone."
-
-Her husband kissed her knuckles and promised he would wait. She kept holding him until the orderly gently separated their hands.
-
-Brooke watched the woman's expression empty as the gurney rolled away.
-
-At 4:26, Mark called. Brooke went into the corridor so the ringing would not wake Claire.
+Before dawn, Mark called. Brooke went into the corridor so the ringing would not wake Claire.
 
 His video showed darkness and part of a dashboard. "How is she?"
 
 "Better. Maybe. They gave her the red medicine. She threw it up. Everybody did."
-
-"What medicine?"
-
-"Nobody will say what it does."
 
 The image froze. His voice continued in broken pieces.
 
@@ -136,12 +116,8 @@ The image froze. His voice continued in broken pieces.
 
 The call failed.
 
-She called back twice. Both attempts went to voicemail. Through the double doors, staff pushed another cart of red cups into the treatment bay.
+She called back twice. Both attempts went to voicemail.
 
 At dawn, the walls near Claire's bed had been wiped but not cleaned. Pale red streaks remained in the grout. A nurse stepped through them while carrying discharge papers for a patient who had been unable to stand three hours earlier.
 
-Claire would remain for another day of observation.
-
-The hospital was working. The patients were getting better.
-
-Brooke could not make those facts feel reassuring.
+Claire would remain in pediatric observation through Sunday.

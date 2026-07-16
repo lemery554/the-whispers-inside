@@ -16,7 +16,7 @@ Author-facing canon treats the purge as emptying the body of impurities and food
 
 ## Eating changes
 
-Afterward, people may eat foods they previously refused, such as mushrooms, squash, olives, spinach, beets, or plain vegetables. Choices should be strange for the individual but believable as food. Do not make this immediately grotesque. The unease comes from violated preference and memory.
+Afterward, people may accept a small cluster of foods they previously refused, such as mushrooms, squash, olives, spinach, beets, or plain vegetables. The pattern is individual rather than universal: one or two clear reversals should establish it before the story shifts attention to social, spatial, language, touch, and sleep changes. The change does not require every disliked food to become appealing, and it does not erase ordinary taste altogether. Choices should remain believable as food. The unease comes from violated preference and memory.
 
 ## Hunger
 
@@ -25,6 +25,8 @@ Hunger signals become inconsistent and muted rather than absent. Changed people 
 ## Red medicine
 
 Hospitals distribute vivid red liquid medicine that patients frequently vomit back up. Recurring imagery includes red liquid on white walls, footprints, overflowing containers, stained beds, slipping nurses, near-simultaneous vomiting, and emergency rooms that stop cleaning the walls. The story never confirms whether the medicine helps, harms, does nothing, or relates to the deeper change.
+
+The treatment arrives through ordinary emergency-response channels and bears temporary distribution or hospital formulation codes rather than a narratively useful brand mystery. Public searches may establish logistics, but they do not reveal its mechanism or create an abandoned manufacturer-conspiracy thread.
 
 ## Apparent recovery
 
@@ -72,6 +74,10 @@ Changed people do feel pain — they are not anesthetic — but pain no longer r
 8. Scratching
 9. Breaking barriers
 10. Using tools or weapons
+
+## Proximity hierarchy
+
+The need for closeness follows a flexible hierarchy rather than a permanent pair bond. A changed person first seeks the loved or emotionally significant person already central to them. If that person is unavailable, they accept a familiar substitute, then any accessible unaffected person as isolation becomes intolerable. Other changed people are immediately recognizable and feel socially safe, so unrelated changed people may cluster, touch, or move together without replacing the stronger fixation on a loved person. This hierarchy explains Claire's focus on Brooke, the recovered woman's focus on her husband, Mason's easy closeness with another recovered student, and the later stranger pursuit.
 
 ## Recognition, contact, and imitation
 

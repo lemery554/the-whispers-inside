@@ -34,7 +34,7 @@ Claire is the collective's first, worst-calibrated attempt. She wants closeness 
 ### C3 — "Sit with me" *(constant proximity)*
 - **Step:** 2→3 (Calling → Pleading).
 - **Day/Chapter:** Day 7 / Ch 8.
-- **Behavior:** Post-recovery, wants Brooke physically present at all times; follows her room to room; asks her to stay while she falls asleep.
+- **Behavior:** Post-recovery, wants Brooke physically present at all times; follows her room to room; asks Brooke to stay while she falls asleep. She does not yet maintain an unconscious restraining grip after sleep.
 - **Fragment/tell:** Cooper growls at Claire for the first time. Claire does **not** retaliate — the restraint fragment is already load-bearing.
 - **Deniability:** High — reads as post-illness trauma/attachment, which Sarah explicitly argues.
 
