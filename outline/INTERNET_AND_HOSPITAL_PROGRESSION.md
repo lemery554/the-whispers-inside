@@ -22,8 +22,8 @@ Maps the two institutions Brooke touches most — the **internet/platforms** and
 
 ### Phase 3 — Behavioral Shift (Days 11–16)
 - **Hospitals:** Isolation is relabeled "temporary separation"; counselors and discharge staff encourage touch and reassurance; absence rates rise but the system holds.
-- **Internet / platforms:** Testimony grows; **moderation begins favoring calming language**; matching reports surface and cluster.
-- **Brooke's audience:** **Upload 4** (Day 11): thousands — matching family reports arrive ("my mom too," "our dog won't go near him"); the channel becomes a network. **Upload 5** (Day 14): the **jump** to tens of thousands — Brooke's candid adoption-wound post; densest survival-info (dogs, memory, isolation), and the emotional blueprint Anna most uses.
+- **Internet / platforms:** Testimony grows; automated medical-information labels, user reporting, default relevance ranking, and ordinary safety moderation favor calming language without requiring coordinated technological control. Matching reports still surface and cluster.
+- **Brooke's audience:** **Upload 4** (Day 11): thousands — matching family reports arrive ("my mom too," "our dog won't go near him"); the channel becomes a network. **Upload 5** (Day 14): the **jump** to tens of thousands — Brooke's candid adoption-wound post and the emotional blueprint Anna most uses. The scale immediately produces an interview request, harassment, school identification, and account moderation risk; later chapters must continue treating Brooke as locally recognizable rather than socially anonymous.
 
 ### Phase 4 — Institutional Drift (Days 17–22)
 - **Hospitals:** Changed staff keep the machine running but its purpose has flipped — from protecting the unaffected to reuniting families; several communications people are quietly replaced.

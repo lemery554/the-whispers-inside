@@ -26,17 +26,9 @@ Mark had written at 1:14 a.m.
 
 No joke. No new promise about tomorrow. Brooke read it twice before returning the phone.
 
-Claire sat at the table with two bandaged knuckles and a bowl of oatmeal crowded with sliced banana. She ate with her left hand. The injured one rested beside the bowl, palm down, as if it belonged to somebody seated next to her.
+Claire sat at the table with two bandaged knuckles. The injured hand rested beside her bowl, palm down, as if it belonged to somebody seated next to her. Cooper had chosen the strip of floor between Brooke's chair and the back door.
 
-Cooper had chosen the strip of floor between Brooke's chair and the back door. When Claire dropped a piece of banana near him, he sniffed it and moved closer to Brooke without eating it.
-
-"He doesn't like bananas," Sarah said.
-
-"He ate a whole peel once," Brooke said.
-
-"That doesn't mean he liked it."
-
-Claire smiled at that. It was the kind of small family exchange that should have dissolved the night before. Sarah had made oatmeal. Claire was eating. The bathroom needed a new lock. Nobody had been hospitalized or arrested or found dead. If Brooke told the story wrong, it became a story about a frightened girl, an old handle, and a dog who had gotten underfoot.
+Sarah had made breakfast. Claire was eating. The bathroom needed a new lock. If Brooke told the story wrong, it became a story about a frightened girl, an old handle, and a dog who had gotten underfoot.
 
 She took a picture of the broken lever before Sarah threw it away.
 
@@ -74,7 +66,7 @@ Brooke laughed. "She's going to school?"
 
 "And I am dealing with it."
 
-Claire finished the oatmeal and scraped the side of the bowl. "I feel fine."
+Claire said, "I feel fine."
 
 That was the phrase everyone trusted now. The anchors said it. The hospital notices said it. Parents wrote it beneath Brooke's uploads as if feeling fine answered every question about what happened after the fever went away.
 
@@ -110,8 +102,6 @@ The warning bell rang. A teacher at the far end of the hall called for everyone 
 
 "Then we'll both be late."
 
-Two girls Brooke recognized from Claire's grade came around the corner holding hands. Not the loose, swinging grip friends used. Their fingers were interlaced tightly, their shoulders touching despite the width of the hall. One of them glanced at Brooke and Claire and smiled with quick recognition, as if they all belonged to the same private arrangement.
-
 Brooke pulled once. Claire's hand tightened.
 
 "Claire."
@@ -127,16 +117,6 @@ Brooke had begun choosing public rooms because Claire behaved better in them. Th
 "Don't you have lunch?" Brooke asked.
 
 "I brought it."
-
-Claire took a plastic container from her bag. Inside were cold roasted mushrooms and squash left from dinner, the vegetables Sarah used to hide beneath Claire's pasta because otherwise she would pick them out. Claire ate a mushroom with her fingers.
-
-"You hate those."
-
-"Not anymore."
-
-"Why?"
-
-Claire shrugged. "They're good."
 
 Brooke opened her laptop. A notification count covered the corner of the upload page, but she did not click it. "I'm working."
 
@@ -202,7 +182,7 @@ Claire's gaze moved from the bag to Brooke's face. "You did."
 
 "Because you cried when I tried to move."
 
-"I didn't cry."
+"I don't remember crying."
 
 "You cried so hard Dad offered to bury himself instead."
 
@@ -260,7 +240,7 @@ Claire wiped her cheeks. Confusion remained for a few seconds after the tears st
 
 "You can work," she said. "I'll be quiet."
 
-Brooke sat because the bell would ring soon, because the librarian was watching now, because Claire had let go once and Brooke did not know whether leaving would erase whatever had surfaced. They remained across from one another until lunch ended. Claire ate the rest of the mushrooms. Neither mentioned the beach again.
+Brooke sat because the bell would ring soon, because the librarian was watching now, because Claire had let go once and Brooke did not know whether leaving would erase whatever had surfaced. They remained across from one another until lunch ended. Neither mentioned the beach again.
 
 At dismissal, Brooke tried to leave through the west doors without Claire.
 
@@ -284,7 +264,7 @@ Claire caught Brooke's backpack and pulled.
 
 "School ended. People leave."
 
-Claire's face tightened. Tears threatened again, but they did not have the bewildered quality of the library. These tears had a purpose Brooke understood. They made adults look.
+Claire's face tightened. Her eyes shone again. Whether the distress was the same as it had been in the library or something else, it made the crossing guard look.
 
 The crossing guard did. "Everything okay?"
 
@@ -292,13 +272,13 @@ The crossing guard did. "Everything okay?"
 
 "I'm walking home."
 
-The police officer glanced over. He was young, with tired red skin above his collar. "You two sisters?"
+The police officer glanced over. "You two sisters?"
 
 "Yes," Claire said.
 
 Brooke said, "She won't let go of my bag."
 
-The officer approached without urgency. Behind him, the crying boy had been guided into the minivan beside the man. The officer looked at Claire's bandaged hand and then at Brooke.
+The officer approached without urgency and looked at Claire's bandaged hand.
 
 "Lot of people on edge right now," he said. "Best thing you can do is stay together and get home."
 
@@ -306,37 +286,25 @@ The officer approached without urgency. Behind him, the crying boy had been guid
 
 The crossing guard's expression sharpened, but the officer only nodded as if Brooke had supplied evidence for his point.
 
-"Then everybody probably needs a quiet night."
-
-"That's it?"
-
 "Do you need medical help?"
 
 "No."
 
-"Is anybody threatening you?"
-
 Claire stood close enough that her shoulder pressed Brooke's. She looked small and tearful and harmless. "I just don't want to walk alone."
-
-The officer smiled at her. "That's understandable."
 
 Brooke considered showing him the photograph of the broken handle. It would prove a door had broken. It would not prove why.
 
 "Walk home with your sister," he said. "Give your mom one less thing to worry about."
 
-Claire released the backpack as soon as they were a block away. She did not need the strap anymore. She had been given Brooke's company by an adult wearing a badge.
+Claire released the backpack when they were a block away. An adult wearing a badge had given her Brooke's company.
 
 "You didn't have to tell him about the bathroom," Claire said.
 
 "You didn't have to break it."
 
-"I was sorry."
+"My hand hurt."
 
-"You didn't say it."
-
-Claire thought about that. "I was bleeding."
-
-Brooke turned toward her. "Is that what sorry means now?"
+"That isn't an apology."
 
 Claire did not answer. They walked the rest of the way with only an arm's length between them. It was more distance than Claire wanted and less than Brooke needed, which was beginning to feel like the only kind of compromise left.
 
@@ -360,7 +328,7 @@ Her ten-year-old handwriting leaned hard to the right.
 
 *Claire buried me and said I had to stay forever. I let her because she looked so happy. We put all the shells back after.*
 
-Brooke read it twice. The memory in the journal was simpler than the video and simpler than what had happened in the library. Claire had always wanted her to stay. Claire had always held on too long when she was afraid. The thing inside that familiarity had not invented those impulses. It had taken them seriously.
+Brooke read it twice. The memory in the journal was simpler than the video and simpler than what had happened in the library. Claire had wanted her to stay then too. That did not tell Brooke what the wanting meant now.
 
 She returned the journal to the drawer and opened her list.
 
@@ -388,4 +356,4 @@ Brooke looked at the little girl frozen in the sand and then at the girl in the 
 
 "From the chair," she said.
 
-Claire accepted the boundary. For that night, at least, she sat where Brooke told her and watched herself rebuild the same collapsing wall until Mark lowered the camera.
+For that night, Claire sat where Brooke told her and watched until Mark lowered the camera.

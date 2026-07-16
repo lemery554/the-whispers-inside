@@ -43,9 +43,7 @@ Brooke took a screenshot.
 
 Sarah vomited again.
 
-The next twelve hours reduced the house to water, towels, temperatures, and the distance between rooms.
-
-Brooke made a station on the bathroom counter: thermometer, clean washcloths, electrolyte packets, acetaminophen, a notebook with times and amounts. Sarah could keep down a tablespoon of water if Brooke waited ten minutes between each one. Any more came back up.
+The next twelve hours reduced the house to water, temperatures, and the distance between rooms. Brooke kept the thermometer and electrolyte packets on the bathroom counter and wrote down enough to know when the numbers changed.
 
 Claire followed Brooke through every task.
 
@@ -131,17 +129,9 @@ Sarah moved her hand beneath the towel. Her fingers found Brooke's wrist and res
 
 Brooke lowered her forehead to the edge of the mattress.
 
-By morning, the symptoms shifted. The vomiting slowed. The diarrhea did not. Sarah became confused about where Mark was and asked twice why Claire was not at school. Sunlight through the blinds made her turn her face toward the wall.
+By morning, the symptoms shifted. The vomiting slowed. Sarah became confused about where Mark was and asked twice why Claire was not at school. Sunlight through the blinds made her turn her face toward the wall.
 
-Claire ate breakfast on the bedroom floor. Cold spinach from the previous night's untouched salad, rolled into little folds between her fingers.
-
-"That's Mom's," Brooke said.
-
-"She doesn't want it."
-
-"Nobody wants cold spinach at eight in the morning."
-
-Claire ate another piece. "I do."
+Claire sat on the bedroom floor with a book open in her lap. She had not turned a page.
 
 Brooke checked Sarah's pulse and wrote the number down. When she looked up, Claire was watching her, not Sarah.
 
@@ -197,16 +187,7 @@ The second time, something in Sarah's voice reached her. Claire released the fab
 
 Then Sarah leaned over the toilet and the moment ended.
 
-Brooke changed the sweat-soaked sheets while Claire remained in the bathroom. She found Sarah's phone beneath the pillow with six missed calls from work and a news alert on the screen.
-
-> LOCAL HOSPITALS REPORT HIGH RECOVERY RATE  
-> Officials ask families to reduce unnecessary emergency visits and provide supportive care at home.
-
-The article included a photograph of a hospital lobby. People sat shoulder to shoulder along every wall. Near the back, two women in identical paper masks held each other with both arms, their foreheads pressed together.
-
-Brooke locked the phone and returned it to the nightstand.
-
-At ten, Sarah was able to drink half a cup of electrolyte solution. At noon, the fever began falling. The relief was so physical that Brooke had to sit on the bathroom floor before her legs did it for her.
+Brooke changed the sweat-soaked sheets while Claire remained in the bathroom. By noon, Sarah's fever began falling. The relief was so physical that Brooke had to sit on the bathroom floor before her legs did it for her.
 
 She had been awake for more than twenty-seven hours.
 
@@ -238,7 +219,7 @@ She was not looking at Sarah. She was looking at Brooke.
 
 Brooke pushed herself upright. "Why didn't you wake me?"
 
-"You were tired."
+"You needed to sleep."
 
 "I had to check Mom."
 
@@ -262,9 +243,7 @@ Claire glanced at the indentation beside Brooke. "Here."
 
 "You kept moving in your sleep."
 
-Sarah stirred. Claire turned toward her at last.
-
-The movement was small, but it changed the room. Sarah opened her eyes without confusion and looked first at Brooke, then Claire, then the dark window.
+Sarah stirred. Claire turned toward her at last. Sarah opened her eyes without confusion and looked first at Brooke, then Claire, then the dark window.
 
 "What time is it?" she asked.
 
@@ -306,16 +285,6 @@ Sarah kissed the top of her head. "We're all right."
 
 Cooper stood in the doorway, watching.
 
-Sarah saw him.
+Sarah saw him and patted the mattress.
 
-"Come here, Coop."
-
-The dog remained where he was.
-
-Sarah clicked her tongue and patted the mattress. Cooper's ears shifted toward the sound, but his paws did not move.
-
-"He's tired," Brooke said.
-
-Sarah continued to look at him. Her arms stayed around both girls.
-
-"We all are," she said.
+Cooper did not enter.

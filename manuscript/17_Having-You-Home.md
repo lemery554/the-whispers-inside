@@ -6,8 +6,6 @@ The next morning, Sarah made pancakes.
 
 Brooke woke to the smell of butter and the sound of the kitchen cabinet that never closed correctly. For several seconds she lay still, listening to Sarah move through the downstairs rooms, and the house sounded restored. A plate touched the counter. The kettle clicked off. Claire laughed at something too quiet for Brooke to hear.
 
-Normal life had returned before Brooke was ready to trust it.
-
 She found Sarah at the stove in clean pajamas with her damp hair combed behind her ears. The mixing bowl from the night before had been washed and returned to the cupboard. The towels were already in the machine. Even the broken bathroom handle had disappeared from the counter.
 
 "Sit," Sarah said. "You look terrible."
@@ -20,17 +18,7 @@ She found Sarah at the stove in clean pajamas with her damp hair combed behind h
 
 "Exactly."
 
-Sarah slid a pancake onto Brooke's plate. It was too dark around the edge, the way Sarah always made the first one. Claire had already eaten half of hers and was spreading spinach across the other half.
-
-Brooke stopped beside the table. "What are you doing?"
-
-"It's good."
-
-"It absolutely isn't."
-
-Claire folded the pancake and bit into it. Syrup ran over the spinach.
-
-Sarah laughed. "At least she's eating vegetables."
+Sarah slid a pancake onto Brooke's plate. It was too dark around the edge, the way Sarah always made the first one.
 
 Brooke looked at Cooper. He sat beside the back door rather than beneath Sarah's chair. When Sarah tore off a corner of pancake and offered it, he lowered his head.
 
@@ -52,7 +40,7 @@ Nothing in her behavior was impossible.
 
 That became the problem.
 
-Sarah spent the rest of the morning repairing the evidence of her illness. She stripped the towels from the bathroom floor, disinfected the sink, opened windows, and made a grocery list. When Brooke offered to help, Sarah told her to sit down. When Brooke remained standing, Sarah put a hand on her shoulder and guided her toward the table.
+For the next hour, Sarah repaired the evidence of her illness. She stripped the towels from the bathroom floor, disinfected the sink, opened windows, and made a grocery list. When Brooke offered to help, Sarah told her to sit down. When Brooke remained standing, Sarah put a hand on her shoulder and guided her toward the table.
 
 The pressure was gentle. Brooke went where it directed her.
 
@@ -74,20 +62,6 @@ Sarah smiled. "That was a joke."
 
 The delivery was right. The timing was wrong by only enough to make Brooke wonder whether she was inventing the distance.
 
-At the front window, Mrs. Alvarez from across the street stood on the sidewalk with her adult son. Brooke had seen an ambulance at their house three nights earlier. Now the son held his mother against his chest while she tried to reach her mailbox. He kissed her hair. She said something Brooke could not hear and pushed once at his arms.
-
-A patrol car slowed beside them.
-
-The officer lowered his window. Mrs. Alvarez stopped struggling. Her son raised one hand in greeting while keeping the other arm around her. After a brief conversation, the cruiser continued down Hawthorn Road.
-
-"Everything okay?" Sarah asked.
-
-Brooke stepped away from the curtain. "I don't know."
-
-"Then don't stare."
-
-Sarah closed the curtain.
-
 At nine, Sarah emailed the school to say both girls would remain home another day.
 
 "I can go," Brooke said.
@@ -106,10 +80,6 @@ The phrasing struck the same place as the workshop argument. Safety presented af
 
 "You could've talked to me first."
 
-"About missing one day?"
-
-"That's what you said about the workshop."
-
 Sarah's face changed, not into anger exactly. Hurt arrived first. "You filmed yourself telling thousands of strangers that you want another mother while I was sick downstairs."
 
 "That is not what I said."
@@ -122,7 +92,7 @@ Sarah's face changed, not into anger exactly. Hurt arrived first. "You filmed yo
 
 It was nearly the same sentence Sarah had used before the purge.
 
-Brooke felt relief before suspicion. A changed person who remembered the argument would remember the wound. A sick person who recovered would too. There was no clean way to interpret continuity.
+There was no clean way to interpret the fact that Sarah remembered exactly where to hurt.
 
 Sarah closed the laptop. "I am glad you're home."
 
@@ -158,29 +128,15 @@ Brooke looked at Claire. Her sister sat in the desk chair but did not roll it cl
 
 "Did she say anything to you while I was asleep?" Brooke asked.
 
-"Who?"
-
-"Mom."
-
 "She was asleep too."
 
 "This morning."
 
-Claire thought. "She said everything feels clean."
-
-"What does that mean?"
-
-"I don't know."
-
-"Did she say anything about whispers?"
-
-Claire's expression emptied. "What whispers?"
-
-Brooke did not answer.
+Claire shook her head.
 
 At eleven, the local station ran a segment from Saint Vincent's.
 
-The emergency department looked cleaner than it had in Brooke's footage. The camera avoided the hallway where patients had vomited the red medicine and stayed close on a hospital administrator in a pale blue suit.
+The camera stayed close on a hospital administrator in a pale blue suit.
 
 "Our recovery numbers are encouraging," the administrator said. "The most important thing families can provide is a calm, supportive home environment. Recovered individuals may experience distress when isolated unnecessarily."
 
@@ -188,7 +144,7 @@ A banner beneath her read:
 
 > FAMILIES HEAL TOGETHER
 
-The anchor smiled. "A good reminder that compassion is part of recovery."
+The anchor identified the message as new state health-department guidance. "A good reminder that compassion is part of recovery."
 
 Sarah stood in the living room with a basket of folded laundry against her hip. "See?"
 
@@ -200,13 +156,7 @@ Brooke looked away from the television. "See what?"
 
 "She panicked."
 
-"And you?"
-
-Sarah's smile remained, but the warmth left it. "What about me?"
-
-"Are you distressed when you're isolated unnecessarily?"
-
-Claire appeared behind Sarah and took the basket from her. For a moment they stood shoulder to shoulder, both looking at Brooke.
+Claire appeared behind Sarah and took the basket from her.
 
 "I'm tired of being examined," Sarah said. "I was sick. I got better. Your sister was sick. She got better. You could let that be good news."
 
@@ -246,7 +196,7 @@ Sarah's expression softened. "You don't have to be afraid of me."
 
 For a moment Brooke thought Sarah might cross the room and search the bed. Instead she stayed at the doorway.
 
-"Your dad said he'd call at seven," Sarah said. "Maybe we can all eat together while he's on."
+"Your dad said seven if they get clear," Sarah said. "Maybe we can all eat together while he's on."
 
 "Did he answer you?"
 
@@ -262,13 +212,13 @@ Mark's message had arrived at 6:08 that morning.
 
 It sounded more like him than the last one. Brooke held on to that. The conditional promise was irritatingly normal. Seven if. Tomorrow if. Home when.
 
-"He'll call," Sarah said.
+"He might call," Sarah said.
 
 At seven, they set Mark's place at the table and propped Sarah's phone against the salt shaker.
 
 At seven fifteen, the screen remained dark.
 
-At seven thirty, Sarah served the food anyway. Claire ate beets without complaint. Cooper stayed beneath Brooke's chair.
+At seven thirty, Sarah served the food anyway. Cooper stayed beneath Brooke's chair.
 
 At eight, Sarah texted Mark once.
 

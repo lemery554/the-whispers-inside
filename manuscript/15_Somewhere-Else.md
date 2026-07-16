@@ -10,9 +10,7 @@ The fourth upload had twelve thousand views. The number rose each time she refre
 
 *My daughter stands beside the bed all night. She says she's checking that I'm there.*
 
-*Do not tell them you're leaving until you're already outside. Mine cried for an hour and then broke the laundry-room door.*
-
-Brooke copied the comments into a document before they could disappear. Some vanished while she worked. The space beneath the upload would jump, reorder, and return with the most reassuring replies moved to the top.
+Brooke copied the most specific comments into a document. A medical-information label appeared beneath the video, and several reports disappeared after other users marked them as dangerous advice. The default ranking kept the most reassuring replies near the top.
 
 *Recovered people need patience, not suspicion.*
 
@@ -20,21 +18,15 @@ Brooke copied the comments into a document before they could disappear. Some van
 
 *Maybe hug your sister instead of filming her.*
 
-Brooke sorted by newest. The option reset itself.
-
 Claire slept in Brooke's desk chair with her knees pulled under Brooke's flannel. She had come in before dawn and asked permission from the doorway. Brooke had said yes because being asked felt so much like improvement that she had mistaken it for safety.
 
 Cooper lay beneath the desk. His eyes remained open.
 
 Downstairs, a cabinet closed. Then another. Sarah had been moving around the kitchen since five, cleaning with the furious quiet she used when she did not want anyone to ask if she was upset.
 
-Brooke saved screenshots of the most specific reports. She made columns for dogs, sleep, doors, food, and what happened when someone tried to leave. The comments did not produce rules. They produced repetition, which was more useful and more frightening.
+Brooke saved screenshots of the most specific reports. She made columns for dogs, sleep, doors, and what happened when someone tried to leave. The comments did not produce rules. They produced repetition, which was more useful and more frightening.
 
-A direct message arrived from a nursing assistant in Ohio.
-
-*I can't use my name. People come in sick and leave better. Then they come back with family members who tried to isolate. Administration calls it reunion support. Security won't remove them anymore.*
-
-Brooke read it twice. When she clicked the account, it was gone.
+A direct message from a nursing assistant said discharge staff had begun calling family proximity "recovery support." Brooke saved it with the others.
 
 She looked toward Claire. Her sister's head rested against the chair back at an angle that would hurt when she woke. The bandage on her hand was clean. In sleep, her face looked younger and less arranged.
 
@@ -146,27 +138,27 @@ Brooke did not use an intro.
 
 "This isn't just here," she said. "I thought it might be. I thought maybe I was taking things my sister did and connecting them because I was scared. But people keep sending me the same details from places I've never been."
 
-She explained the dogs first. Then the watching, the changed food preferences, and the way recovered people reacted to closed doors or plans to leave. She did not call them rules. She did not tell anyone that touch spread anything, because she did not know. She repeated that twice.
+She explained the dogs first, then the watching and the way recovered people reacted to closed doors or plans to leave. She did not call them rules or claim touch spread anything.
 
 "If someone in your house got sick and now they won't let you be alone, write down what happens. Save it somewhere they can't delete. Record dates. Record what they used to do, too. Old video matters because memory changes when you're afraid."
 
 She paused. In the hall, Claire watched without blinking.
 
-"And don't assume wanting someone close means they're safe. That's hard to say without sounding cruel. I know."
+"And wanting someone close doesn't make them safe. I know how that sounds."
 
 Brooke had planned to stop there. The recording light remained steady.
 
-"I know what it is to want somebody to come looking for you," she said. "I'm adopted. I have a mom. I love my mom. Those things don't cancel out the fact that I've spent most of my life wondering why the person who had me never came back."
+"I'm adopted," she said. "I have a mom. I love her. I still wonder why the person who had me never came back."
 
 Downstairs, a chair scraped.
 
 Brooke continued before she could reconsider.
 
-"Sometimes you want an answer badly enough that any answer starts to feel like kindness. Sometimes you want to be found so badly you tell strangers exactly where to look. I'm probably doing that right now."
+"Sometimes you want to be found so badly you tell strangers exactly where to look." Brooke glanced away from the lens. "Which is probably what I'm doing."
 
 Claire's expression changed at *real mom*, a small tightening around her mouth.
 
-"What I'm saying is, being understood isn't proof. Somebody needing you isn't proof. What happened before still matters. Keep the old messages. Keep the old videos. If something feels wrong, don't let somebody else feeling hurt make you pretend it isn't."
+"Keep old messages and old videos. If something feels wrong, write down why before somebody talks you out of it."
 
 Brooke ended the recording.
 
@@ -180,7 +172,7 @@ For several seconds, nobody moved.
 
 "That isn't what I said."
 
-"It's what she hears."
+"She heard the other part."
 
 The observation sounded too precise. Brooke looked toward the stairs.
 
@@ -216,15 +208,11 @@ Her phone rang in the kitchen. The sound continued until voicemail took it, then
 
 On Brooke's laptop upstairs, the fifth upload finished processing.
 
-By the time Sarah could lift her head, it had six thousand views.
-
-By noon, it had twenty-three thousand.
+By noon, it had more than twenty thousand views.
 
 Comments arrived faster than Brooke could read them.
 
 *This happened to my mother.*
-
-*This happened to my son.*
 
 *This happened somewhere else.*
 
@@ -254,7 +242,7 @@ Brooke looked at Claire. She sat in the hall with her back against the wall, clo
 
 Brooke almost said Mark. "Not one who can get here."
 
-The supervisor promised to email resources. The email arrived before the call ended. Its first paragraph concerned paid sick leave. The second included a link titled *Supporting Recovered Family Members at Home*.
+The supervisor promised to email resources. Its first paragraph concerned paid sick leave. The second linked to state health-department guidance titled *Supporting Recovered Family Members at Home*. The same wording had already reached the hospital, the school, and now Sarah's job through ordinary channels.
 
 Sarah began vomiting again.
 
@@ -290,29 +278,9 @@ Sarah looked at Brooke as though the distinction required more concentration tha
 
 Brooke called. Voicemail answered without ringing.
 
-While Sarah slept in brief, shivering stretches, Brooke returned to the upload. Forty-one thousand views. Hundreds of direct messages. She chose three to answer and felt responsible for every one she skipped.
+While Sarah slept in brief, shivering stretches, Brooke checked the upload once. Hundreds of messages waited. One asked for an interview. Another called her a liar and included the name of her school.
 
-A sixteen-year-old in Pennsylvania wrote that his recovered father had removed the bedroom doors because privacy was making the family ill. A woman in Maine said her wife stood in the driveway whenever she left for work and remained there until she returned. A college student claimed his roommate whispered instructions in an empty kitchen, but the attached audio contained only a refrigerator hum and a sound that might have been breathing.
-
-Brooke typed:
-
-*Get somewhere with a lock.*
-
-She deleted it. The bathroom lock had not helped.
-
-*Tell an adult you trust.*
-
-She deleted that too. Sarah's supervisor and the officer outside school had both repeated the same advice about staying near family.
-
-Finally she wrote:
-
-*Save what happened. Don't announce that you're leaving. I don't know what else is safe.*
-
-The reply came almost immediately.
-
-*Thank you for believing me.*
-
-Brooke closed the message. She had wanted the same thing for days. Now that strangers were giving it to her, belief felt less like rescue than a weight being transferred.
+She closed the page. Belief felt less like rescue than a weight being transferred.
 
 At six, Claire appeared in the bathroom doorway holding a glass of water.
 

@@ -262,7 +262,7 @@
 - **Tension:** 6/10
 - **Found media:** Mark text and hospital guidance.
 - **Estimated words:** 2,900
-- **Continuity:** Sarah's purge completes within established duration.
+- **Continuity:** Sarah's purge completes within the established duration. She is fully changed when she wakes clear-headed at 2:16, though Brooke cannot identify the threshold.
 - **Question answered / created:** Can Brooke protect both of them? / What version of Sarah will wake?
 
 ## Chapter 17: Having You Home
@@ -275,9 +275,9 @@
 - **Hidden clues / payoff:** Sarah checks Brooke's breathing; Mark misses his promised call.
 - **Character movement:** Brooke hides evidence from Sarah for the first time.
 - **Tension:** 5/10
-- **Found media:** Missing call notification and altered broadcast.
+- **Found media:** Missing conditional-call notification and a local broadcast repeating state health-department guidance.
 - **Estimated words:** 2,700
-- **Continuity:** Sarah remains competent, loving, and functional.
+- **Continuity:** Sarah is fully changed throughout the chapter while remaining competent, loving, and functional. Brooke's hidden audio is stored under `chemistry` and copied to the camera memory card.
 - **Question answered / created:** Did Sarah change too? / Can Brooke investigate inside a watched home?
 
 ## Chapter 18: Recovered Individuals
@@ -287,7 +287,7 @@
 - **Emotional goal:** Suspicion to strategic secrecy.
 - **Conflict:** Sarah restricts Brooke's movement while news and school validate her.
 - **Reveal:** Different institutions use the same reunion language.
-- **Hidden clues / payoff:** Upload 6 gives Anna the emotional blueprint; old keypad footage enters the public archive Anna studies off-page.
+- **Hidden clues / payoff:** Upload 6 extends Anna's emotional blueprint; old keypad footage enters the public archive Anna studies off-page. Interview requests, harassment, account moderation, and school recognition pay off Upload 5's viral scale.
 - **Character movement:** Brooke begins planning rather than arguing.
 - **Tension:** 5/10
 - **Found media:** Upload 6, news montage, school message.

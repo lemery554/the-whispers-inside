@@ -4,6 +4,7 @@ All notable project-development changes are recorded here.
 
 ## 2026-07-16
 
+- Implemented the Batch 4 developmental edit across Chapters 14 through 17: tightened all four chapters, reduced repeated food and illness beats, preserved uncertainty around Claire and Mark, grounded platform moderation and institutional language in ordinary systems, roughened Brooke's adoption upload, added consequences for virality, and locked Sarah as fully changed when she wakes at 2:16 on Day 15.
 - Drafted Batch 4, Chapters 14 through 17: Claire's beach-memory breakthrough, Brooke's upload network and adoption disclosure, Sarah's purge, Brooke's caretaker ordeal, Mark's degrading contact, and Sarah's believable but controlling recovery.
 
 - Implemented the Batch 3 developmental edit across Chapters 10–13: removed hindsight narration, reduced Brooke's certainty about memory and Mark's call, redesigned Chapter 11 around one nonreproducible eye frame and ambiguous audio, made Anna's first encounter more ordinary, grounded the school's sign-out procedure, gave Sarah a visible crack of fear, and tightened the bathroom-scene aftermath.
