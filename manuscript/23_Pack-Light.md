@@ -46,6 +46,10 @@ Anna replied:
 
 *Someone who watched every second you asked people to watch.*
 
+A second message arrived a minute later.
+
+*That sounded less strange before I sent it. I mean your public videos.*
+
 True, if she meant the videos. Intimate anyway.
 
 Brooke asked why the diner.
@@ -76,9 +80,7 @@ He whined.
 
 "I'm checking."
 
-She leaned out far enough to see the porch edge and the maple tree beyond it. From the roof she could lower herself onto the porch railing, then drop into the flower bed. Cooper could not follow that way without help.
-
-For the final escape, the garage roof over the rear addition was lower. Her bedroom window opened above it, and the slope ended near the wooden trellis. Brooke had never climbed it, but she studied the route until she could picture each movement.
+She leaned out far enough to see the porch edge and the maple tree beyond it. The garage roof over the rear addition was lower, and its slope ended near the wooden trellis. Cooper could not follow either route without help.
 
 A metallic scrape sounded beneath her.
 
@@ -90,7 +92,7 @@ Mark's gun safe.
 
 Brooke stepped back inside.
 
-Sarah appeared in the driveway below carrying a box of old installer paperwork from the garage. She set it on the hood of the car and began sorting.
+Sarah appeared in the driveway below carrying a box of old installer paperwork from the garage. She set it on the hood of the car and began sorting. Beyond her, the safe remained bolted beside the file cabinet, exactly where Mark had installed it.
 
 The sound had been the metal file cabinet beside the safe, not the safe itself.
 
@@ -110,6 +112,8 @@ His ears lifted.
 
 She stopped recording.
 
+Then she watched the clip once, understood that it was a map for anyone who found the camera, and deleted it. She emptied the camera's trash folder too. The route would have to stay in her head.
+
 At three, Sarah returned the tiny brass key.
 
 She placed it on Brooke's dresser. "I shouldn't have taken this."
@@ -122,9 +126,9 @@ Brooke looked from the key to her mother. "Why are you giving it back?"
 
 "It is the answer."
 
-Sarah remained by the doorway, not entering farther. She had learned the shape of safety Brooke wanted and was building it around the room one careful piece at a time.
+Sarah remained by the doorway, not entering farther. Her apology looked sincere. It was also useful. Both things could be true.
 
-"The keypad company is sending someone Monday," Sarah said.
+"The keypad company is sending someone Monday morning," Sarah said.
 
 It was Friday.
 
@@ -152,9 +156,9 @@ She did not send it. If Mark had changed, the message told him she planned to le
 
 She saved it as a draft.
 
-At dinner Sarah served roasted vegetables over rice. Claire ate the squash first, though she used to pick it out. Nobody commented.
+At dinner Sarah served roasted vegetables over rice.
 
-The news played quietly from the living room. A banner advised residents to remain with household members through the weekend because temporary service disruptions could delay transportation and emergency response.
+The news played quietly from the living room. A banner advised residents to remain with household members through the weekend because temporary service disruptions could delay transportation and emergency response. Ashcroft's emergency order also placed minors under an eleven o'clock curfew while staffing remained reduced.
 
 "Convenient," Brooke said.
 
@@ -162,11 +166,7 @@ Sarah put down her fork. "It is an advisory."
 
 "It tells everybody to stay home."
 
-"Most people are safest at home."
-
-"You don't know that."
-
-"Neither do you."
+"It says emergency response may be delayed."
 
 Claire looked between them. "We could watch the beach videos tonight."
 

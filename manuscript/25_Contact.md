@@ -2,324 +2,214 @@
 
 ## Contact
 
-The footsteps stayed behind Brooke for three blocks.
+The girl followed Brooke for two blocks before calling her name.
 
-They never hurried. That made it possible to pretend they were not following her.
+"Brooke, wait."
 
-Cooper did not pretend. He kept looking back, ears flat, body pulling toward the wooded side of the road. Brooke resisted the leash because cutting through the trees would take her away from porch lights and traffic.
+Brooke kept walking. Cooper looked back, ears flat.
 
-At the next intersection, the girl from the diner crossed to Brooke's side.
+"I just want to make sure you get home."
 
-"Your dog is scared," she said.
+"I don't need help."
 
-"He's fine."
+"Your family reported you missing."
 
-"I can help."
+That explained the recognition without making it less frightening. Brooke took out her phone. The audio from the diner had saved. She started a new video and held the camera low, catching the sidewalk and Cooper's moving legs.
 
-"No."
+"I'm on Birch heading toward Weller," she said. "A girl from the diner is following me after I told her to stop."
 
-The girl stopped. The others did not.
+"You don't have to make me sound bad," the girl said.
 
-Brooke walked faster.
+Brooke crossed the road. The girl crossed too.
 
-The town alert remained on her screen. Beneath it, Sarah had sent six messages.
-
-*Where are you?*
-
-*The door opened.*
-
-*Please answer me.*
-
-*Claire is frightened.*
-
-*You do not have to be in trouble.*
-
-*Come home.*
-
-Every message was true. Brooke put the phone in her pocket.
-
-The man in the gray coat called, "She wants to go home."
-
-Brooke turned. "You don't know me."
-
-"You checked your phone."
-
-The waitress held out one hand. "We can take you."
-
-"Don't touch me."
-
-"Nobody wants to frighten you."
-
-They kept coming.
-
-Cooper barked. The sound cracked through the quiet street and brought a porch light on. An older man opened his front door.
+A sedan slowed beside them. The driver rolled down her window.
 
 "Everything okay?"
 
-"Call the police," Brooke said.
+"She needs to get home," the girl said.
 
-The waitress answered before he could. "She's separated from her family."
+"I am going home."
 
-The older man's concern softened. "You should get her inside."
+It was the first time Brooke had admitted the destination. Anna had offered a future Brooke wanted, then let her walk away alone. The house was dangerous, but it had water, chargers, the window route, and a mother whose need to have Brooke home might still make her open the door.
 
-Brooke stared at him.
+The driver looked at the dog, Brooke's backpack, and the phone recording. "Do you want a ride?"
 
-A woman appeared behind him and rested her chin on his shoulder. Their faces held the same patient interest.
+"No."
 
-The front door opened wider.
+"Her mother reported her missing," the girl said.
 
-"You can wait here," the man said.
-
-Cooper lunged backward so hard the leash burned Brooke's palm.
+The driver unlocked the doors. "Then I'll call the police."
 
 Brooke ran.
 
-The first few seconds were almost silent. Her backpack struck between her shoulders. Cooper's nails scraped pavement. Then the people behind her began to move faster.
+The girl followed for half a block, then stopped. She shouted that Brooke was heading toward Weller. The sedan remained at the curb while its driver made the call.
 
-"Wait," someone called.
+By the time Brooke reached the gas station, nobody was directly behind her. She went inside because Cooper was panting and her phone battery had dropped below twenty percent.
 
-"You'll get hurt."
+Two employees stood behind the counter. The younger one, a woman with a silver nose ring and MAYA on her name tag, was restocking cigarettes. The other came around the counter when Brooke asked to use an outlet.
 
-"We only want to help."
+"You okay?" he asked. His tag said DEVON.
 
-Brooke cut between two houses. A motion light flooded the side yard. She jumped a low chain fence and nearly fell when Cooper hesitated. She lifted him by the harness long enough to get his front legs over, then dragged the rest of him through.
+"I need to charge my phone and get water for my dog."
 
-The girl from the diner climbed the fence without protecting her hands. Metal tore her palm. She looked at the blood once and continued.
+Maya looked at Cooper. "There's a bowl in the stockroom."
 
-Brooke reached the next street and turned toward the commercial corridor. Cars still moved there. A gas station glowed at the corner. Two employees stood behind the counter.
+Before Brooke could thank her, the girl from the diner appeared outside with the sedan driver. They had not tracked Brooke through the dark. They had driven the obvious road after she was seen running toward Weller.
 
-She ran inside.
+"That's her," the driver said through the glass.
 
-"Lock the door," she said.
+Brooke moved away from the window. "Don't let them in."
 
-One employee looked past her at the people crossing the lot. "What's happening?"
-
-"They're following me."
-
-The second employee came around the counter. His name tag said DEVON. "Do you know them?"
+Devon looked from her to the people outside. "Do you know them?"
 
 "No."
 
-"Did they threaten you?"
+The driver entered first. "Her mother reported her missing. Police are looking for her."
 
-"They're trying to grab me."
+"I am not in danger from being outside," Brooke said. "I am in danger from people trying to return me."
 
-The waitress entered first. She was breathing hard but smiling.
+Maya stopped restocking.
 
-"She got scared," she said.
+The girl entered behind the driver. "She thinks everyone is against her."
 
-Devon nodded as if that completed a form. "Okay. Everybody slow down."
+"You followed me."
 
-"Call the police," Brooke said.
+"Because you were alone."
 
-"We can do that."
+Devon nodded slowly. "Okay. Everybody calm down."
 
-He did not move toward the phone.
+Brooke set her phone against a display and kept recording. "I'm at the SunMart on Weller Road. I told both of them not to follow me."
 
-The girl came in behind the waitress, bleeding onto the tile.
+"You can record," Devon said. "That's fine."
 
-"Your hand," Devon said.
+He moved between Brooke and the entrance, not threatening her, only making the exit less available.
 
-"It doesn't matter."
+"Call the police," the driver said.
 
-She looked only at Brooke.
+"Don't," Brooke said.
 
-Cooper backed into a display of windshield fluid. Plastic bottles toppled.
+Devon reached for the store phone.
 
-The first employee moved toward the entrance and turned the dead bolt.
+Maya came around the counter with a plastic bowl and set it near Cooper. "Stockroom outlet works faster," she said.
 
-For one relieved second Brooke thought he had locked the others out.
+Brooke looked at her.
 
-Then he stood in front of the door.
+Maya's face gave nothing away. "Back wall."
 
-"Nobody needs to leave upset," he said.
+Brooke took the phone and Cooper's leash. Devon was explaining the situation to dispatch while the girl watched Brooke cross the store.
 
-Brooke took out her phone and started recording.
+In the stockroom, Maya plugged Brooke's charger into an outlet beside the delivery schedule.
 
-"I'm at the SunMart on Weller Road," she said to the camera. "People I don't know followed me here. The employees locked the door."
+"The rear door alarms," she whispered. "It still opens."
 
-Devon raised both hands. "You can record. That's okay."
+"Why are you helping me?"
 
-The permission frightened her more than anger would have.
+"Because you said no."
 
-"Move away from the door."
+It was the first uncomplicated answer Brooke had heard in days.
 
-"You are shaking."
+Maya filled a bottle from the utility sink and gave it to her. "Go when I drop the cartons."
 
-"Move."
+"They'll ask which way."
 
-"Let somebody hold the dog while you calm down."
+"I'll tell them the road."
 
-The girl crouched.
+Brooke's phone reached twenty-two percent before a stack of flattened boxes crashed in the store. Devon swore. The girl turned toward the sound.
 
-Cooper snapped at the air before her fingers reached his harness. She pulled back, not angry, and looked at Brooke.
+Brooke pushed through the rear door with Cooper. The alarm screamed.
 
-"He'll let me if you do."
+She ran along the service alley toward the drainage path. Her phone continued recording for another seventeen seconds before she stopped it and confirmed the file had saved locally.
 
-Brooke threw the nearest bottle.
+Only then did she realize the backpack was gone.
 
-It struck the counter beside Devon and burst, blue fluid washing across the floor. Everyone flinched except the girl.
+She had left it beside the outlet near the front counter. The camera, external drive, cash, photographs of the letter, and Mark's flashlight were inside.
 
-Brooke ran toward the stockroom.
+Brooke almost went back.
 
-Devon caught the backpack. The strap pulled tight across Brooke's throat. She twisted out of one shoulder, leaving the bag in his hand, and slammed through the swinging door.
-
-Shelves narrowed the room into two aisles. Cardboard boxes reached almost to the ceiling. A delivery exit glowed red at the back.
-
-Brooke hit the push bar.
-
-An alarm began to scream.
-
-Cold air struck her face. Cooper shot through after her.
-
-Behind them, Devon shouted, "Don't let her go alone."
-
-Brooke ran into the service alley and turned toward the woods.
-
-Her backpack was gone.
-
-The camera was inside it. The external drive. Clothes. Cash. Mark's flashlight. The photographs of the letter.
-
-Her phone was still recording in her hand.
-
-She almost turned back.
-
-Then the rear door opened and the girl stepped into the alley with Brooke's backpack held against her chest.
+The rear door opened. The girl from the diner stepped into the alley holding the backpack against her chest. Blood marked one palm where she had caught it on the door hardware.
 
 "You forgot this."
 
-She offered it as though Brooke had left a sweater at school.
-
-Blood ran from her palm down the canvas.
+She held it out.
 
 "Put it down."
 
-"Come get it."
+"I brought it to you."
 
-"Put it down and back away."
+"Put it down and go inside."
 
-The girl looked confused. "I brought it to you."
+The girl looked hurt. "I'm helping."
 
-The others emerged behind her.
+Maya appeared behind her. "She said put it down."
 
-Brooke backed toward the tree line.
+For a moment neither moved. Then the girl placed the backpack on the pavement, keeping it out of a puddle.
 
-"You don't know me," she said.
+Brooke retrieved it after both women went inside. Nothing was missing.
 
-"We can."
+They did not want her camera or money. They wanted to return her to the people who loved her and could not understand why that might be worse.
 
-The answer came from the waitress.
+Brooke followed the drainage path toward the back road. She stopped recording to preserve the battery and zipped the phone into her coat. The diner audio and gas-station video remained on the device.
 
-The group spread without speaking. One moved toward the road. Another angled between Brooke and the gas station. They did not need visible coordination to understand that she was trying to escape.
+A police cruiser found her forty minutes later.
 
-Brooke ran into the woods.
+It approached without a siren and stopped far enough away that Cooper did not lunge. The officer remained beside the open driver's door.
 
-Branches struck her face. Cooper pulled ahead, choosing gaps she could barely see. The phone flashlight bounced over wet leaves and old stone walls. Behind her, the gas-station alarm faded, but voices continued through the trees.
+"Brooke Bennett?"
 
-"Brooke."
+Her face had been attached to the missing-minor bulletin since Sarah reported her. The town's emergency order kept minors off public streets after eleven because reduced staffing had slowed transport and response. None of the officer's knowledge required anything impossible.
 
-She nearly stopped.
+"Your mother wants you home," he said.
 
-None of them should have known her name.
+"Did she say I was in danger?"
 
-Then she remembered the recording. The videos. The news reposts. Her own face beneath her own name.
+"She said you left without permission and may be experiencing distress."
 
-"Your mother is looking for you."
+"I'm not getting in the car."
 
-"She is worried."
+"I haven't asked you to yet."
 
-"You can go home."
+That almost made him sound safe.
 
-The words came from different directions.
+The sedan driver pulled onto the shoulder behind the cruiser. She pointed through the windshield. "That's her."
 
-Brooke reached the back road and found a police cruiser idling at the shoulder.
+The officer glanced back. When he turned toward Brooke again, his patience had changed shape.
 
-Relief moved through her before thought could stop it.
-
-She ran toward the driver's window. "Help me."
-
-The officer lowered the glass. His face looked exhausted.
-
-"Are you Brooke Bennett?"
-
-She stopped several feet away.
-
-"Your mother reported you missing," he said.
-
-People moved among the trees behind her.
-
-"They're chasing me."
-
-The officer looked past her. "They appear concerned."
-
-"They tried to lock me in a store."
-
-"Get in the car. I'll take you home."
+"Let's make this easy."
 
 Cooper growled.
 
-The officer opened the rear door from inside.
+Brooke moved toward the wooded shoulder.
 
-"I don't want to go home."
+"If you run, you're going to get hurt."
 
-"You're a minor out after curfew during a public safety advisory."
+"Then don't chase me."
 
-"Am I under arrest?"
+The officer took one step.
 
-"No."
+Brooke ran.
 
-"Then I'm leaving."
+He did not follow far into the woods. She heard him call for another unit and give her direction of travel. That was enough. A porch light came on when she crossed the next yard. A man called that he had seen the missing girl. Later, a delivery driver slowed and asked whether she needed a ride home. None of them coordinated. Each received the same story and made the same reasonable choice.
 
-The officer got out.
+Brooke changed direction until she no longer knew which road she was paralleling.
 
-He did not reach for his weapon. He opened both hands, showing her how harmless they were.
+Near three in the morning, Cooper began to limp. Her phone showed six percent. The temperature had dropped, and every public place would recognize her as soon as someone checked the bulletin.
 
-"Your family needs you."
+She could not keep running toward nowhere.
 
-Brooke ran before he finished.
+Home had the charger. The rear window. Her room. Sarah, who might refuse to let her leave but could not bear to keep her outside. Brooke hated that she understood how to use that love.
 
-The cruiser door slammed. The engine revved. Blue lights spilled across the trees without a siren.
+She turned toward the Bennett development.
 
-She left the road again, cutting downhill through brush until the flashing light disappeared behind the ridge.
+The final mile took nearly an hour. She stayed behind fences and crossed the wooded strip instead of using the road. No group followed her. Once she saw blue lights pass at the far end of a street. Once a woman on a porch called, "Brooke?" and Brooke kept moving.
 
-Hours lost their edges. Brooke crossed yards, drainage ditches, and one shallow stream. Before sunrise she found an unlocked garden shed behind a vacant-looking house and pulled Cooper inside. They stayed between a lawn mower and stacked patio chairs while morning traffic started beyond the fence.
+Before dawn, the Bennett roof appeared through the trees.
 
-Brooke silenced her phone. Sarah called until the battery fell below ten percent. A police alert with Brooke's photograph appeared before noon, asking residents to help reunite a distressed minor with her family. The picture came from one of Brooke's own public videos.
-
-Once, footsteps crossed the yard. Cooper pressed his body to hers without making a sound. Someone tried the shed handle, waited, and moved on.
-
-Brooke remained there through the pale afternoon, too frightened to sleep and too tired to think. When darkness returned, she left by the rear fence and headed for the wooded strip behind the Bennett development.
-
-At an outdoor spigot, she gave Cooper water in his collapsible bowl and realized only after he finished that the bowl had been in the stolen backpack.
-
-It was not stolen anymore.
-
-The girl had left the bag at the edge of the woods.
-
-Brooke had found it hanging from a low branch by one strap, placed where she could not miss it. Nothing inside was gone.
-
-They did not want her things.
-
-They wanted her to stop running long enough to be held.
-
-Near the second dawn, Brooke reached the wooded strip behind the Bennett development. Her legs shook each time she stopped. Cooper limped slightly but kept moving.
-
-Her phone held four percent charge and twenty-three new messages from Sarah.
-
-The last one said:
+Her phone held twenty-three messages from Sarah. The last said:
 
 *The door is locked. Tell me when you are outside.*
 
 No promise that Sarah would open it.
 
-Behind Brooke, a branch broke.
+Cooper leaned against Brooke's leg. Somewhere behind them, a car door closed and a person called that they had seen someone in the woods.
 
-The girl from the diner stepped onto the path. Her palm was wrapped in a strip torn from her shirt. The waitress came behind her, then the man in the gray coat.
-
-They had followed her all night.
-
-The girl looked relieved.
-
-"There you are."
-
-Brooke turned toward home and ran.
+Brooke looked at the dark house and started toward it.

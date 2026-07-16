@@ -4,19 +4,15 @@
 
 By morning, Brooke's warning had become harder to find than the advice telling people to ignore it.
 
-Upload Six still existed. The platform had not removed it, but searching its exact title returned a health-department panel, three local news segments about recovery support, and a sponsored video called *Five Ways to Help Your Family Feel Close Again*. Brooke's upload appeared beneath them with a gray notice covering the thumbnail.
+Upload Six still existed. The platform had not removed it, but searching its exact title while logged out placed a health-department information panel above the results. Two local-news clips with nearly the same wording ranked ahead of Brooke's upload. Hers appeared fourth with a gray medical-context notice beneath the thumbnail.
 
-The comments had changed too. The frightened reports were still there if she sorted by oldest, but the top replies were calm, repetitive, and liked faster than any warning.
+The comments had changed too. The frightened reports were still there if she sorted by newest, but the default ranking favored calm replies from verified local accounts and comments linking to official guidance.
 
 *Do not isolate someone who loves you.*
 
 *Recovery can look different for every family.*
 
 *Brooke's mother is trying to keep her safe.*
-
-One account had replied to forty-three separate comments with the same sentence:
-
-*Go home before you frighten the people waiting for you.*
 
 Brooke took screenshots until her phone storage warning appeared. Then she opened the private observation file and read everything from the beginning.
 
@@ -30,7 +26,7 @@ Brooke took screenshots until her phone storage warning appeared. Then she opene
 
 *Closed doors make it worse.*
 
-*They use what they remember.*
+*They remember enough to use it.*
 
 The list looked embarrassingly small compared with what had happened. It did not explain the purge, the food, the reflective eyes, the words Claire might have whispered, or why different people wanted the same things. It did not explain why the hospital and school and news had started sounding like Sarah.
 
@@ -102,13 +98,7 @@ The next was a forum thread with most replies hidden for violating community sta
 
 *My husband says nobody came inside. The dog hid behind the washing machine. Our wedding album was on the kitchen table.*
 
-Beneath it, another person had replied:
-
-*My mother knew the garage code. She had been dead for two years.*
-
-That comment disappeared when Brooke refreshed.
-
-She saved the cached page as a PDF and tried to message WrenHollow. The account no longer existed.
+She saved the page as a PDF and tried to message WrenHollow. The account no longer existed.
 
 At noon Sarah made grilled cheese and tomato soup. She brought Brooke's plate upstairs instead of calling her down.
 
@@ -138,7 +128,7 @@ Sarah did. She did not look at the screen or ask what Brooke was doing.
 
 Sarah sat on the edge of the desk chair. Cooper moved from beneath it before she could touch him.
 
-"I locked the dead bolt," she said. "No one is coming in while we're here."
+"I locked the dead bolt," she said. "I put a chair under the back-door handle and turned on the window chimes. No one is coming in while we're here."
 
 "Someone came in while we weren't."
 
@@ -174,11 +164,17 @@ Brooke looked at her.
 
 Every word was precise enough to hurt.
 
-After Sarah left, Brooke locked the bedroom door and ate half the sandwich. She searched her email for the interview requests she had ignored, looking for one person who might believe her without turning her into a segment.
+After Sarah left, Brooke locked the bedroom door and ate half the sandwich. She opened a message to Claire.
+
+*I should not have searched your room after you told me no.*
+
+Brooke read the sentence twice. It was true and insufficient. She saved it as a draft instead of sending it.
+
+Then she searched her email for the interview requests she had ignored, looking for one person who might believe her without turning her into a segment.
 
 The unknown Connecticut number from two mornings earlier had left no voicemail. A new email waited in the public address attached to her channel.
 
-The sender's name was Anna Vale.
+The sender's name was Anna.
 
 The message contained four lines.
 
@@ -186,18 +182,14 @@ The message contained four lines.
 
 *You were right to be careful.*
 
-*I think I can answer the question you have been asking the longest.*
+*I think I may know something about the question you have been asking the longest.*
 
 *You decide whether we speak.*
 
 Below the signature was the name of a diner near the town green and a time the following evening. No demand. No promise. No request that Brooke come alone.
 
-Brooke searched Anna Vale and found nothing useful. The profile image attached to the email was blank.
-
-She read the message again.
-
-The question she had been asking the longest was not about Claire.
+Brooke searched the name Anna beside the email address and found nothing useful. The profile image attached to the message was blank. The question she had been asking the longest was not about Claire.
 
 Brooke moved the email to trash.
 
-Then she restored it, took a screenshot, and added the diner address to the list.
+Then she restored it and took a screenshot.

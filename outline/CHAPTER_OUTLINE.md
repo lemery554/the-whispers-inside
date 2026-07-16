@@ -346,8 +346,8 @@
 - **Purpose / setting:** Consolidate Brooke's rules before the home becomes a prison.
 - **Emotional goal:** Confusion to grim clarity.
 - **Conflict:** Brooke searches for the journal while hiding her observation list.
-- **Reveal:** Online warnings are being buried beneath soothing content.
-- **Hidden clues / payoff:** Cooper avoids Sarah; Brooke records that direct pursuit makes her run.
+- **Reveal:** Default search and comment ranking favors official recovery guidance while frightened reports remain accessible through deliberate sorting and archiving.
+- **Hidden clues / payoff:** Cooper avoids Sarah; Brooke records that direct pursuit makes her run; Sarah adds temporary door and window measures while the keypad reset waits for Monday service.
 - **Character movement:** Brooke accepts that truth may not persuade anyone in authority.
 - **Tension:** 5/10
 - **Found media:** Search results, removed comments, Brooke's list.
@@ -362,7 +362,7 @@
 - **Emotional goal:** Determination to anticipatory grief.
 - **Conflict:** Brooke packs without alerting Sarah or Claire.
 - **Reveal:** Cooper chooses Brooke's side of the closed bedroom door.
-- **Hidden clues / payoff:** Window and porch-roof route are rehearsed visually; gun-safe sounds are established from upstairs.
+- **Hidden clues / payoff:** Window and porch-roof route are rehearsed, then Brooke deletes the dangerous route footage; gun-safe and adjacent file-cabinet sounds are established for the later shotgun retrieval.
 - **Character movement:** Brooke chooses survival over waiting for Claire to return.
 - **Tension:** 6/10
 - **Found media:** Unsent final message to Mark.
@@ -377,29 +377,29 @@
 - **Day:** 23
 - **Purpose / setting:** Brooke slips out to meet Anna at a diner; Anna lets her conclude she is her biological mother; leaving, Brooke falls under public emotional capture.
 - **Emotional goal:** Dangerous hope to exposure.
-- **Conflict:** Brooke defies Sarah's confinement to meet the woman from the dog park; on the way home, unrelated recovered people orient toward her because she is alone.
+- **Conflict:** Brooke defies Sarah's confinement to meet the woman from the dog park; after she leaves, one diner patron recognizes her from the videos and missing report.
 - **Reveal:** Anna — resemblance now built and the full name in hand — lets Brooke conclude she is her biological mother without ever stating it.
-- **Hidden clues / payoff:** Diner meeting: resemblance styling seen up close (AN-09); technically true language (AN-05); Anna "knows" the full name (from the stolen journal); `Every second` and `I knew you were waiting` trace to videos and journal; public slogans make solitude suspicious; strangers begin to orient toward her.
+- **Hidden clues / payoff:** Diner meeting: resemblance styling seen up close (AN-09); technically true language (AN-05); Anna knows the full name because she read and returned the original signed letter during the second house visit; `Every second` traces to public videos. A coffee spill and earlier email correction humanize Anna. Brooke records the meeting locally.
 - **Character movement:** Brooke wants Anna to be her mother, and learns home is not the only danger.
 - **Tension:** 6/10
-- **Found media:** Public alert: `Stay together.`
+- **Found media:** Brooke's locally saved audio recording of the diner meeting.
 - **Estimated words:** 3,200
-- **Continuity:** Anna's second in-person contact and the biological-mother reveal-to-Brooke; Cooper is with Brooke or reaches her before the return route. Anna never states the claim outright (Rule 10).
+- **Continuity:** Anna is changed. Cooper detects her but remains at the milder watchful response established at the dog park because she stays still, does not approach him, and honors Brooke's instruction not to touch. Anna never states the biological-mother claim outright (Rule 10).
 - **Question answered / created:** Who is Anna to Brooke? / Why do strangers want her?
 
 ## Chapter 25: Contact
 
 - **Day:** 24
-- **Purpose / setting:** Deliver the stranger chase and prove attachment is not relationship-specific.
+- **Purpose / setting:** Deliver a chain of independent containment and prove attachment is not relationship-specific.
 - **Emotional goal:** Suspicion to raw panic.
-- **Conflict:** Strangers calmly close distance, then pursue when Brooke runs.
+- **Conflict:** A viewer follows, a driver reports Brooke, gas-station staff split between containment and genuine help, and police and later witnesses respond independently to the missing-minor bulletin.
 - **Reveal:** They want touch, not robbery or revenge.
-- **Hidden clues / payoff:** Pursuit fails, teaching the later patient strategy; unrelated changed people protect one another.
+- **Hidden clues / payoff:** Pursuit fails, teaching the later patient strategy; Maya's genuine help proves the town is not uniformly hostile; the returned backpack proves nobody wants Brooke's property; Brooke preserves the diner audio and gas-station video locally.
 - **Character movement:** Brooke abandons pride and runs toward home.
 - **Tension:** 9/10
 - **Found media:** Fragmentary phone recording, not a stylized action transcript.
 - **Estimated words:** 3,300
-- **Continuity:** Route follows Ashcroft map and leaves Brooke exhausted on Day 25.
+- **Continuity:** The pursuit lasts one night. Ashcroft's eleven o'clock youth curfew and missing-minor bulletin explain recognition. Brooke turns home because Cooper is limping, her battery is dying, public shelter is compromised, and Sarah's attachment may open the door.
 - **Question answered / created:** Do strangers seek closeness too? / Will Sarah let Brooke back inside?
 
 ## Chapter 26: You Came Home

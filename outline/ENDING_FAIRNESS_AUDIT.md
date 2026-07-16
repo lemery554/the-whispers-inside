@@ -29,7 +29,7 @@ Confirms the ending's central clues survive a **reread test**: after the final j
 - **Verdict:** PASS. Both previously open details are now locked: the displaced object is the adoption-papers container left slightly ajar in the keepsake box at the foot of Brooke's bed (OQ-09), and the first-entry day is **Day 18** under the two-visit model (OQ-11). Neither affected fairness — the clue's accessibility and dual readability held regardless.
 
 ### 3. Missing journal / second entry — AN-03
-- **Planted:** S21 (Ch 20, Day 19) — Brooke cannot find her old journal; drawer/letter storage disturbed. Leveraged at S25 (Ch 24, the diner, Day 23) when Anna "knows" the biological mother's full name.
+- **Planted:** S21 (Ch 20, Day 19) — Brooke cannot find her old journal; drawer and letter storage are disturbed after Anna reads and returns the original signed letter, then takes the journal. Leveraged at S25 (Ch 24, the diner, Day 23) when Anna refers to the copied name and confirms the full name Brooke supplies.
 - **Accessible to Brooke?** Yes — she searches for it on the page and blames Claire.
 - **First read:** Claire's escalating boundary violation (Brooke explicitly accuses her).
 - **Reread:** Anna removed the journal on her second visit; the "burglary" was never staged because an existing family conflict (Claire) supplied the cover.

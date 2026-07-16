@@ -2,6 +2,8 @@
 
 The whispers do not evolve physically. Across roughly one month, changed people display increasingly effective emotional strategy after failed human interactions. The novel never proves that tactics are transmitted through a shared network. Every on-page adaptation must also be explainable through retained memory, ordinary intelligence, observation, or individual experience.
 
+Shared priorities do not create silent tactical coordination. Unrelated changed people may independently make similar choices because they all believe separation is dangerous, but they do not divide routes, track as a unit, exchange private knowledge, or sustain a group pursuit without ordinary communication and practical evidence.
+
 ## Early stage: proximity commands
 
 - Stay close.

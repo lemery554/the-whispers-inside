@@ -36,9 +36,11 @@ Cooper stared through the glass. His tail stayed low, but he did not growl.
 
 Anna looked up. She did not wave.
 
-Brooke crossed the street.
+Brooke crossed the street. Before entering, she started an audio recording and put the phone in her coat pocket with the microphone exposed.
 
-The waitress objected to Cooper until Anna asked whether the patio could be opened. The outdoor tables had been stacked for the season, but the waitress relented when Brooke said they would sit near the gate. Anna carried her own coffee outside. She did not take Brooke's leash or pull out her chair.
+The waitress objected to Cooper until Anna asked whether the patio could be opened. The outdoor tables had been stacked for the season, but the waitress relented when Brooke said they would sit near the gate. Anna carried her own coffee outside. The cup tipped against the doorframe and coffee ran over her thumb.
+
+"Sorry," Anna said, irritated with herself. She wiped her hand with a paper napkin and left a brown crescent on the cuff of the blue cardigan. She did not take Brooke's leash or pull out her chair.
 
 "You came," Anna said.
 
@@ -78,7 +80,11 @@ The answer sat between them.
 
 "What is it?" Brooke asked.
 
-Anna said the full name from the bottom of the letter.
+"The name you copied into the journal."
+
+Brooke said the full name from the bottom of the letter.
+
+"Yes."
 
 Brooke's hand tightened around Cooper's leash.
 
@@ -88,7 +94,7 @@ The street sounds receded. A car passed. Inside the diner, a server laughed too 
 
 "From something written for you."
 
-Brooke thought of the letter inside the locked box. She thought of the missing journal where she had copied the name as a child, practicing the letters until they looked like they belonged to her.
+Brooke thought of the letter inside the locked box. She thought of the missing journal where she had copied the name and parts of the letter as a child, practicing the letters until they looked like they belonged to her.
 
 "My journal."
 
@@ -180,11 +186,7 @@ Anna's fingers tightened slightly around the cup.
 
 The sentence was not an explanation. Brooke heard it as one.
 
-Cooper rose and pressed his shoulder against Brooke's shin. Anna watched him, then looked toward the diner window. Three people inside had turned in their seats.
-
-They were not looking at Anna.
-
-They were looking at Brooke.
+Cooper rose and pressed his shoulder against Brooke's shin. Anna watched him, then looked toward the diner window. A girl eating alone had glanced up from her phone and seemed to recognize Brooke.
 
 "You should go," Anna said.
 
@@ -208,37 +210,31 @@ Brooke led Cooper through the patio gate. When she looked back, Anna remained se
 
 She had not asked for a hug.
 
-The town alert arrived as Brooke reached the corner.
+At the corner, Brooke stopped the audio recording. The file showed twenty-eight minutes and saved locally beneath the neutral title her phone assigned it.
 
-> REMAIN WITH YOUR HOUSEHOLD WHEN POSSIBLE. STAY TOGETHER. ASSIST OTHERS WHO APPEAR DISORIENTED OR ALONE.
-
-Across the street, a man stopped beneath a pharmacy awning and read the same alert. Beside him, a woman slipped her arm through his.
-
-The three people from the diner came outside.
-
-One was the waitress. One was a man in a gray coat. The third was a girl about Brooke's age who had been eating alone when Brooke arrived.
-
-Now they stood shoulder to shoulder.
+Across the street, a man beneath the pharmacy awning glanced at her, then returned to his phone. The waitress came outside carrying a bus tub and noticed Brooke standing alone with Cooper.
 
 "Are you all right?" the waitress called.
 
 "Fine."
 
-The woman under the pharmacy awning turned toward Brooke.
-
-The man beside her did too.
-
-Cooper gave a low warning.
-
-Brooke shortened the leash and kept walking.
-
-"You're out late," the waitress said.
+"You're out late."
 
 "My mom knows."
 
 The words came automatically. They were also a lie.
 
-The girl from the diner smiled. "We can walk with you."
+A girl who had been eating alone came through the diner door behind the waitress. "That's Brooke Bennett," she said. "From the videos."
+
+The waitress's concern sharpened. "The missing girl?"
+
+"I'm not missing."
+
+Cooper gave a low warning.
+
+Brooke shortened the leash and kept walking.
+
+The girl followed as far as the corner. "I can walk with you."
 
 "No, thanks."
 
@@ -246,12 +242,8 @@ The girl from the diner smiled. "We can walk with you."
 
 Brooke looked back toward the patio.
 
-Anna was gone.
-
-The coffee cup remained on the table.
+Anna was inside at the register, paying the bill. She met Brooke's eyes through the glass and did not come out.
 
 Brooke turned onto the darker road toward home. Footsteps followed at an unhurried distance.
 
-Nobody called her name.
-
-They did not need to know it.
+The girl from the diner was following her.

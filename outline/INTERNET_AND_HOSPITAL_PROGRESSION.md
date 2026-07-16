@@ -32,7 +32,7 @@ Maps the two institutions Brooke touches most — the **internet/platforms** and
 
 ### Phase 5 — Persuasion (Days 23–27; story reaches Day 26)
 - **Hospitals:** Separation is openly framed as *harmful*; "she is still your mother" language.
-- **Internet / platforms:** Warnings disappear beneath soothing repetition; public alerts — `Go home`, `Stay together`.
+- **Internet / platforms:** Default ranking places official recovery guidance above personal warnings, while the warnings remain accessible through direct links, chronological sorting, caches, and saved copies. Ashcroft's reduced-staffing order creates an eleven o'clock youth curfew. Once Sarah reports Brooke missing, authorities reuse Brooke's public image in a local minor-reunification bulletin; recognition spreads through this ordinary alert system rather than instantaneous collective awareness.
 - **Brooke's audience:** No new numbered upload lands; her posts expose enough location context for attention (Day 23). During the siege (Day 26, Ch 27), **Upload 7 — "If you're seeing this"** — the warning, possibly unsent. The 911 system is compromised (dispatcher knows her name, IN-01); no help comes.
 
 ### Phase 6 — Quiet Control (Days 28–30) — *off-page*
