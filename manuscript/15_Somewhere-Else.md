@@ -18,6 +18,22 @@ Brooke copied the most specific comments into a document. A medical-information 
 
 *Maybe hug your sister instead of filming her.*
 
+Brooke changed the ranking to newest. The reassuring replies vanished beneath a flood of smaller accounts with no polished language and no agreement about what any of it meant.
+
+> **@jennafromreno:** He slept on the floor outside my door. When I opened it, he acted like he had only just walked past.
+>
+> **@writethisdownplease:** My aunt keeps eating beets. She has hated beets my whole life. This sounds stupid but please ask people about food.
+>
+> **@northcountyparent:** Do not tell them you are leaving until you are already gone.
+>
+> **@mari_88:** My son cried when I asked why he was holding me so hard. He said he did not know why he was crying.
+
+The last comment had been posted six minutes earlier. By the time Brooke copied it, the account was unavailable.
+
+She did not know whether the platform had removed it, the writer had panicked, or someone else in the house had found the phone. She added a column for deletion time.
+
+An interview request arrived from a national morning show. Its producer called Brooke "a brave young documentarian" and asked whether Claire would appear beside her. A second message offered payment for exclusive hospital footage. Brooke marked both unread after opening them, as if that could restore the moment before strangers knew she existed.
+
 Claire slept in Brooke's desk chair with her knees pulled under Brooke's flannel. She had come in before dawn and asked permission from the doorway. Brooke had said yes because being asked felt so much like improvement that she had mistaken it for safety.
 
 Cooper lay beneath the desk. His eyes remained open.
@@ -125,6 +141,28 @@ The toilet flushed. Water ran. When Sarah emerged, she had washed her face and p
 Brooke had her permit, not her license. Sarah knew that. The suggestion exposed how hard she was working to preserve the morning.
 
 They stayed home.
+
+Brooke called Mark before Sarah could object. The call did not ring. She sent a photograph of the thermometer instead, then a second message with no photograph because the first seemed too much like proof meant for a stranger.
+
+*Mom has the same symptoms. Call me as soon as you see this.*
+
+The delivery icon remained hollow.
+
+Sarah watched from the dining room. "He'll call."
+
+"You don't know he got it."
+
+"His signal has been bad."
+
+"For four days?"
+
+Sarah closed her eyes against the light from the window. "I cannot be sick and defend your father at the same time."
+
+Brooke lowered the blinds. "I'm not asking you to defend him."
+
+"You always ask questions as if somebody has to be guilty."
+
+The words were slurred slightly at the edges. Brooke could not tell whether they belonged to fever, the argument upstairs, or something Sarah had believed for years.
 
 Sarah called the school and said Claire's hand needed monitoring. She did not mention herself. Then she took her laptop to the dining room and joined a work meeting with the camera off.
 
@@ -247,6 +285,28 @@ The supervisor promised to email resources. Its first paragraph concerned paid s
 Sarah began vomiting again.
 
 The afternoon moved in short failures. Sarah could not keep down water. The thermometer read 101.8, then 102.4. Brooke replaced the bathroom bin with the large kitchen bowl and covered the floor in towels. Claire brought supplies only if Brooke stayed within sight. Cooper would not cross the bathroom threshold.
+
+Brooke made a schedule on the back of the discharge instructions.
+
+> 12:20 p.m. Water, vomited within five minutes
+>
+> 12:47 p.m. Temperature 102.4
+>
+> 1:05 p.m. Two teaspoons electrolyte drink
+>
+> 1:14 p.m. Vomiting
+>
+> 1:40 p.m. Responsive, confused about date
+>
+> 2:02 p.m. Urinated, dark
+
+She hated the clinical words because they made the day seem manageable. They did not include Sarah apologizing each time she missed the bowl, or Brooke rinsing vomit from her mother's hair, or Claire sitting in the hall asking every few minutes whether Brooke was staying.
+
+At two fifteen, Sarah's supervisor emailed again. The subject line was *WE ARE HERE FOR YOU*. The message offered sick leave, an employee assistance number, and a reminder that recovered employees could return after twenty-four symptom-free hours with manager approval.
+
+The same message encouraged household members to "maintain reassuring physical presence whenever safely possible."
+
+Brooke highlighted the phrase. It had not appeared in the morning email.
 
 At three, Brooke tried the hospital's nurse line. The estimated wait was more than ninety minutes.
 

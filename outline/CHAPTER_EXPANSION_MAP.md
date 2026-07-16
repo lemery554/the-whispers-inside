@@ -77,6 +77,8 @@ Projected contribution: approximately 23,400 words.
 
 Chapters 15 through 21.
 
+**Completed first developmental pass:** approximately 14,660 words. The pass completes the batch's required dramatic movement without padding, while leaving room for manuscript-wide pacing additions if later audits show the full novel remains below target.
+
 Primary goals:
 
 - give Sarah's decline and recovery emotional weight

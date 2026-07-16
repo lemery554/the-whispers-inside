@@ -78,6 +78,18 @@ Sarah held her gaze for a moment, then went upstairs. She returned with the phon
 
 The screen showed thirty-seven missed notifications, three interview requests, a message from the assistant principal, and a warning from the video platform. The warning did not remove the upload. It said the account's medical claims were under review and future posts could have their reach limited.
 
+Another notice sat beneath it.
+
+> **Recommendation update**
+>
+> Content concerning current health events may be shown alongside authoritative recovery resources. Repeated unsupported claims can affect search placement and recommendations.
+
+Brooke searched the exact title of her fifth upload. The first results were news explainers, the state health department, and a hospital page about separation distress. Her own video appeared below two reaction clips accusing her of exploiting Claire.
+
+When she searched her full name, the video came first.
+
+The platform had not hidden her. It had separated her warning from the people who might need it and made her identity easier to find than the information.
+
 At the top of the screen was an incoming call from an unknown Connecticut number.
 
 Sarah looked at it. "That's probably another reporter."
@@ -139,6 +151,16 @@ She recorded Upload Six in one take.
 "They say we're fine," she began. "Not just my family. The hospital, the school, the news. They keep using the same words. Maybe it's all the same health-department guidance. Maybe that part is normal. But it doesn't match what's happening in houses."
 
 She showed the platform warning, the school email, and the hospital notice without displaying names or addresses. She described Sarah's recovery but did not include the nighttime recording. That remained in the chemistry folder and on the camera card.
+
+Brooke built the edit as a comparison rather than an accusation. Three documents filled the screen one after another. She highlighted the repeated phrases in yellow:
+
+> **Hospital:** Avoid unnecessary isolation.
+>
+> **School:** Reduce unnecessary separation.
+>
+> **Platform:** Promote supportive recovery information.
+
+She recorded the dates each phrase appeared and said she could not prove where the wording originated. She left in that uncertainty because the similarity was frightening without being impossible. Public institutions copied language from one another every day.
 
 "My mom is working. My sister goes to school. They eat and sleep and remember everything. That doesn't mean nothing happened to them."
 
@@ -236,6 +258,18 @@ Mr. Dorsey slid a printed page across the desk. The heading read *TEMPORARY SEPA
 
 Brooke left the paper on his desk. Mr. Dorsey looked at it as if he was no more certain what it meant than she was.
 
+During second period, the intercom asked teachers to avoid sending recovered students into hallways alone. The announcement framed the request as a temporary accommodation, no different from elevator access or extra testing time.
+
+In the cafeteria, tables had been pushed closer together. A sign near the doors read *NO ONE EATS ALONE*. It had been borrowed from an old anti-bullying campaign and therefore looked wholesome. Staff redirected students carrying lunches toward occupied tables.
+
+Brooke chose a chair at the end of a crowded row. Claire appeared five minutes later with permission from her teacher, carrying a tray with spinach, olives, and plain rice.
+
+"You don't have this lunch period," Brooke said.
+
+"Ms. Ferro said family support can happen during the school day."
+
+Claire sat before Brooke could object. Across the cafeteria, Mr. Dorsey saw them together and gave Brooke a tired, encouraging smile.
+
 By lunch, three students had asked whether Claire's eyes really glowed. One asked Brooke to film him pretending to vomit red medicine. A sophomore she did not know whispered, "My dad does it too," then walked away before Brooke could ask what she meant.
 
 Her sixth upload passed ten thousand views before the final bell. The top reply said:
@@ -309,3 +343,11 @@ Sarah sounded worried. The worry did not change the code.
 After they hung up, Brooke checked the video's analytics. Most of its lifetime views came from years ago, but eleven people had watched it in the past week. The platform did not show who they were or whether anyone had saved it.
 
 She began checking the rest of the archive anyway.
+
+The video had never been popular. Forty-six lifetime views, most from relatives and classmates when Brooke first posted it. Eleven recent views should not have meant anything. Her older uploads were receiving stray traffic because strangers were searching her name.
+
+Still, she downloaded the analytics page and saved the old video's upload date, recent traffic sources, and the countries listed beneath them. Ten views came from channel pages or direct links. One came from search. The platform did not reveal the query.
+
+Brooke changed every family video to private. For several minutes she watched thumbnails disappear from the public grid: Mark replacing the porch light, Claire learning to ride a bike, Sarah dancing badly in the kitchen. The outbreak videos remained, surrounded by blank space.
+
+She had built the archive so memory would survive them. Now protecting the family meant making its ordinary life invisible.

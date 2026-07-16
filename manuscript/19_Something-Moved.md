@@ -120,6 +120,26 @@ The sentence made Brooke stand.
 
 Brooke left before the bell.
 
+In the bathroom, she searched her own name. A local discussion board had posted the neighborhood where the Bennetts lived, narrowed from the school bus route visible in an old snow-day video. The exact house was not listed. In the replies, one person claimed to know it.
+
+Brooke reported the post. The automated response thanked her and said location context did not necessarily violate policy unless it included a precise address or credible threat.
+
+She sent Sarah a screenshot.
+
+Sarah called immediately.
+
+"Do not leave campus," she said.
+
+"I was already trying."
+
+"Stay with an adult until I get there."
+
+"Adults are the ones keeping me here."
+
+"Brooke, please."
+
+The fear in Sarah's voice was real. It was also useful to whatever part of her wanted Brooke contained. Brooke hated that she could no longer separate those truths.
+
 The exterior doors near the gym were locked. A security officer asked where she was going.
 
 "Home."
@@ -206,6 +226,20 @@ Cooper backed away from her.
 
 Brooke unclipped the leash and went upstairs instead.
 
+Cooper followed halfway, then returned to the front door. He sniffed the threshold, paced to the kitchen, and came back whining. Brooke crouched beside him.
+
+"Did somebody come in?"
+
+His ears shifted toward the garage. The furnace started, and Cooper barked once at the sound. Then he drank from the puddle around his overturned bowl.
+
+Sarah watched from the stairs. "He was alone and anxious."
+
+"He doesn't knock over his water when he's anxious."
+
+"He knocks over his water because his feet are the size of dinner plates."
+
+That was also true. Brooke photographed the paw prints before wiping them up, then noticed every print belonged to Cooper.
+
 Her bedroom door was open.
 
 She usually left it open. She stood in the hall trying to remember that morning. Sarah had kissed her at the front door. Brooke had come down with her camera bag and closed the bedroom door because Cooper had been inside.
@@ -217,6 +251,12 @@ The room looked normal. Bed unmade. Charger beside the desk. Camera batteries li
 Brooke crossed to the family photograph on the dresser. It showed all four Bennetts at the beach, Claire's hands sandy and Brooke laughing from inside the mound. The frame sat closer to the edge than she remembered.
 
 She touched the dust behind it. A clean rectangle marked where it had been.
+
+The frame itself was warm from the afternoon sun. Brooke lifted it and checked the back as if a stranger might have left a note there. One metal tab sat raised. Behind the photograph was nothing but cardboard.
+
+Her closet door stood open by two inches. Brooke always left it open because the lower hinge squealed. The jewelry dish on the dresser held the same cheap silver necklace, three hair ties, and one earring without its mate. A scarf Sarah had given her was folded on top of the hamper instead of inside it.
+
+Each detail could have been old. Together they made the room feel recently considered.
 
 Only an inch. Maybe less.
 
@@ -265,3 +305,25 @@ Brooke closed the adoption container carefully and pressed the clasp until it cl
 She wedged an old phone behind the books on her desk with its camera facing the room. The battery would not last all day, but it could record while they were gone.
 
 Only then did she slide the box beneath the bed and take one final photograph.
+
+Downstairs, Claire had set the table. Sarah was chopping spinach while Claire rinsed mushrooms in the sink. They worked around each other without colliding, passing the knife and colander with the ease of people who had cooked together for years even though Claire had never volunteered for dinner before.
+
+"There you are," Sarah said when Brooke entered.
+
+The phrase tightened Brooke's stomach. Sarah glanced up, noticed, and softened it with a smile.
+
+"Wash your hands."
+
+Claire put a mushroom into her mouth. "I made enough for you."
+
+"I don't like mushrooms."
+
+"You could change your mind."
+
+Brooke looked from Claire to Sarah. Sarah kept chopping.
+
+"She doesn't have to eat them," Sarah said.
+
+Claire accepted the correction. "Okay."
+
+Brooke sat at the table with Cooper pressed beneath her knees. The meal was ordinary. That did not make the upstairs room feel empty of whoever had stood inside it.

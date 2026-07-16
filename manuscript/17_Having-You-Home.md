@@ -36,6 +36,24 @@ The words were light. Brooke sat.
 
 Sarah asked about school, the assignments they had missed, and whether Claire's hand needed another bandage. She sent two work emails while standing at the counter and called the hardware store about a replacement latch. She remembered that Brooke's permit paperwork needed a signature. She reminded Claire about an overdue library book.
 
+Claire loaded the dishwasher without being asked. She complained about the pan taking up too much space, put two cups in the wrong row, and flicked water at Brooke when Brooke corrected her. Sarah told them both to stop. For thirty seconds, the kitchen held an ordinary morning argument.
+
+Then Claire cut the remaining pancakes into equal pieces and divided them among three plates.
+
+"I'm done," Brooke said.
+
+"You barely ate."
+
+"I'm not hungry."
+
+Claire moved one piece back onto Brooke's plate. "You should finish."
+
+Sarah looked over from the sink. "Leave her alone."
+
+Claire obeyed immediately. She did not pout or steal the piece for herself. She sat beside Sarah and ate it from Sarah's plate instead. Sarah let her.
+
+Brooke watched their shoulders touch. The two of them seemed less like allies than parts of the same household rhythm, each anticipating where the other wanted closeness and supplying it without discussion.
+
 Nothing in her behavior was impossible.
 
 That became the problem.
@@ -162,6 +180,20 @@ Claire appeared behind Sarah and took the basket from her.
 
 The broadcast moved to a commercial. A family gathered around a dining table while a soft voice described the importance of staying connected.
 
+The station returned with a panel that would once have included an infectious-disease physician and a county official. Now the guests were a family therapist and the hospital administrator. The questions beneath their names concerned stigma, fear, and rebuilding trust after illness.
+
+"Some family members report feeling overwhelmed by a recovered loved one's need for reassurance," the therapist said. "We encourage them to remember that withdrawal can intensify separation distress. Set gentle boundaries, but do not use isolation as punishment."
+
+The anchor nodded with grave sympathy. "So closing a door could make the behavior worse."
+
+"Abrupt separation can be experienced as rejection."
+
+Brooke turned up the volume.
+
+No one asked whether the recovered person had broken the door.
+
+At the bottom of the screen, a ticker announced reduced hours at two urgent-care clinics because of staffing shortages. The anchor did not mention it.
+
 Brooke went upstairs.
 
 She waited until Sarah started the vacuum before opening the recording app. She did not set up the camera or turn on her lights. She sat on the floor beside her bed with the phone close to her mouth.
@@ -223,6 +255,36 @@ At seven thirty, Sarah served the food anyway. Cooper stayed beneath Brooke's ch
 At eight, Sarah texted Mark once.
 
 At nine, Brooke called and reached voicemail.
+
+At nine twenty-three, another voicemail appeared.
+
+This one contained only seven seconds of sound. Fabric brushed the microphone. Mark breathed once, close to the phone. Farther away, several people spoke in the same calm murmur Brooke had heard during the live call.
+
+Then Mark said, "Home."
+
+The recording ended.
+
+Sarah played it twice. "He pocket-dialed."
+
+"He said home."
+
+"Because he wants to come home."
+
+"Or somebody asked where he was going."
+
+"Or he was talking to a coworker. Or a television was on. Or the transcription cut off the rest."
+
+There was no transcription.
+
+Sarah deleted the voicemail from her screen before Brooke could stop her.
+
+"Why did you do that?"
+
+"Because listening to seven seconds of noise until it becomes a threat is not helping you."
+
+Brooke recovered it from the deleted folder while Sarah carried dishes to the sink. She forwarded the audio to herself and saved it beside the earlier call.
+
+It was the last time Mark's voice reached the house.
 
 Sarah did not appear worried. "He warned us about the signal."
 

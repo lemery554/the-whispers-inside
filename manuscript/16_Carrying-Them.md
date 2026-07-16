@@ -45,6 +45,30 @@ Sarah vomited again.
 
 The next twelve hours reduced the house to water, temperatures, and the distance between rooms. Brooke kept the thermometer and electrolyte packets on the bathroom counter and wrote down enough to know when the numbers changed.
 
+Sarah's body seemed determined to empty itself beyond what a body could contain. When vomiting paused, diarrhea began. When that stopped, tremors shook the mattress hard enough to tap the headboard against the wall. Brooke changed towels, tied off trash bags, wiped the floor, and learned not to react when Sarah could no longer reach the bathroom in time.
+
+"Don't look at me," Sarah said once.
+
+Brooke was kneeling beside the bed with clean pajama pants. "I have to."
+
+"No, you don't."
+
+"You did this for both of us."
+
+"You were babies."
+
+"Claire threw up in your purse when she was nine."
+
+From the doorway Claire said, "That was carsickness."
+
+Sarah laughed once. The laugh became a dry heave. Brooke held the bowl until it passed.
+
+Afterward Sarah whispered, "You shouldn't have to."
+
+The sentence hurt more than the work. Brooke fastened the clean clothes and pulled the blanket over her. "There's nobody else."
+
+Claire moved closer at that, offended by being excluded even from a burden she would not carry alone.
+
 Claire followed Brooke through every task.
 
 When Brooke went to the kitchen, Claire carried the empty cup. When Brooke returned upstairs, Claire walked so close behind that her socks brushed Brooke's heels. If Brooke closed the bathroom door to help Sarah change, Claire stood outside and turned the handle until Brooke opened it again.
@@ -90,6 +114,18 @@ The message could have been delayed. The road crew could have said morning. He c
 She typed, *Call now.*
 
 The message did not deliver.
+
+At four twelve, a voicemail appeared without a missed call.
+
+Mark's voice sounded distant and compressed.
+
+> "Brookie, I got your messages. Listen, keep your mom drinking. Tiny amounts, don't let her gulp it. If she passes out and you can't wake her, call an ambulance. The site manager says we may get the trucks out after daylight. I know I keep saying that. I'm sorry. Tell Sarah I'm trying. Tell Claire I love her. I love you. I'll call when I can."
+
+Behind him, somebody said something too low to understand. Mark paused as if listening. Then the recording ended.
+
+Brooke played the voicemail for Sarah when she woke. Sarah smiled at *Brookie*. Claire asked to hear the part where he said he loved her again.
+
+Brooke replayed it twice. On the third time she listened only to the silence before the message ended.
 
 Sarah curled toward the toilet. Brooke put the phone down and caught the bowl before Sarah knocked it over.
 
@@ -186,6 +222,28 @@ Claire did not move.
 The second time, something in Sarah's voice reached her. Claire released the fabric and sat back. Brooke watched both of them. Sarah's eyes were unfocused with fever, but the instruction had been automatic and maternal. For a moment the house contained its old arrangement: Sarah setting a limit, Claire resenting it, Brooke relieved not to be the only person who saw the need.
 
 Then Sarah leaned over the toilet and the moment ended.
+
+The purge changed Sarah's appetite before it restored it. Near noon she asked for canned beets.
+
+Brooke thought she had misheard. "We don't have beets."
+
+"Back of the pantry."
+
+Sarah bought them once a year for Mark and complained that opening the can made the kitchen smell like wet dirt. Brooke found two cans behind the soup.
+
+"You can't eat that."
+
+"I want them."
+
+"You haven't kept down water."
+
+Sarah closed her eyes. "Then later."
+
+Claire stood beside Brooke in the pantry doorway. "I like them now too."
+
+They looked at each other. Claire smiled as if this were a shared family preference they had only just discovered.
+
+Brooke moved the cans to the highest shelf.
 
 Brooke changed the sweat-soaked sheets while Claire remained in the bathroom. By noon, Sarah's fever began falling. The relief was so physical that Brooke had to sit on the bathroom floor before her legs did it for her.
 
@@ -288,3 +346,15 @@ Cooper stood in the doorway, watching.
 Sarah saw him and patted the mattress.
 
 Cooper did not enter.
+
+Sarah's hand remained raised for a moment. Hurt crossed her face before she lowered it.
+
+"He'll come around," Claire said.
+
+Sarah looked at Claire. Something quiet passed between them, not a signal Brooke could name, only the ease of two people arriving at the same conclusion.
+
+"Of course he will," Sarah said.
+
+Brooke was still inside her arms. She noticed that Sarah had begun rubbing slow circles between her shoulder blades, the exact motion she used when Brooke was little and homesick after sleepovers. It soothed her before she could decide whether she wanted it to.
+
+That was the first thing Sarah's recovery gave back: the knowledge of how to make Brooke stay.

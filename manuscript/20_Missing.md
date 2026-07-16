@@ -74,6 +74,16 @@ The front door was locked. Brooke entered the code and watched the buttons light
 
 Cooper met Brooke in the foyer but did not settle. He sniffed along the base of the front door, crossed to the stairs, then returned to the foyer with a low sound in his throat.
 
+The kitchen water bowl was upright. One cabinet door stood open above the counter.
+
+"Did Mom leave that?" Brooke asked.
+
+Claire glanced in. "Probably."
+
+Sarah did not leave cabinets open. Mark did. Brooke closed it and found nothing disturbed inside except the tea box facing backward.
+
+Cooper went to the back of the house and sniffed the garage door. The alarm panel showed no warning. Whoever knew the code would not have triggered one.
+
 Her bedroom door was closed.
 
 She had closed it that morning. The dresser photograph had not moved. The keepsake box remained under the bed with its clasp fastened. The paper strip lay on the carpet beside it.
@@ -89,6 +99,12 @@ She emptied the box onto the floor.
 Cards, programs, loose photographs, two ticket stubs from a movie Mark had taken her to when she was eleven. No journal.
 
 Brooke pulled open the bottom desk drawer. Old notebooks. Cables. A dead external drive. She checked beneath the bed, behind the dresser, inside the camera bag, and between the mattress and wall.
+
+She opened the old phone's final recording again and checked its metadata. Fifty-three minutes. No interruption, no corruption, no movement beyond the light. The battery had died before ten.
+
+The keypad video had shown the code. The school schedule was public. Brooke had announced online that Sarah and Claire had recovered and that the house frightened her. She had given a stranger every ingredient except the address, and strangers online were already working on that.
+
+The thought was too large and shapeless. Claire was standing downstairs. Claire had a history of taking things. Anger preferred a person it could reach.
 
 Cooper followed each movement, then left the room and stood at the top of the stairs facing the front door.
 
@@ -268,6 +284,52 @@ Nothing in her voice proved who was speaking.
 
 Brooke left the room.
 
+She made it as far as the hall before the shame caught her. The same sentence from before Claire's purge waited beneath it, the one about real mothers and being wanted. Brooke had promised herself she would not reach for that kind of wound again. She had done it anyway, simply with different words.
+
+She returned to Claire's doorway.
+
+Sarah was kneeling beside the bed gathering the clothes Brooke had thrown aside. Claire stood at the window with her arms crossed tightly over Brooke's borrowed flannel.
+
+"I shouldn't have searched your room," Brooke said.
+
+Claire did not turn.
+
+"I shouldn't have said that."
+
+"Which part?"
+
+Brooke swallowed. "That you only remember being my sister when it's useful."
+
+Claire looked over her shoulder. Her face was dry now. "You think I'm gone."
+
+Sarah stopped folding.
+
+"I think something happened to you," Brooke said.
+
+"That isn't what I said."
+
+Brooke understood the trap because she had built it. Claire wanted an answer Brooke did not have and could not give without causing harm.
+
+"I don't know," Brooke said. "I'm sorry."
+
+Claire's shoulders lowered by a fraction. "I didn't take it."
+
+"Okay."
+
+"Do you believe me?"
+
+"I believe you said it."
+
+It was not enough. Claire turned back to the window.
+
+Sarah carried the folded clothes past Brooke without touching her. "That was cruel."
+
+"I know."
+
+"Knowing afterward doesn't protect her."
+
+Brooke almost said that Sarah had failed to protect either of them. She let the sentence remain unspoken.
+
 She searched her own space again, slower this time. The drawer where the journal had been was not arranged the way she remembered. One notebook faced spine-in. The envelope in the adoption container sat beneath the agency papers instead of above them.
 
 Or she had moved it yesterday while checking.
@@ -281,3 +343,11 @@ The journal was the only thing missing.
 Downstairs, Claire began to cry.
 
 Brooke sat on the floor with her back against the bed. Cooper rested his chin on her knee.
+
+She opened the photographs from the previous afternoon and compared them one by one. The sticky-note seal had fallen, but it could have slipped when the heat started. The keepsake box sat at a slightly different angle. The journal was visible beneath the notebooks in one image, a strip of faded blue cloth no wider than her finger.
+
+Someone had taken it after she placed the seal.
+
+Brooke zoomed in on the bedroom doorway reflected in the beach photograph's glass. The reflection showed only the empty hall and the raised phone in her own hand.
+
+Proof that the journal had existed yesterday did not identify who held it today.

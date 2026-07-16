@@ -80,6 +80,18 @@ Sarah noticed. "What?"
 
 Sarah allowed her to leave the room. That was how Brooke thought of it now, even when no one blocked the doorway.
 
+Before going downstairs, Brooke checked the public comments. The newest upload had stopped climbing overnight. Searching the title returned a state information page and a clip from the morning news in which an anchor warned against "unverified narratives that divide recovering families."
+
+The anchor did not name Brooke. The comments did.
+
+> She is a minor having a family crisis in public.
+>
+> Her mother needs to take the camera away.
+>
+> Someone should bring that girl home before the internet destroys her.
+
+Brooke saved the page locally. When she refreshed, the third comment had moved to the top.
+
 She went downstairs and found Claire sitting on the kitchen floor with Cooper's leash in her lap. Cooper stood on the other side of the island.
 
 "He won't come," Claire said.
@@ -156,6 +168,14 @@ Still, Brooke stored the sentence.
 
 The television ran in the living room. A hospital spokesperson described a new family-reunification desk for patients experiencing "prolonged temporary separation." The service would help verify addresses, contact relatives, and arrange transportation after discharge.
 
+A phone number appeared beneath the hospital logo. Brooke searched it and found a new page describing the service.
+
+> Family Reunification can assist recovered individuals whose household members are temporarily unreachable, displaced, or reluctant to resume contact. Trained coordinators may confirm residence information through available public and emergency records.
+
+*Reluctant to resume contact.*
+
+Brooke took a screenshot. The page offered no instructions for the person who did not want to be found.
+
 The segment showed a woman embracing an adult son outside Saint Vincent's. Neither released the other before the clip ended.
 
 Sarah watched from the kitchen doorway.
@@ -206,6 +226,46 @@ It was a complete answer. It proved almost nothing.
 
 "I said you need space."
 
+Brooke waited.
+
+From behind the door, Claire whispered something else. This time Brooke heard the separate words.
+
+"Not yet."
+
+"What?"
+
+The room went silent.
+
+Brooke opened the door before remembering that Claire had asked for privacy by closing it.
+
+Claire sat at her desk with a math worksheet in front of her and Brooke's missing green pen in her hand. She looked up, startled.
+
+"Who were you talking to?"
+
+"Myself."
+
+"You said not yet."
+
+Claire looked at the worksheet. "I wasn't done."
+
+"You weren't writing."
+
+"I was thinking."
+
+Brooke searched her face for the reflective green and saw only irritation. "What isn't happening yet?"
+
+"I don't know what you mean."
+
+The answer was direct. If the no-lie rule Brooke suspected was real, it mattered. If Claire genuinely did not know what she had repeated, it mattered more.
+
+Brooke noticed her own position in the doorway, blocking the exit while demanding access to a private thought. She stepped aside.
+
+"Sorry."
+
+Claire's gaze moved to the open hall. "You always say that after."
+
+Brooke closed the door again, gently.
+
 Brooke gripped the empty glass. It could have been Claire trying to remember a rule. It could have been mockery. It could have been the ordinary intelligence of someone who had finally noticed that following Brooke made her leave.
 
 "Okay," Brooke said.
@@ -229,6 +289,40 @@ Sarah nodded. "Whenever you're ready."
 No demand. No reaching hand. No reminder about the key in her pocket.
 
 Brooke understood only that the method had changed. Sarah had raised her for seventeen years. She did not need whispers or secret instructions to know that direct pressure made Brooke pull away.
+
+That afternoon Sarah returned the key without being asked.
+
+She set it beside Brooke's laptop and said, "I don't want you to feel trapped."
+
+Brooke looked at the small brass shape. "Then why take it?"
+
+"Because you were hurting Claire and I wanted the fight to stop."
+
+"Did it?"
+
+"No."
+
+The admission was so ordinary that Brooke nearly apologized. Sarah sat in the armchair across the room, leaving the space between them open.
+
+"I called the keypad company," she said. "They still need Mark's verification. I asked for an emergency override. They said someone will call tomorrow."
+
+"Did you tell them the code was online?"
+
+"Yes."
+
+"Did you dead-bolt the door?"
+
+"Yes."
+
+Sarah had answered every practical question. Brooke could not accuse her of doing nothing. She also knew the journal had disappeared through a locked house while everybody was away.
+
+"Your father will answer," Sarah said.
+
+Brooke looked at her.
+
+Sarah corrected herself. "I hope he will."
+
+It was the first time she had allowed uncertainty into the sentence.
 
 She opened the private observation file and typed beneath the entry about memory:
 

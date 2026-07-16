@@ -21,13 +21,13 @@ All chapters default to dense commercial-novel paragraphing. Avoid isolated narr
 - `12_Everyone-Is-Fine.md`: developmental rewrite B
 - `13_There-You-Are.md`: developmental rewrite B
 - `14_Sand.md`: developmental rewrite B
-- `15_Somewhere-Else.md`: Chapter 15 first draft
-- `16_Carrying-Them.md`: Chapter 16 first draft
-- `17_Having-You-Home.md`: Chapter 17 first draft
-- `18_Recovered-Individuals.md`: Chapter 18 first draft
-- `19_Something-Moved.md`: Chapter 19 first draft
-- `20_Missing.md`: Chapter 20 first draft
-- `21_Not-Yet.md`: Chapter 21 first draft
+- `15_Somewhere-Else.md`: developmental rewrite C
+- `16_Carrying-Them.md`: developmental rewrite C
+- `17_Having-You-Home.md`: developmental rewrite C
+- `18_Recovered-Individuals.md`: developmental rewrite C
+- `19_Something-Moved.md`: developmental rewrite C
+- `20_Missing.md`: developmental rewrite C
+- `21_Not-Yet.md`: developmental rewrite C
 - `22_The-List.md`: Chapter 22 first draft
 - `23_Pack-Light.md`: Chapter 23 first draft
 - `24_Outside.md`: Chapter 24 first draft
