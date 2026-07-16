@@ -1,8 +1,8 @@
 # Chapter Expansion Map
 
-**Current draft:** approximately 45,700 words  
-**Working revised target:** approximately 88,900 words  
-**Architecture:** Prologue plus 29 chapters retained  
+**Current draft:** approximately 45,700 words
+**Working revised target:** approximately 88,900 words
+**Architecture:** Prologue plus 29 chapters retained
 **Principle:** Add lived dramatic material, not padding.
 
 Targets are directional. A chapter may finish above or below its target if its dramatic movement is complete and the manuscript remains within 85,000 to 100,000 words.
@@ -128,4 +128,3 @@ Projected contribution: approximately 10,900 words.
 - No new villain organization or conspiracy.
 - No chapter is expanded merely to meet a number.
 - The final journal proof remains the sole controlled viewpoint exception.
-

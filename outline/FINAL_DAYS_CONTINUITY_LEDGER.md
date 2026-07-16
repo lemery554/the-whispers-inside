@@ -1,6 +1,6 @@
 # Final Days Continuity Ledger
 
-**Scope:** Chapters 23 through 29  
+**Scope:** Chapters 23 through 29
 **Status:** Working continuity lock for the developmental rewrite
 
 ## Day convention
@@ -255,4 +255,3 @@ If the author later wants the climax on Day 26, the preceding timeline must add 
 - The motel stay or longer destination.
 - The wider outbreak's final trajectory.
 - Whether this is positioned as a complete standalone or sequel-capable.
-

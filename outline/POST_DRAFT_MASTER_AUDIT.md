@@ -1,7 +1,7 @@
 # Post-Draft Master Audit
 
-**Status:** First-draft diagnostic, completed July 16, 2026  
-**Scope:** Prologue and Chapters 1 through 29  
+**Status:** First-draft diagnostic, completed July 16, 2026
+**Scope:** Prologue and Chapters 1 through 29
 **Purpose:** Identify the work required before deciding the final degree of ending closure.
 
 This audit does not treat the current draft as publication-ready. It identifies what the first developmental revision must accomplish while protecting the premise, mystery, and ending.
