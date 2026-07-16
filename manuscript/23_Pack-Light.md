@@ -12,6 +12,16 @@ The obvious things were too dangerous to take. The framed beach photograph would
 
 She copied the chemistry folder, observation list, hospital footage, and family recordings onto one external drive. The progress bar crawled while Claire moved around in the room across the hall.
 
+When it finished, Brooke disconnected the drive and tested it on the old laptop beneath her bed. The folder opened. The hospital clips played. Mark's final voicemail still contained the single word that might have meant home.
+
+She renamed nothing. Descriptive filenames could become a map for whoever opened the drive. Instead she created a plain text inventory on the old laptop, printed one copy, and deleted the document. The paper went beneath the lining of the camera bag.
+
+Her phone held the diner address, Anna's messages, and every current contact. Brooke turned off location sharing with Sarah, then discovered the family safety app would notify Sarah of the change. She left it on.
+
+Instead she disabled mobile data and practiced turning it back on from the lock screen. The map to the diner was simple enough to remember. She would use airplane mode after leaving and accept that the gap itself would tell Sarah she had gone.
+
+There was no invisible way out of a family that monitored her for love.
+
 Sarah had decided they were all staying home again.
 
 "The school can manage without you for one day," she had said.
@@ -112,6 +122,18 @@ His ears lifted.
 
 She stopped recording.
 
+Brooke checked Cooper's harness and packed the collapsible bowl beside two sealed water bottles. He watched every item disappear into the bag and began panting although the room was cold.
+
+"We're not going anywhere," Brooke told him.
+
+His ears moved toward the door.
+
+The lie sounded worse aloud. Brooke crouched and pressed her forehead to his. "I don't know where we're going."
+
+Cooper licked her chin and sneezed.
+
+She added a small towel, antiseptic wipes, and the roll of gauze Sarah kept in the upstairs bathroom. The items made the backpack heavier and the plan more real.
+
 Then she watched the clip once, understood that it was a map for anyone who found the camera, and deleted it. She emptied the camera's trash folder too. The route would have to stay in her head.
 
 At three, Sarah returned the tiny brass key.
@@ -155,6 +177,18 @@ Brooke opened a message to Mark.
 She did not send it. If Mark had changed, the message told him she planned to leave. If he had not, it might be the last cruel thing she ever sent him.
 
 She saved it as a draft.
+
+Then she recorded a message instead.
+
+"Dad, if you get this later, I left because I couldn't tell what was safe anymore. Mom and Claire remember everything, but they don't hear no the same way. Someone used the front-door code. My journal is missing. I have Cooper and the camera."
+
+She stopped, deleted it, and began again without diagnosing anyone.
+
+"Dad, I'm leaving the house tonight. I'm taking Cooper. The evidence drive is with me. I tried calling you."
+
+That version sounded like a note police would play after something terrible happened. She deleted it too.
+
+In the end, she left the unsent text exactly as it was. Uncertainty was not a reason to leave no record. It was also not permission to tell a possibly changed father how to find her.
 
 At dinner Sarah served roasted vegetables over rice.
 
@@ -205,3 +239,23 @@ Brooke did not answer.
 After a moment, Claire went away.
 
 Brooke rested her hand against the door above Cooper's head and listened to the house she planned to leave.
+
+Downstairs, the television anchor repeated the weekend advisory. Sarah lowered the volume. Claire asked whether Brooke was still angry.
+
+"She needs time," Sarah said.
+
+"How much?"
+
+"Let her choose."
+
+The phrase was soft enough that Brooke might have imagined it through the floor and walls.
+
+Claire answered, "Okay."
+
+Neither came upstairs.
+
+Brooke sat beside the packed bag and understood that space could become another way of guiding her. She checked Anna's last message again.
+
+*If you do not come, I will understand.*
+
+Every person in the house had finally learned to wait.

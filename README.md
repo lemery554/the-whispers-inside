@@ -1,10 +1,8 @@
-# The Way They Love
+# The Shape Love Takes
 
-Development repository for *The Way They Love*, a psychological family-horror novel about trust, memory, and love becoming possession.
+## Something is wrong with them.
 
-![Cover concept for The Way They Love](assets/cover-concepts/the-way-they-love-cover-concept-01.jpg)
-
-*Early cover concept. Final production artwork, typography, dimensions, and print specifications remain subject to the self-publishing design process.*
+Development repository for *The Shape Love Takes*, a psychological family-horror novel about trust, memory, and love becoming possession.
 
 ## Story hook
 

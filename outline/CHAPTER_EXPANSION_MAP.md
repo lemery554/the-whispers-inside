@@ -93,6 +93,8 @@ Projected contribution: approximately 21,700 words.
 
 Chapters 22 through 25.
 
+**Completed first developmental pass:** approximately 7,680 words. The pass completes the required public-containment, evidence, diner, and pursuit movement without padding. Further length should be added only if the manuscript-wide pacing audit identifies a specific missing scene or underdeveloped consequence.
+
 Primary goals:
 
 - expand platform and news consequences

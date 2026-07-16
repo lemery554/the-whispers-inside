@@ -16,6 +16,30 @@ The comments had changed too. The frightened reports were still there if she sor
 
 Brooke took screenshots until her phone storage warning appeared. Then she opened the private observation file and read everything from the beginning.
 
+The warning said she had less than five hundred megabytes left. Brooke opened the storage manager and found that the largest files were ordinary family footage cached in three places: Claire dancing in the kitchen, Mark showing her how to change a light fixture, Sarah laughing after dropping a pancake.
+
+Deleting any of them felt like cooperating with the thing happening to the house.
+
+She transferred the originals to the external drive, verified three random clips, then removed the phone copies. The available-storage number climbed. Brooke wrote the drive's contents on an index card and slipped it into the camera bag.
+
+> **DRIVE A**
+>
+> Original hospital footage
+>
+> Upload masters 1 through 6
+>
+> Family archive selections
+>
+> Observation file
+>
+> Mark calls and voicemails
+>
+> Keypad-video copy
+>
+> Bedroom and keepsake photographs
+
+She copied the observation file to the camera card and her old phone too. Three copies in the same house were not real backup, but cloud storage felt like handing the files to the same systems already burying her uploads.
+
 *Dogs notice first.*
 
 *They remember everything.*
@@ -89,6 +113,12 @@ At minute fifty-three, the recording stopped.
 The journal could have disappeared any time after that.
 
 She checked the search results for local break-ins. The police department's latest post advised residents not to travel alone and encouraged families to report missing relatives through the hospital's reunification desk. Searching *home entry keypad Ashcroft* produced installer advertisements and a news article about keeping familiar access codes during emergencies so relatives could come home.
+
+The local news site had replaced its red banner with pale blue. The lead story showed a family embracing outside Saint Vincent's beneath the headline *ASHCROFT FINDS ITS WAY HOME*.
+
+Farther down, a smaller article reported that police response times had increased because of illness and staffing reassignments. The police chief asked residents to reserve emergency calls for immediate physical danger and to resolve "family separation concerns" through the reunification desk.
+
+Brooke saved both pages. The first told people how to feel. The second explained why help might not come.
 
 Brooke searched *someone entered my house after recovery*.
 
@@ -193,3 +223,23 @@ Brooke searched the name Anna beside the email address and found nothing useful.
 Brooke moved the email to trash.
 
 Then she restored it and took a screenshot.
+
+She opened the message headers. The sending service had hidden the originating address behind its own servers. The account was less than a week old. Its recovery email and phone number were private.
+
+Brooke replied without committing to the meeting.
+
+*How did you find the dog park?*
+
+Anna answered eleven minutes later.
+
+*I did not find you there. I was already there.*
+
+Technically plausible. Impossible to verify.
+
+*How did you get this email?*
+
+*It is listed on your channel.*
+
+Brooke checked. The address was visible behind a button she had created for film-work inquiries two years ago.
+
+Anna had not demonstrated secret access. She had demonstrated patience with public information, which was what made the message dangerous.

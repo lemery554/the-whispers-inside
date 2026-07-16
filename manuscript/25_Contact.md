@@ -16,6 +16,12 @@ Brooke kept walking. Cooper looked back, ears flat.
 
 That explained the recognition without making it less frightening. Brooke took out her phone. The audio from the diner had saved. She started a new video and held the camera low, catching the sidewalk and Cooper's moving legs.
 
+The missing-minor bulletin appeared when she searched her name. Sarah had supplied a school photograph from the previous fall, Brooke's coat, Cooper's description, and a warning that Brooke might avoid assistance because of "acute stress related to online harassment."
+
+Nothing in it was a lie.
+
+It made every refusal sound like a symptom.
+
 "I'm on Birch heading toward Weller," she said. "A girl from the diner is following me after I told her to stop."
 
 "You don't have to make me sound bad," the girl said.
@@ -108,6 +114,24 @@ In the stockroom, Maya plugged Brooke's charger into an outlet beside the delive
 
 It was the first uncomplicated answer Brooke had heard in days.
 
+Maya glanced toward the swinging stockroom door. "Do you have somewhere safe?"
+
+"No."
+
+"Someone who isn't family?"
+
+Brooke thought of Nora, then of Sarah calling Nora's parents before Brooke reached the porch. "No."
+
+"Shelter line?"
+
+"They'll ask my age and call police."
+
+Maya nodded. She did not tell Brooke she was wrong. "Then charge as much as you can."
+
+Brooke used the minute to send the diner audio and her newest video to a new draft email without a recipient. The attachments reached sixty percent before voices rose in the store.
+
+She canceled the upload. A partial cloud transfer was worse than a local file she controlled. The phone battery showed twenty-two percent.
+
 Maya filled a bottle from the utility sink and gave it to her. "Go when I drop the cartons."
 
 "They'll ask which way."
@@ -147,6 +171,10 @@ For a moment neither moved. Then the girl placed the backpack on the pavement, k
 Brooke retrieved it after both women went inside. Nothing was missing.
 
 They did not want her camera or money. They wanted to return her to the people who loved her and could not understand why that might be worse.
+
+Brooke checked the backpack beneath the alley light. The drive remained inside its padded pocket. The camera powered on. The photographs of the biological-mother letter were still on the card. She opened the diner recording and listened to three seconds of Anna saying, *You can leave.*
+
+Evidence could prove that a person had given her permission. It could not prove why.
 
 Brooke followed the drainage path toward the back road. She stopped recording to preserve the battery and zipped the phone into her coat. The diner audio and gas-station video remained on the device.
 
@@ -188,13 +216,83 @@ The officer took one step.
 
 Brooke ran.
 
+Branches struck her face before her eyes adjusted. The ground dropped sharply beyond the shoulder, and she half slid through wet leaves with Cooper pulling beside her. Behind them the officer shouted her name, then warned that the dog could be hurt.
+
+Brooke hated him for choosing the warning that might work.
+
+She reached a chain-link fence, followed it until she found a place crushed beneath a fallen limb, and pushed the backpack through first. Cooper scrambled over the low metal. His harness caught. Brooke freed it while white light swept the trees behind them.
+
+"Brooke, stop. We can talk."
+
+The officer had not drawn a weapon. He had not threatened arrest. Every reasonable choice remained available except the one Brooke had asked for.
+
+She climbed the fence and tore her coat on the top wire.
+
 He did not follow far into the woods. She heard him call for another unit and give her direction of travel. That was enough. A porch light came on when she crossed the next yard. A man called that he had seen the missing girl. Later, a delivery driver slowed and asked whether she needed a ride home. None of them coordinated. Each received the same story and made the same reasonable choice.
 
 Brooke changed direction until she no longer knew which road she was paralleling.
 
+The woods were not wilderness. They were drainage strips, back lots, and undeveloped parcels between subdivisions. Brooke crossed roads she recognized from car windows and lost them again behind fences. Wet leaves soaked through her jeans. Thorn branches caught the backpack. Cooper slipped once on a concrete culvert and came up favoring his front paw.
+
+Brooke stopped beneath a highway overpass and checked it by phone light. The pad was scraped but not bleeding heavily. Cooper pulled the paw away when she touched it.
+
+"I know. Sorry."
+
+She rinsed it with half a bottle of water and wrapped it loosely with gauze from the pack. Cooper stood before she finished, anxious to keep moving.
+
+The phone showed eleven percent. Brooke turned the brightness down until the map was barely visible, memorized the next two turns, and shut it off.
+
+For twenty minutes she followed the sound of traffic without reaching a road. The drainage channel narrowed, forcing her through brush where Cooper could not avoid using the injured paw. Each time he stumbled, Brooke considered carrying him. He weighed more than sixty pounds. She could barely lift the front half of him over fallen branches.
+
+At the edge of a backyard, a motion light exposed them. Brooke froze beside a swing set. A child appeared behind the sliding glass door, then an adult woman joined him. The woman opened the door.
+
+"Are you Brooke?"
+
+Brooke backed toward the trees.
+
+"Your mother is terrified."
+
+"Please don't call anyone."
+
+"Come inside. You can warm up."
+
+The offer nearly worked. Heat spilled through the open doorway. A blanket lay across the sofa. The child stood pressed against the woman's hip, watching Brooke with an expression too calm for the hour.
+
+"Can I use your charger outside?"
+
+"Don't be silly. Come in."
+
+The woman stepped onto the patio barefoot. Cooper growled.
+
+Brooke returned to the drainage channel. The woman called the police before Brooke reached the trees.
+
 Near three in the morning, Cooper began to limp. Her phone showed six percent. The temperature had dropped, and every public place would recognize her as soon as someone checked the bulletin.
 
+Brooke considered the fire station on Hawthorne. Its bay lights were on. Through the windows she saw two firefighters sitting shoulder to shoulder at a table while a third stood behind them with both hands resting on their backs. A television above the lockers displayed the same family-reunification number as Saint Vincent's.
+
+She kept walking.
+
+At a twenty-four-hour pharmacy, the automatic doors opened and an employee looked up from beneath a blue *FAMILIES HEAL TOGETHER* poster. Brooke did not cross the threshold.
+
+Every lit building offered warmth on the condition that somebody decide where she belonged.
+
 She could not keep running toward nowhere.
+
+Brooke opened the observation file one last time. The phone took several seconds to load it.
+
+*Dogs notice first.*
+
+*They remember everything.*
+
+*Direct pursuit makes me run.*
+
+The list had predicted every danger except exhaustion. It had no instruction for a dog who could no longer keep pace or a body that needed warmth. Evidence could identify a pattern. It could not choose the least terrible door.
+
+She added:
+
+*They do not have to coordinate if everyone believes returning you is kindness.*
+
+The battery dropped to five percent when she saved.
 
 Home had the charger. The rear window. Her room. Sarah, who might refuse to let her leave but could not bear to keep her outside. Brooke hated that she understood how to use that love.
 

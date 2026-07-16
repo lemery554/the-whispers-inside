@@ -38,6 +38,8 @@ Anna looked up. She did not wave.
 
 Brooke crossed the street. Before entering, she started an audio recording and put the phone in her coat pocket with the microphone exposed.
 
+She sent the automatic file name to the old phone at home before switching off mobile data. The file itself had not uploaded, only the name and start time. If Brooke disappeared, the record would show where the conversation began.
+
 The waitress objected to Cooper until Anna asked whether the patio could be opened. The outdoor tables had been stacked for the season, but the waitress relented when Brooke said they would sit near the gate. Anna carried her own coffee outside. The cup tipped against the doorframe and coffee ran over her thumb.
 
 "Sorry," Anna said, irritated with herself. She wiped her hand with a paper napkin and left a brown crescent on the cuff of the blue cardigan. She did not take Brooke's leash or pull out her chair.
@@ -108,6 +110,26 @@ Anna did not answer.
 
 "No."
 
+Brooke took out her phone and set it faceup between them. The recording timer advanced.
+
+"I'm recording."
+
+Anna looked at the screen. "Yes."
+
+"You knew before I said."
+
+"Your hand stayed in your pocket until you sat down. The microphone was uncovered."
+
+Brooke had believed she was being subtle. "Do you want me to stop?"
+
+"No."
+
+"Why not?"
+
+"Because you should have your own record."
+
+Anna's answer appealed to the deepest habit Brooke had. That did not make it false.
+
 Brooke pushed her chair back an inch.
 
 Anna did not move. "You can leave."
@@ -176,6 +198,30 @@ Brooke looked away because the answer was too kind.
 
 Anna waited.
 
+"What was in the letter?" Brooke asked.
+
+Anna's attention returned to her. "An explanation that did not explain enough."
+
+"That's my opinion."
+
+"Yes."
+
+"You read my journal."
+
+Anna looked down at the stained cuff.
+
+"Say you didn't."
+
+"I will not say something because it would comfort you."
+
+The sentence avoided the accusation. It also sounded principled enough to make avoidance feel like care.
+
+"What did I write about Sarah?"
+
+"Things written in anger do not always describe the person who caused it."
+
+Brooke remembered entire pages composed after arguments, pages Anna could have read in the house. She also remembered saying nearly the same thing publicly after the workshop video. Every private answer had a public source close enough to preserve doubt.
+
 No questions about where Brooke lived. No demand to see the letter. No request for forgiveness. She let silence remain silence instead of turning it into pressure.
 
 "Why did you leave me?" Brooke asked.
@@ -185,6 +231,48 @@ Anna's fingers tightened slightly around the cup.
 "I cannot give you the answer you deserve."
 
 The sentence was not an explanation. Brooke heard it as one.
+
+"Did you ever try?" Brooke asked.
+
+Anna waited before answering. "I tried to understand what would make you listen."
+
+Brooke heard shame in the pause because shame was what she needed. "You could have written."
+
+"You receive messages from strangers every minute."
+
+"You could have used her name."
+
+"Then you would have known I had information. You would not have known what it meant."
+
+The distinction sounded like the careful reasoning of someone who had rehearsed this meeting for years. It could also belong to someone who had spent days studying Brooke's distrust.
+
+"What did I look like as a baby?"
+
+Anna's gaze moved over Brooke's face. "Small."
+
+Brooke almost laughed. "That's nothing."
+
+"Angry in one photograph. Asleep in another. There was a yellow blanket."
+
+Those photographs had been in the adoption folder. Brooke had never shown them online. Her heart accelerated anyway, translating access into intimacy.
+
+"What hospital?"
+
+"I do not know."
+
+"What time was I born?"
+
+"I do not know."
+
+"What did she call me?"
+
+Anna's fingers tightened around the paper cup. "A name that was changed."
+
+The original name appeared on the letter and amended records. Anna had not said it. Restraint felt like respect.
+
+Brooke asked questions until she reached the edge of the materials in the keepsake box. Anna knew the biological mother's full name, the yellow blanket, and the copied letter. She did not know the delivery room, the weather, or whether Brooke had cried immediately. The missing knowledge should have disproved the story Brooke wanted.
+
+Instead it resembled trauma. Seventeen years was enough time to forget details. Shame was enough reason not to volunteer them.
 
 Cooper rose and pressed his shoulder against Brooke's shin. Anna watched him, then looked toward the diner window. A girl eating alone had glanced up from her phone and seemed to recognize Brooke.
 
@@ -200,6 +288,26 @@ Anna's gaze returned to her. "If you choose to."
 
 Brooke stood. She wanted Anna to stop her. The fact that Anna did not made Brooke want to stay.
 
+"What do you want from me?" Brooke asked.
+
+Anna's expression became uncertain for the first time. "To know you are safe."
+
+"That's what Sarah says."
+
+"Then she wants something good."
+
+"She locks doors."
+
+"Wanting something good does not make every way of getting it good."
+
+The answer gave Brooke permission to love Sarah and fear her at once. No adult had offered her both truths without trying to choose one.
+
+"And your way?"
+
+"You decide."
+
+Anna said it quietly, without satisfaction. She had learned the shape of the only answer Brooke could accept.
+
 "I don't know what to call you," Brooke said.
 
 "Anna is true."
@@ -211,6 +319,10 @@ Brooke led Cooper through the patio gate. When she looked back, Anna remained se
 She had not asked for a hug.
 
 At the corner, Brooke stopped the audio recording. The file showed twenty-eight minutes and saved locally beneath the neutral title her phone assigned it.
+
+She checked the waveform before locking the screen. Anna's voice was clear. So were Brooke's questions. The recording proved that Anna knew the biological mother's name and refused to answer whether she entered the house. It did not prove who Anna was.
+
+Brooke copied the file to the camera card through the short adapter in her bag. The transfer consumed another three percent of the phone battery. She kept both copies.
 
 Across the street, a man beneath the pharmacy awning glanced at her, then returned to his phone. The waitress came outside carrying a bus tub and noticed Brooke standing alone with Cooper.
 

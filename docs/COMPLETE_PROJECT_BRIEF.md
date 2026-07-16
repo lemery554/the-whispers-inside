@@ -1,12 +1,12 @@
-# THE WAY THEY LOVE
+# THE SHAPE LOVE TAKES
 
 ## Complete Novel Development Brief
 
-> Purpose: This document consolidates the current concept, canon decisions, rejected directions, characters, infection rules, structure, themes, ending, and repository direction for developing *The Way They Love* as a novel.
+> Purpose: This document consolidates the current concept, canon decisions, rejected directions, characters, infection rules, structure, themes, ending, and repository direction for developing *The Shape Love Takes* as a novel.
 
 ## 1. Project overview
 
-**Title:** *The Way They Love*
+**Title:** *The Shape Love Takes*
 
 **Format:** Novel first, with possible later screenplay adaptation
 
